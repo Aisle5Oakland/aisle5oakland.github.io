@@ -5,10 +5,6 @@ highlighter:      rouge
 permalink:        pretty
 relative_permalinks: false
 
-# Setup
-title:            Project Name
-description:      'This is where you put your project short description'
-
 #Github Pages site and baseurl, submodule name
 url:                https://aisle5oakland.github.io
 baseurl:            /
@@ -24,10 +20,18 @@ layouts_dir:  ./_layouts
 data_dir:     ./_data
 includes_dir: ./_includes
 
+# Collections
+collections:
+  beermenu:
+    output: true
+  nav_links:
+    output: true
+
+
+
 # Front Matter defaults
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts" 
     values:

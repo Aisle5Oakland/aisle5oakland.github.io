@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+      <div>
+        {% for beer in site.beermenu %}
+		<div class="row">
+            <div class="col-sm-2">			
+			<img src={{site.url}}{{site.baseurl}}/public/beer-images/glass_image/{{ beer.glass_image }}>
+            </div>
+            <div class="col-sm-3">			
+			<img src={{site.url}}{{site.baseurl}}/public/beer-images/label_image/{{ beer.label_image }}>
+            </div>
+            <div class="col-sm-4">
+			{{ beer.brand }}
+			{{ beer.location }}			
+            </div>
+            <div class="col-sm-3">
+			{{ beer.alcohol }}
+			{{ beer.ibu }}
+            </div>
+		</div>
+		{% endfor %}
+      </div>

@@ -1,4 +1,4 @@
 ---
-layout: page
+layout: beer-menu
 title: Beer
 ---

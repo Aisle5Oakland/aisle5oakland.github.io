@@ -5,9 +5,19 @@
 		<!--Hide top spacing on phones-->
 		<div class="container-padding hidden-xs">
 	    </div>
-		<div class="row">
+        <div class="row">
+            <div class="col-sm-6">
+            </div>
+            <div class="col-sm-6 pull-left">
                {% include topbar.html %}
+            </div>
 		</div>
+        <div class="row">
+            <div class="col-sm-12 pull-left">
+                  {{ content }}
+            </div>
+		</div>
+
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <!-- Bootstrap Override CSS -->  
