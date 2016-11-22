@@ -16,6 +16,33 @@ body {
 padding-top: 4rem;
 
 }
+/* center content within div tag */
+.img-responsive {
+    margin: 0 auto;
+}
+/* beer menu fonts 8c8b8b*/
+hr.style2 {
+	border-top: 3px double #8c8b8b;
+}
+
+.brand-name {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.brewery-location {
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+.beer-type {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.beer-qualities {
+  font-size: 2rem;
+  font-weight: bold;
+}
 
 
 @media (min-width: 768px) {

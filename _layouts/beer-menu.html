@@ -5,19 +5,65 @@ layout: default
       <div>
         {% for beer in site.beermenu %}
 		<div class="row">
+		    <div class="col-sm-12">	
+				<hr class="style2">
+            </div>
+		</div>
+		<div class="row">
             <div class="col-sm-2">			
-			<img src={{site.url}}{{site.baseurl}}/public/beer-images/glass_image/{{ beer.glass_image }}>
-            </div>
-            <div class="col-sm-3">			
-			<img src={{site.url}}{{site.baseurl}}/public/beer-images/label_image/{{ beer.label_image }}>
-            </div>
-            <div class="col-sm-4">
-			{{ beer.brand }}
-			{{ beer.location }}			
+				<img class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/glass_image/{{ beer.glass_image }}>
             </div>
             <div class="col-sm-3">
-			{{ beer.alcohol }}
-			{{ beer.ibu }}
+				<img class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/label_image/{{beer.label_image }}>
+            </div>
+            <div class="col-sm-4">
+			<table style="width:100%">
+				<tr>
+					<td class="brand-name">{{ beer.brand }}</td>
+				</tr>
+				<tr>
+					<td class="brewery-location">{{ beer.location }}</td>
+				</tr>
+				<tr>
+					<td>
+					{% for profile in beer.flavor_profile %}
+						{% if profile.is_bitter == "True" %}
+						<img src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/bitter.png>
+						{% endif %}
+						{% if profile.is_strong == "True" %}
+						<img src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/strong.png>
+						{% endif %}
+						{% if profile.is_sweet == "True" %}
+						<img src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/sweet.png>
+						{% endif %}
+						{% if profile.is_balanced == "True" %}
+						<img src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/balanced.png>
+						{% endif %}
+						{% if profile.is_sour_citrus == "True" %}
+						<img src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/sour_citrus.png>
+						{% endif %}
+						{% if profile.is_light_crisp == "True" %}
+						<img src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/light_crisp.png>
+						{% endif %}
+					{% endfor %}
+					</td>
+				</tr>
+			</table>
+						
+            </div>
+            <div class="col-sm-3">
+			<table style="width:100%">
+				<tr>
+					<td class="beer-type">{{ beer.type }}</td>
+				</tr>
+				<tr>
+					<td class="beer-qualities">ABU: {{ beer.alcohol }}</td>
+				</tr>
+				<tr>
+					<td class="beer-qualities"> IBU: {{ beer.ibu }}</td>
+				</tr>
+			</table>
+		
             </div>
 		</div>
 		{% endfor %}

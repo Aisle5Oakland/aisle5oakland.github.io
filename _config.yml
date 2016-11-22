@@ -5,11 +5,11 @@ highlighter:      rouge
 permalink:        pretty
 relative_permalinks: false
 
-#Github Pages site and baseurl, submodule name
+#Github Pages site and baseurl, uncomment this when deploying code to github
 url:                https://aisle5oakland.github.io
 baseurl:            /
 
-#Local site
+#Local site, uncomment this for local testing
 url:                #http://localhost:4000
 
 # Where things are - include submodule in path
