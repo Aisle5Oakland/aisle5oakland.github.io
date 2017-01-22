@@ -1,9 +1,18 @@
 ---
-layout: default
+layout: display
 ---
+		{% assign start_index  = {{page.start_index}} %}
+		{% assign end_index  = {{page.end_index}} %}
+        <style type="text/css">
+         div.screen-background {
+             background-image: url("{{site.url}}{{site.baseurl}}/public/images/{{page.background_file}}");
+			 background-repeat: repeat;
+          }
+		</style>
 
-      <div>
+		<div class="screen-background">	
         {% for beer in site.beermenu %}
+		{% if forloop.index >= start_index and forloop.index <= end_index %}
 			<div class="row">
 				<div class="col-sm-12">	
 					<hr class="style2">
@@ -66,5 +75,6 @@ layout: default
 		
 				</div>
 		</div>
+		{% endif %}
 		{% endfor %}
       </div>
