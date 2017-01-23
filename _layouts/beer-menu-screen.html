@@ -1,16 +1,19 @@
 ---
-layout: display
+
 ---
+	<!DOCTYPE html>
+	<html lang="en-us">
+		{% include head.html %}
 		{% assign start_index  = {{page.start_index}} %}
 		{% assign end_index  = {{page.end_index}} %}
         <style type="text/css">
-         div.screen-background {
+         body.screen-background {
              background-image: url("{{site.url}}{{site.baseurl}}/public/images/{{page.background_file}}");
 			 background-repeat: repeat;
           }
 		</style>
-
-		<div class="screen-background">	
+		<body class="screen-background">
+		<div>	
         {% for beer in site.beermenu %}
 		{% if forloop.index >= start_index and forloop.index <= end_index %}
 			<div class="row">
@@ -28,10 +31,10 @@ layout: display
 				<div class="col-sm-4">
 					<table style="width:100%">
 						<tr>
-							<td class="brand-name">{{ beer.brand }}</td>
+							<td class="brand-name" style="color:{{page.font_color}};">{{ beer.brand }}</td>
 						</tr>
 						<tr>
-							<td class="brewery-location">{{ beer.location }}</td>
+							<td class="brewery-location" style="color:{{page.font_color}};">{{ beer.location }}</td>
 						</tr>
 						<tr>
 							<td>
@@ -63,13 +66,13 @@ layout: display
 				<div class="col-sm-3">
 					<table style="width:100%">
 						<tr>
-							<td class="beer-type">{{ beer.type }}</td>
+							<td class="beer-type" style="color:{{page.font_color}};">{{ beer.type }}</td>
 						</tr>
 						<tr>
-							<td class="beer-qualities">ABU: {{ beer.alcohol }}</td>
+							<td class="beer-qualities" style="color:{{page.font_color}};">ABU: {{ beer.alcohol }}</td>
 						</tr>
 						<tr>
-							<td class="beer-qualities"> IBU: {{ beer.ibu }}</td>
+							<td class="beer-qualities" style="color:{{page.font_color}};"> IBU: {{ beer.ibu }}</td>
 						</tr>
 					</table>
 		
@@ -78,3 +81,5 @@ layout: display
 		{% endif %}
 		{% endfor %}
       </div>
+	</body>
+	</html>
