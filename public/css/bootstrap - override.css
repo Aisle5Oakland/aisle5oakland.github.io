@@ -32,21 +32,21 @@ hr.style2 {
 
 .brand-name {
   font-size: 3rem;
-  font-weight: bold;
+  font-weight: normal;
 }
 .brewery-location {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: normal;
 }
 
 .beer-type {
   font-size: 2rem;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .beer-qualities {
   font-size: 2rem;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 
