@@ -10,11 +10,18 @@ alcohol: "4.8%"
 ibu: "30"
 flavor_profile:
  - is_bitter: "False"
- - is_strong: "False"
+ - is_strong: "True"
  - is_sweet: "False"
- - is_balanced: "True"
+ - is_balanced: "False"
  - is_sour_citrus: "False"
- - is_light_crisp: "True"
+ - is_light_crisp: "False"
+ - is_creamy: "False"
+ - is_hoppy: "True"
+ - is_extra_hoppy: "False"
+ - is_light: "false"
+ - is_malty: "false"
+ - is_sour: "false"
+
 ---
 
 This is a description for Anchor Steam Lager

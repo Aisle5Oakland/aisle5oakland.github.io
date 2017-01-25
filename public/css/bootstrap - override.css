@@ -25,11 +25,22 @@ hr.style2 {
 	border-top: 3px double #8c8b8b;
 }
 
-.screen-background {
-	
-	
-}
+/* beer menu image sizes*/
+.flavor_image {
+	width: 100px; 
+	height:100px;
+	}
 
+.glass_image {
+	width: 75px; 
+	height:100px;
+	}
+
+.label_image {
+	width: 150px; 
+	height:100px;
+	}
+	
 .brand-name {
   font-size: 3rem;
   font-weight: normal;
