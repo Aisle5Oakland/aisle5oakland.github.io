@@ -13,25 +13,25 @@
           }
 		</style>
 		<body class="screen-background">
-		<div>	
+		<div class="container-fluid">	
         {% for beer in site.beermenu %}
 		{% if forloop.index >= start_index and forloop.index <= end_index %}
 			<div class="row">
-				<div class="col-sm-12">	
-					<hr class="style2">
+				<div class="col-lg-12">	
+					<hr class="style2"></hr>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-sm-1">			
+				<div class="col-lg-1">			
 					<img class="glass_image" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/glass_image/{{ beer.glass_image }}>
 				</div>
-				<div class="col-sm-2">
+				<div class="col-lg-2">
 					<img class="label_image" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/label_image/{{beer.label_image }}>
 				</div>
-				<div class="col-sm-2">
+				<div class="col-lg-2">
 					<p class="brand-name" style="color:{{page.font_color}}; vertical-align: middle; line-height: 90px;">{{ beer.brand }}</p>				
 				</div>
-				<div class="col-sm-3">
+				<div class="col-lg-3">
 					<table style="width:100%">
 						<tr>
 							<td>
@@ -54,7 +54,6 @@
 									{% if profile.is_light_crisp == "True" %}
 										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/crisp.png>
 									{% endif %}
-
 									{% if profile.is_creamy == "True" %}
 										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/creamy.png>
 									{% endif %}
@@ -78,7 +77,7 @@
 						</tr>
 					</table>						
 				</div>
-				<div class="col-sm-2">
+				<div class="col-lg-2">
 					<table style="width:100%">
 						<tr>
 							<td class="brewery-location" style="color:{{page.font_color}};">{{ beer.location }}</td>
@@ -88,14 +87,14 @@
 						</tr>
 					</table>	
 				</div>
-				<div class="col-sm-1">
+				<div class="col-lg-1">
 					<p class="beer-qualities" style="color:{{page.font_color}};">ABV: {{ beer.alcohol }}</p>
 				</div>
-				<div class="col-sm-1">
+				<div class="col-lg-1">
 					<p class="beer-qualities" style="color:{{page.font_color}};"> IBU: {{ beer.ibu }}</td>
 				</div>
 		{% endif %}
-		{% endfor %}
       </div>
+		{% endfor %}
 	</body>
 	</html>
