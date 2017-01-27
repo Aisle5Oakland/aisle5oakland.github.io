@@ -14,7 +14,7 @@ body {
 
 .container-padding {
 
-padding-top: 4rem;
+padding-top: 0rem;
 
 }
 /* center content within div tag */
@@ -33,13 +33,13 @@ hr.style2 {
 	}
 
 .glass_image {
-	width: 60px; 
-	height:80px;
+	width: 50px; 
+	height:60px;
 	}
 
 .label_image {
-	width: 120px; 
-	height:80px;
+	width: 100px; 
+	height:60px;
 	}
 	
 .brand-name {
