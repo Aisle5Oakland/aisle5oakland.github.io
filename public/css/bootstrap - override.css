@@ -3,6 +3,10 @@
 	Bootstrap override file
 
 */
+* {
+  margin: 0;
+  padding: 0;
+}
 
 body {
 	font-size: 18px;
@@ -59,33 +63,13 @@ hr.style2 {
 
 hr { 
     display: block;
-    margin-top: 0.25em;
-    margin-bottom: 0.25em;
+    margin-top: 0em;
+    margin-bottom: 1em;
     margin-left: auto;
     margin-right: auto;
     border-style: inset;
     border-width: 1px;
 }
-
-@media (min-width: 768px) {
-.navbar-collapse {
-    height: auto;
-    border-top: 0;
-    box-shadow: none;
-    max-height: none;
-    padding-left:0;
-    padding-right:0;
-}
-.navbar-collapse.collapse {
-    display: block !important;
-    width: auto !important;
-    padding-bottom: 0;
-    overflow: visible !important;
-}
-.navbar-collapse.in {
-    overflow-x: visible;
-}
-
 
 
 
