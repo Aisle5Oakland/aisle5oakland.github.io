@@ -6,7 +6,7 @@ location: "San Leandro, California"
 beer_category: "IPA"
 glass_image: "amber_beer.png"
 label_image: "drakes.jpg"
-alcohol: "6.75%"
+alcohol: "6.8%"
 ibu: "75"
 flavor_profile:
  - is_bitter: "True"
