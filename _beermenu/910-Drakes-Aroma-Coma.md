@@ -1,9 +1,7 @@
 ---
-title: "DrakesAromaComa"
 brand: "Drakes Aroma Coma IPA"
 type: "IPA"
 location: "San Leandro, California"
-beer_category: "IPA"
 glass_image: "pilsner.png"
 label_image: "drakes.jpg"
 alcohol: "6.8%"

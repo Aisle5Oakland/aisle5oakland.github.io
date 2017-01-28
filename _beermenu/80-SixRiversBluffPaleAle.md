@@ -1,9 +1,7 @@
 ---
-title: "SixRiversBluffCreekPaleAle"
 brand: "Six Rivers Pale Ale"
 type: "Pale Ale"
 location: "McKinleyville, California"
-beer_category: "Pale Ale"
 glass_image: "pale-ale.png"
 label_image: "six-rivers-brewery.png"
 alcohol: "5.5%"

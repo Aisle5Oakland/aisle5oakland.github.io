@@ -1,9 +1,7 @@
 ---
-title: "CaliCraftKolsch"
 brand: "Calicraft Kolsch"
 type: "Kolsch"
 location: "Walnut Creek, California"
-beer_category: "Kolsch"
 glass_image: "pale-ale.png"
 label_image: "calicoast.png"
 alcohol: "4.8%"

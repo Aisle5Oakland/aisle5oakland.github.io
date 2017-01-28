@@ -1,9 +1,7 @@
 ---
-title: "PetalumaHillsRedTagAle"
 brand: "Petaluma Hills Red Tag Ale"
 type: "Irish Red Ale"
 location: "Petaluma, California"
-beer_category: "Irish Red Ale"
 glass_image: "goldenale.png"
 label_image: "petaluma-hills.jpg"
 alcohol: "5.4%"

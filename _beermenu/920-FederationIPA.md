@@ -1,9 +1,7 @@
 ---
-title: "FederationInTheWeedsIPA"
 brand: "Federation In the Weeds IPA"
 type: "IPA"
 location: "Oakland, California"
-beer_category: "IPA"
 glass_image: "pilsner.png"
 label_image: "federation.png"
 alcohol: "6.0%"

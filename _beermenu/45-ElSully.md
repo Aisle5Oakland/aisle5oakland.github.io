@@ -1,9 +1,7 @@
 ---
-title: "El Sully"
 brand: "21st Amendment El Sully"
 type: "Mexican Style Lager"
 location: "San Leandro, California"
-beer_category: "Mexican Style Lager"
 glass_image: "lager.png"
 label_image: "el-sully.png"
 alcohol: "4.8%"

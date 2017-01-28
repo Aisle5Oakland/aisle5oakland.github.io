@@ -1,9 +1,7 @@
 ---
-title: "SierraNevadaKellerweis"
 brand: "Sierra Nevada Kellerweis"
 type: "Kolsch"
 location: "Chico, California"
-beer_category: "Bavarian Style Wheat"
 glass_image: "pale-ale.png"
 label_image: "sierra-nevada.jpg"
 alcohol: "4.8%"

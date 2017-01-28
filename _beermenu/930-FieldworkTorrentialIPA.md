@@ -1,9 +1,7 @@
 ---
-title: "FieldworkTorrentialIPA"
 brand: "Fieldwork Torrential IPA"
 type: "Double IPA"
 location: "Berkeley, California"
-beer_category: "Double IPA"
 glass_image: "pilsner.png"
 label_image: "fieldwork.jpg"
 alcohol: "8.8%"
