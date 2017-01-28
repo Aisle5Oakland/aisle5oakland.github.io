@@ -48,18 +48,18 @@ hr.style2 {
   vertical-align: middle;
 }
 .brewery-location {
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: normal;
   font-style: italic;
 }
 
 .beer-type {
-  font-size: 2rem;
-  font-weight: normal;
+  font-size: 2.5rem;
+  font-weight: bold;
 }
 
 .beer-qualities {
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: normal;
   vertical-align: middle;
 }
