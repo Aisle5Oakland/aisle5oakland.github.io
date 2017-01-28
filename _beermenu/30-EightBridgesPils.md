@@ -1,13 +1,13 @@
 ---
-title: "El Sully"
-brand: "21st Amendment El Sully"
-type: "Mexican Style Lager"
-location: "San Leandro, California"
-beer_category: "Mexican Style Lager"
+title: "EightBridgesPils"
+brand: "Golden Nektar Pilsner"
+type: "German Pilsner"
+location: "Livermore, California"
+beer_category: "Bavarian Pilsener"
 glass_image: "light_beer.png"
-label_image: "el-sully.png"
-alcohol: "4.8%"
-ibu: "19"
+label_image: "eightbridges.png"
+alcohol: "4.9%"
+ibu: "30"
 flavor_profile:
  - is_bitter: "False"
  - is_strong: "False"
@@ -22,6 +22,3 @@ flavor_profile:
  - is_sour: "False"
 
 ---
-
-This is a description for El Sully
-

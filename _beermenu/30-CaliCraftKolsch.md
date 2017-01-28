@@ -1,19 +1,18 @@
 ---
-title: TrumerPils
-brand: "Trumer Pilsener"
-type: "German Pilsner"
-location: "Berkeley, California"
-beer_category: "German Pilsener"
+title: "CaliCraftKolsch"
+brand: "Calicraft Kolsch"
+type: "Kolsch"
+location: "Walnut Creek, California"
+beer_category: "Kolsch"
 glass_image: "light_beer.png"
-label_image: "trumer_pils.png"
+label_image: "calicoast.png"
 alcohol: "4.8%"
-ibu: "30"
+ibu: "15"
 flavor_profile:
  - is_bitter: "False"
  - is_strong: "False"
- - is_sweet: "False"
+ - is_sweet: "True"
  - is_balanced: "False"
- - is_sour_citrus: "False"
  - is_light_crisp: "True"
  - is_creamy: "False"
  - is_hoppy: "False"
@@ -23,5 +22,3 @@ flavor_profile:
  - is_sour: "False"
 
 ---
-
-This is a description for Trumer Pilsner
