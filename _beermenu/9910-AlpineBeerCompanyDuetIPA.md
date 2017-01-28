@@ -1,5 +1,5 @@
 ---
-brand: "Alpine Beer Company Duet IPA"
+brand: "Alpine Beer Company Duet"
 type: "IPA"
 location: "Alpine, California"
 beer_color: "pilsner.png"
