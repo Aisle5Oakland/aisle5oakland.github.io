@@ -1,6 +1,6 @@
 ---
 title: "EightBridgesPils"
-brand: "Golden Nektar Pilsner"
+brand: "Eight Bridges Golden Pilsner"
 type: "German Pilsner"
 location: "Livermore, California"
 beer_category: "Bavarian Pilsener"
