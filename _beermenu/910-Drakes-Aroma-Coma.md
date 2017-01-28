@@ -2,8 +2,8 @@
 brand: "Drakes Aroma Coma IPA"
 type: "IPA"
 location: "San Leandro, California"
-glass_image: "pilsner.png"
-label_image: "drakes.jpg"
+beer_color: "pilsner.png"
+brewery_brand: "drakes.jpg"
 alcohol: "6.8%"
 ibu: "75"
 flavor_profile:
@@ -20,4 +20,4 @@ flavor_profile:
  - is_sour: " "
 ---
 
-This is a description for Anchor Steam Lager
+This is a description for Drakes Aroma Coma

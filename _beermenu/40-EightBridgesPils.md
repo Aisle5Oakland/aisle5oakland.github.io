@@ -2,8 +2,8 @@
 brand: "Eight Bridges Golden Pilsner"
 type: "German Pilsner"
 location: "Livermore, California"
-glass_image: "pilsner.png"
-label_image: "eightbridges.png"
+beer_color: "pilsner.png"
+brewery_brand: "eightbridges.png"
 alcohol: "4.9%"
 ibu: "30"
 flavor_profile:
@@ -20,3 +20,5 @@ flavor_profile:
  - is_sour: "False"
 
 ---
+
+Eight Bridges Golden Pilsner

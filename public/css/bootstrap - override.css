@@ -23,13 +23,13 @@ hr.style2 {
 
 /* beer menu image sizes*/
 
-.glass_image {
+.beer_color  {
 	width: 94px; 
 	height:94px;
 	text-align: right;
 }
 
-.label_image {
+.brewery_brand {
 	width: 135px; 
 	height:94px;
 	text-align: left;

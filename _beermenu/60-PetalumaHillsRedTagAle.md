@@ -2,8 +2,8 @@
 brand: "Petaluma Hills Red Tag Ale"
 type: "Irish Red Ale"
 location: "Petaluma, California"
-glass_image: "goldenale.png"
-label_image: "petaluma-hills.jpg"
+beer_color: "pale-ale.png"
+brewery_brand: "petaluma-hills.jpg"
 alcohol: "5.4%"
 ibu: "21"
 flavor_profile:
@@ -20,3 +20,5 @@ flavor_profile:
  - is_sour: " "
 
 ---
+
+This is the description for Petaluma Hills Red Tag Ale

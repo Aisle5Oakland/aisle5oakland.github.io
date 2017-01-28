@@ -2,8 +2,8 @@
 brand: "Sierra Nevada Kellerweis"
 type: "Kolsch"
 location: "Chico, California"
-glass_image: "pale-ale.png"
-label_image: "sierra-nevada.jpg"
+beer_color: "pale-ale.png"
+brewery_brand: "sierra-nevada.jpg"
 alcohol: "4.8%"
 ibu: "15"
 flavor_profile:
@@ -20,3 +20,4 @@ flavor_profile:
  - is_sour: "False"
 
 ---
+This is a description for Sierra Nevada Kellerweis

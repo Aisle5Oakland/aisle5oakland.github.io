@@ -2,8 +2,8 @@
 brand: "Fieldwork Torrential IPA"
 type: "Double IPA"
 location: "Berkeley, California"
-glass_image: "pilsner.png"
-label_image: "fieldwork.jpg"
+beer_color: "pilsner.png"
+brewery_brand: "fieldwork.jpg"
 alcohol: "8.8%"
 ibu: "NA"
 flavor_profile:
@@ -20,4 +20,4 @@ flavor_profile:
  - is_sour: " "
 ---
 
-This is a description for Anchor Steam Lager
+This is a description for Fieldwork Torrential IPA

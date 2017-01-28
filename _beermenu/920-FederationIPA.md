@@ -2,8 +2,8 @@
 brand: "Federation In the Weeds IPA"
 type: "IPA"
 location: "Oakland, California"
-glass_image: "pilsner.png"
-label_image: "federation.png"
+beer_color: "pilsner.png"
+brewery_brand: "federation.png"
 alcohol: "6.0%"
 ibu: "65"
 flavor_profile:

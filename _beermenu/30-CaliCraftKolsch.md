@@ -2,8 +2,8 @@
 brand: "Calicraft Kolsch"
 type: "Kolsch"
 location: "Walnut Creek, California"
-glass_image: "pale-ale.png"
-label_image: "calicoast.png"
+beer_color: "pale-ale.png"
+brewery_brand: "calicoast.png"
 alcohol: "4.8%"
 ibu: "15"
 flavor_profile:
