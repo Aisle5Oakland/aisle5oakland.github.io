@@ -58,6 +58,7 @@ hr.style2 {
 .beer-qualities {
   font-size: 2rem;
   font-weight: normal;
+  vertical-align: middle;
 }
 
 hr { 
