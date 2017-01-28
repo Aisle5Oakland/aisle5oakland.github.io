@@ -7,7 +7,7 @@ beer_category: "Double IPA"
 glass_image: "amber_beer.png"
 label_image: "fieldwork.jpg"
 alcohol: "8.8%"
-ibu: " "
+ibu: "NA"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: "True "
