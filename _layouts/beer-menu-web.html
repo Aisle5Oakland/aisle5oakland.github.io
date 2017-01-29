@@ -1,0 +1,72 @@
+---
+layout: default
+---
+<style type="text/css">
+   div.screen-background {
+   background-image: url("{{site.url}}{{site.baseurl}}/public/images/{{page.background_file}}");
+   background-repeat: repeat;
+   }
+</style>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-lg-4">
+			<p> </p>
+		</div>
+		<div class="col-lg-4 screen-background">
+			<table style="margin: auto;">
+				<tr><td style="height: 50px;"/></tr>
+			{% for beer in site.beermenu %}
+				<tr>
+					<td>
+						<p class="brand-name-web" style="color:{{page.font_color}}; vertical-align: middle;">{{ beer.brand }}</p>
+					</td>
+					<td>
+					{% for profile in beer.flavor_profile %}
+					{% if profile.is_bitter == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/bitter.png>
+					{% endif %}
+					{% if profile.is_strong == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/strong.png>
+					{% endif %}
+					{% if profile.is_sweet == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sweet.png>
+					{% endif %}
+					{% if profile.is_balanced == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/balanced.png>
+					{% endif %}
+					{% if profile.is_sour_citrus == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sour_citrus.png>
+					{% endif %}
+					{% if profile.is_light_crisp == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/crisp.png>
+					{% endif %}
+					{% if profile.is_creamy == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/creamy.png>
+					{% endif %}
+					{% if profile.is_hoppy == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/hopps.png>
+					{% endif %}
+					{% if profile.is_extra_hoppy == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/hoppsx.png>
+					{% endif %}
+					{% if profile.is_light == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/light.png>
+					{% endif %}
+					{% if profile.is_malty == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/malt.png>
+					{% endif %}
+					{% if profile.is_sour == "True" %}
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sour.png>
+					{% endif %}
+					{% endfor %}
+					</td>
+				</tr>
+				{% endfor %}
+				<tr><td style="height: 50px;"/></tr>
+			</table>
+		</div>
+		<div class="col-lg-4">
+			<p> </p>
+		</div>
+	</div>
+</div>
