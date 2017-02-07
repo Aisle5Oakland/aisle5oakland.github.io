@@ -4,25 +4,55 @@
 
 */
 * {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 body {
 	font-size: 18px;
 }
+.carousel-caption {
+width: 550px;
+left: 33%;
+top: 50% !important;
+transform: translateY(-50%);
+text-align: left;
+bottom: initial;
+}
+/* use to remove column padding */
+.no-padding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
 
 /* center content within div tag */
 .img-responsive {
     margin: 0 auto;
+	padding:0;
 }
+/* footer heading*/
+.footer-heading {
+  font-size: 1.75rem;
+  color:#00CED1;
+}
+
+/* footer heading*/
+.footer-line {
+  font-size: 1.5rem;
+  color: white;
+}
+
 /* beer menu fonts 8c8b8b*/
 hr.style2 {
 	border-top: 3px double #8c8b8b;
 }
+/* main page image sizes*/
+.web-page-image {
+	width: 100%; 
+	height:auto;	
+}
 
 /* beer menu image sizes*/
-
 .beer_color  {
 	padding-left: 10px;
 	width: 94px; 
