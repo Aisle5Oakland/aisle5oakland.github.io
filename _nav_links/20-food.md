@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: food-layout
 title: Food
 ---
