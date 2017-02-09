@@ -5,7 +5,7 @@ location: "Berkeley, California"
 beer_color: "pale-ale.png"
 brewery_brand: "fieldwork.jpg"
 alcohol: "5.0%"
-ibu: " "
+ibu: "NA"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

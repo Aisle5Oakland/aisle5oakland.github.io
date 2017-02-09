@@ -5,7 +5,7 @@ location: "Oakland, California"
 beer_color: "goldenale.png"
 brewery_brand: "logo-luckydevil.png"
 alcohol: "7.0%"
-ibu: "na"
+ibu: "NA"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
