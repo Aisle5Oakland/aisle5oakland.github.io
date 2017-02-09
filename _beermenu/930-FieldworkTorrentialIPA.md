@@ -8,7 +8,7 @@ alcohol: "8.8%"
 ibu: "NA"
 flavor_profile:
  - is_bitter: " "
- - is_strong: "True "
+ - is_strong: "True"
  - is_sweet: " "
  - is_balanced: " "
  - is_light_crisp: " "
