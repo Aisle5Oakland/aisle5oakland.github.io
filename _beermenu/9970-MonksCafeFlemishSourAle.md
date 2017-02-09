@@ -12,11 +12,11 @@ flavor_profile:
  - is_sweet: " "
  - is_balanced: "True"
  - is_light_crisp: " "
- - is_creamy: ""
+ - is_creamy: " "
  - is_hoppy: " "
  - is_extra_hoppy: " "
  - is_light: " "
- - is_malty: " "
+ - is_malty: "True"
  - is_sour: "True"
 ---
 

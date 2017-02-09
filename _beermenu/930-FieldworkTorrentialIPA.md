@@ -7,7 +7,7 @@ brewery_brand: "fieldwork.jpg"
 alcohol: "8.8%"
 ibu: "NA"
 flavor_profile:
- - is_bitter: "True"
+ - is_bitter: " "
  - is_strong: "True "
  - is_sweet: " "
  - is_balanced: " "
@@ -16,7 +16,7 @@ flavor_profile:
  - is_hoppy: " "
  - is_extra_hoppy: "True"
  - is_light: " "
- - is_malty: " "
+ - is_malty: "True"
  - is_sour: " "
 ---
 

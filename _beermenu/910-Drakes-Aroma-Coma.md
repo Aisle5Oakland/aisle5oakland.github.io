@@ -10,14 +10,14 @@ flavor_profile:
  - is_bitter: ""
  - is_strong: "True "
  - is_sweet: " "
- - is_balanced: "True"
+ - is_balanced: " "
  - is_light_crisp: " "
  - is_creamy: " "
- - is_hoppy: " "
- - is_extra_hoppy: "True"
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
  - is_light: " "
  - is_malty: " "
- - is_sour: " "
+ - is_sour: "True"
 ---
 
 This is a description for Drakes Aroma Coma

@@ -10,14 +10,14 @@ flavor_profile:
  - is_bitter: " "
  - is_strong: " "
  - is_sweet: " "
- - is_balanced: "True"
+ - is_balanced: " "
  - is_light_crisp: "True"
- - is_creamy: "True"
+ - is_creamy: " "
  - is_hoppy: " "
  - is_extra_hoppy: ""
  - is_light: " "
  - is_malty: " "
- - is_sour: " "
+ - is_sour: "True"
 ---
 
 This is a description for Fieldwork Farmhouse Saison

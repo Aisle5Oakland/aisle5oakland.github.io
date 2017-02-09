@@ -17,7 +17,7 @@ flavor_profile:
  - is_extra_hoppy: " "
  - is_light: " "
  - is_malty: " "
- - is_sour: " "
+ - is_sour: "True"
 ---
 
 This is a description for Sonoma Cider Pear Cider

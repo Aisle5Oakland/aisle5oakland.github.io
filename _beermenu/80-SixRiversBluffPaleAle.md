@@ -13,11 +13,11 @@ flavor_profile:
  - is_balanced: "True"
  - is_light_crisp: "True"
  - is_creamy: " "
- - is_hoppy: "True"
+ - is_hoppy: " "
  - is_extra_hoppy: " "
  - is_light: " "
  - is_malty: " "
- - is_sour: " "
+ - is_sour: "True"
 ---
 
 This is a description for Six Rivers Pale Ale
