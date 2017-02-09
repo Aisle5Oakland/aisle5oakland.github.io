@@ -17,6 +17,6 @@ flavor_profile:
  - is_extra_hoppy: " "
  - is_light: "True"
  - is_malty: " "
- - is_sour: "True"
+ - is_sour: " "
 
 ---
