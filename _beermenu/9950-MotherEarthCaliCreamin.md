@@ -2,7 +2,7 @@
 brand: "Mother Earth Cali Creamin' "
 type: "Vanilla Cream Ale"
 location: "Kinston, North Carolina"
-beer_color: "stout.png"
+beer_color: "pale-ale.png"
 brewery_brand: "motherearth.png"
 alcohol: "5.2%"
 ibu: "21"

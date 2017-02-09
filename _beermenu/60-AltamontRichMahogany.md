@@ -2,7 +2,7 @@
 brand: "Altamont Rich Mahogany Ale"
 type: "Red Ale"
 location: "Livermore, California"
-beer_color: "pale-ale.png"
+beer_color: "goldenale.png"
 brewery_brand: "altamonth-rich-mahogany.jpg"
 alcohol: "6.5%"
 ibu: "50"
