@@ -18,5 +18,4 @@ flavor_profile:
  - is_light: "True"
  - is_malty: " "
  - is_sour: " "
-
 ---

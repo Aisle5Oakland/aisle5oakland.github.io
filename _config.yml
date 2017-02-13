@@ -24,6 +24,8 @@ includes_dir: ./_includes
 collections:
   beermenu:
     output: true
+  foodmenu:
+    output: true
   nav_links:
     output: true
 

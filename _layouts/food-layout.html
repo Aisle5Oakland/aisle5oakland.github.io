@@ -1,65 +1,283 @@
 ---
 layout: default
 ---
-	<div class="container-fluid no-padding">
-			<div class="row">
-				<div class="col-lg-12">	
-					<img class="img-responsive center-block" src={{site.url}}{{site.baseurl}}/public/images/splash-screen-home.png>
-				</div>
-				<div class="col-lg-12">
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12">	
-					<img class="img-responsive center-block" style="padding-top:100px; padding-bottom:50px;" src={{site.url}}{{site.baseurl}}/public/images/logo-v1.png>
-				</div>
-				<div class="col-lg-12" style="text-align:center;">
-						<h1 style="color:black;">Oakland Pub and Grill</h1>
-						<h3 style="color:black;">AISLE5 is a new craft beer and eatery located</h3>
-						<h3 style="color:black;">in the historic Grand Lake district in Oakland California</h3>
-				</div>
-				<div class="col-lg-12" style="text-align:center; padding-top:50px; padding-bottom:100px; ">
-					<table style="margin: 0 auto; border-spacing: 25px; border-collapse: separate;">
-						<tr>
-							<td>
-								<img class="img-responsive center-block" src={{site.url}}{{site.baseurl}}/public/images/social/facebook-icon.png>
-							</td>
-							<td>
-								<img class="img-responsive center-block" src={{site.url}}{{site.baseurl}}/public/images/social/instagram-icon.png>
-							</td>
-							<td>
-								<img class="img-responsive center-block" src={{site.url}}{{site.baseurl}}/public/images/social/twitter-icon.png>
-							</td>							
-						</tr>
-					</table>
-				</div>
-			</div>
-			<div class="row" style="background:#292C33;">
-				<div class="col-lg-6" style="text-align:center; margin-bottom: 100px;">	
-						<h1 style="color:white;">20 Beers on Tap</h1>
-						<h3 style="color:white;">Featuring 20 taps of local, national, and imported</h3>
-						<h3 style="color:white;">beers, ciders, and sours</h3>
-				</div>
-				<div class="col-lg-6 no-padding">	
-				<img class="img-responsive" class="center-block" src={{site.url}}{{site.baseurl}}/public/images/taps-home.png>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12" style="background:#292C33;">	
-					<img class="img-responsive" class="center-block" src={{site.url}}{{site.baseurl}}/public/images/wood-oven-grill-home.png>
-					<div class="carousel-caption" style="text-align:center; margin-bottom: 200px;">
-							<h1 style="color:white;">Wood Oven and Grill</h1>
-							<h3 style="color:white;">Fire roasted pizzas, smoked foods, salads, and more!</h3>
-							<h3 style="color:white;">Check out our menu</h3>
-							<h3 style="color:white;">Our Menu</h3>
-					</div>					
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-12" style="text-align:center; padding-top:50px; padding-bottom:100px; ">	
-						<h1 style="color:black;">BEEROLOGY</h1>
-						<h3 style="color:black;">Our beer menu is designed to give the novice to expert information</h3>
-						<h3 style="color:black;">to make selections at a glance and find something that fits their tastes</h3>
-				</div>
+<style type="text/css">
+   div.screen-background {
+   background-image: url("{{site.url}}{{site.baseurl}}/public/images/background/{{page.background_file}}");
+   background-repeat: repeat;
+   }
+</style>
+<div class="container-fluid no-padding">
+	<div class="row">
+		<div class="col-lg-12" style="width:100%;">	
+			<img class="img-responsive center-block" src={{site.url}}{{site.baseurl}}/public/images/pizza_oven.png>
+		</div>
+		<div class="col-lg-12">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-12" style="text-align:center; padding-top:50px; padding-bottom:100px;">
+			<h1 style="color:black;">Oakland Pub and Grill</h1>
+			<h3 style="color:black;">Fire roasted pizzas, smoked foods, salads, and more!</h3>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-2">
+			<p> </p>
+		</div>
+		<div class="col-lg-8 screen-background">	
+			<img class="img-responsive center-block" style="padding-top:100px; padding-bottom:50px;" src={{site.url}}{{site.baseurl}}/public/images/logo-dark-grey.png>
+		</div>
+		<div class="col-lg-2">
+			<p> </p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-2">
+			<p> </p>
+		</div>
+		<!-- First column of the menu -->		
+		<div class="col-lg-4 screen-background">
+			<table style="margin: auto;">
+				<tr><td style="height: 50px;"/></tr>
+				<tr>
+					<td>
+						<p class="food-menu-section-title">Shared Plates:</p>
+					</td>
+				</tr>
+				{% for food in site.foodmenu %}
+			<!-- start shared menu items -->		
+				{% if food.type == "shared" %}
+					<tr>
+						<td>
+							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }} </p>
+						</td>
+						<td>
+							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier }}</p>
+						</td>
+					</tr>
+				{% endif %}
+				{% endfor %}
+			<!-- start wood fired pizzas -->		
+				<tr><td style="height: 50px;"/></tr>
+				<tr>
+					<td>
+						<p class="food-menu-section-title">Wood Fire Pizzas:</p>
+					</td>
+				</tr>
+				{% for food in site.foodmenu %}
+				{% if food.type == "pizza" %}
+					<tr>
+						<td>
+							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }} </p>
+						</td>
+						<td>
+							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier }}</p>
+						</td>
+					</tr>
+				{% endif %}
+				{% endfor %}
+			<!-- start salad -->		
+				<tr><td style="height: 50px;"/></tr>
+				<tr>
+					<td>
+						<p class="food-menu-section-title">Salads:</p>
+					</td>
+				</tr>
+				{% for food in site.foodmenu %}
+				{% if food.type == "salad" %}
+					<tr>
+						<td>
+							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }} </p>
+						</td>
+						<td>
+							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier }}</p>
+						</td>
+					</tr>
+				{% endif %}
+				{% endfor %}
+					<tr>
+						<td>
+							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">Add Grilled Chicken/Smoked Brisket $6 or Grilled Shrimp $8</p>
+						</td>
+					</tr>
+				
+			</table>
+		</div>
+		<!-- Second column of the menu -->		
+		<div class="col-lg-4 screen-background">
+			<table style="margin: auto;">
+				<tr><td style="height: 50px;"/></tr>
+			<!-- start sandwiches -->		
+				<tr>
+					<td>
+						<p class="food-menu-section-title">Sandwiches:</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">Served with Fries or a Small House Salad.</p>
+					</td>
+				</tr>
+				{% for food in site.foodmenu %}
+				{% if food.type == "sandwiches" %}
+					<tr>
+						<td>
+							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }}</p>
+						</td>
+						<td>
+							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier }}</p>
+						</td>
+					</tr>
+				{% endif %}
+				{% endfor %}
+			<!-- start smoked platters -->
+				<tr><td style="height: 50px;"/></tr>
+				<tr>
+					<td>
+						<p class="food-menu-section-title">Smoked Platters:</p>
+					</td>
+				</tr>
+				{% for food in site.foodmenu %}
+				{% if food.type == "smoked" %}
+					<tr>
+						<td>
+							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }}</p>
+						</td>
+						<td>
+							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+						</td>
+					</tr>
+				{% endif %}
+				{% endfor %}
+					<tr>
+						<td>
+							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">Served with your choice of Sweet & Tangy BBQ or  Bold & Spicy BBQ sauce</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">Choice of 2 Sides</p>
+						</td>
+					</tr>
+			<!-- start entrees -->
+				<tr><td style="height: 50px;"/></tr>
+				<tr>
+					<td>
+						<p class="food-menu-section-title">Entrees:</p>
+					</td>
+				</tr>
+				{% for food in site.foodmenu %}
+				{% if food.type == "entree" %}
+					<tr>
+						<td>
+							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }}</p>
+						</td>
+						<td>
+							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+						</td>
+					</tr>
+				{% endif %}
+				{% endfor %}
+				<!-- start sides -->
+				<tr><td style="height: 50px;"/></tr>
+				<tr>
+					<td>
+						<p class="food-menu-section-title">Sides:</p>
+					</td>
+				</tr>
+				{% for food in site.foodmenu %}
+				{% if food.type == "sides" %}
+					<tr>
+						<td>
+							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }}</p>
+						</td>
+						<td>
+							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
+						</td>
+					</tr>
+				{% endif %}
+				{% endfor %}
+
+			<!-- start drinks -->
+				<tr><td style="height: 50px;"/></tr>
+				<tr>
+					<td>
+						<p class="food-menu-section-title">Drinks:</p>
+					</td>
+				</tr>
+				{% for food in site.foodmenu %}
+				{% if food.type == "drinks" %}
+					<tr>
+						<td>
+							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }}</p>
+						</td>
+						<td>
+							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
+						</td>
+					</tr>
+				{% endif %}
+				{% endfor %}
+				<tr><td style="height: 103px;"/></tr>
+			</table>
+		</div>	
+		<div class="col-lg-2">
+			<p> </p>
+		</div>
+	</div>
+	<div class="row">
+			<div class="col-lg-12" style="padding-top:50px; padding-bottom:100px;">
+				<p> </p>
 			</div>
 	</div>
+</div>

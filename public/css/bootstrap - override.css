@@ -11,6 +11,29 @@
 body {
 	font-size: 18px;
 }
+
+.food-menu-section-title{
+  font-size: 2.5rem;
+  font-weight: bold;  
+}
+.food-item-name{
+  font-size: 1.75rem;
+  font-weight: bold;    
+}
+.food-item-price{
+	font-size: 1.75rem;
+	font-weight: bold;
+	padding-left: 10px;    
+}
+.food-item-description{
+  font-size: 1.75rem;
+  font-style: italic;    
+}
+.food-item-modifier{
+  font-size: 1.75rem;
+  font-style: italic;    	
+}
+
 .carousel-caption {
 width: 550px;
 left: 33%;
@@ -91,6 +114,7 @@ hr.style2 {
   font-size: 2rem;
   font-weight: bold;
   vertical-align: middle;
+  padding-left: 60px;
 }
 
 .beer-type {
