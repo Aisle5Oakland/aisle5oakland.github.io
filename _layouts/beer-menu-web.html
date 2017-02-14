@@ -3,8 +3,10 @@ layout: default
 ---
 <style type="text/css">
    div.screen-background {
-   background-image: url("{{site.url}}{{site.baseurl}}/public/images/{{page.background_file}}");
+   background-image: url("{{site.url}}{{site.baseurl}}/public/images/background/{{page.background_file}}");
    background-repeat: repeat;
+   margin-left:150px; 
+   margin-right:150px;
    }
 </style>
 <div class="container-fluid no-padding">
@@ -21,23 +23,35 @@ layout: default
 			<h2 style="color:black;">Our expert staff will assist you in selecting the right beer for your taste</h3>
 		</div>
 	</div>
-	<div class="row">
+	<div class="row screen-background">
+		<div class="col-lg-2">
+			<p> </p>
+		</div>
+		<div class="col-lg-8">	
+			<img class="img-responsive center-block" style="padding-top:100px; padding-bottom:50px;" src={{site.url}}{{site.baseurl}}/public/images/logo-dark-grey.png>
+		</div>
+		<div class="col-lg-2">
+			<p> </p>
+		</div>
+	</div>
+	<div class="row screen-background">
 		<div class="col-lg-3">
 			<table style="margin: auto;">
 			{% for beer in site.beermenu %}
 			{% if forloop.index >= 1 and forloop.index <= 10 %}
 				<tr>
 					<td>
-						<img class="brewery_brand" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
+						<img class="brewery_brand-web" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
 					</td>
 				</tr>
+				<tr style="padding-bottom:20px;"><td><p></p></td></tr>				
 			{% endif %}
 			{% endfor %}
 			</table>
 		</div>
-		<div class="col-lg-6 screen-background">
-			<table style="margin: auto; width:100%">
-				<tr><td style="height: 50px;"/></tr>
+		<div class="col-lg-6">
+			<table style="width:100%">
+				<tr><td style="height: 10px;"/></tr>
 			{% for beer in site.beermenu %}
 				<tr>
 					<td>
@@ -46,47 +60,47 @@ layout: default
 					<td>
 					{% for profile in beer.flavor_profile %}
 					{% if profile.is_bitter == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/bitter.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/bitter.png>
 					{% endif %}
 					{% if profile.is_strong == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/strong.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/strong.png>
 					{% endif %}
 					{% if profile.is_sweet == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sweet.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/sweet.png>
 					{% endif %}
 					{% if profile.is_balanced == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/balanced.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/balanced.png>
 					{% endif %}
 					{% if profile.is_sour_citrus == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sour_citrus.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/sour_citrus.png>
 					{% endif %}
 					{% if profile.is_light_crisp == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/crisp.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/crisp.png>
 					{% endif %}
 					{% if profile.is_creamy == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/creamy.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/creamy.png>
 					{% endif %}
 					{% if profile.is_hoppy == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/hopps.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/hopps.png>
 					{% endif %}
 					{% if profile.is_extra_hoppy == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/hoppsx.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/hoppsx.png>
 					{% endif %}
 					{% if profile.is_light == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/light.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/light.png>
 					{% endif %}
 					{% if profile.is_malty == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/malt.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/malt.png>
 					{% endif %}
 					{% if profile.is_sour == "True" %}
-						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sour.png>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/sour.png>
 					{% endif %}
 					{% endfor %}
 					</td>
 				</tr>
 				{% endfor %}
 				<tr><td style="height: 50px;"/></tr>
-			</table>
+				</table>
 		</div>
 		<div class="col-lg-3">
 			<table style="margin: auto;">
@@ -94,17 +108,92 @@ layout: default
 			{% if forloop.index >= 11 and forloop.index <= 20 %}
 				<tr>
 					<td>
-						<img class="brewery_brand" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
+						<img class="brewery_brand-web" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
 					</td>
 				</tr>
+				<tr style="padding-bottom:20px;"><td><p></p></td></tr>				
 			{% endif %}
 			{% endfor %}
 			</table>
 		</div>
 	</div>
-	<div class="row">
-		<div class="col-lg-12" style="text-align:center; padding-top:50px; padding-bottom:100px; ">	
-			<p> </p>		
+	<div class="row screen-background">
+		<div class="col-lg-12">	
+			<p class="beer-qualities-web" style="color:{{page.font_color}}; font-weight:bold;">Flavor Profile Key:</p>
+		</div>
+	</div>
+	<div class="row screen-background">
+		<div class="col-lg-12">	
+			<table width= "100%">
+				<tr>
+					<td>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/bitter.png>
+					</td>
+					<td>
+						<p class="beer-qualities-web" style="color:{{page.font_color}};">Bitter</p>
+					</td>
+					<td>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/strong.png>
+					</td>
+					<td>
+						<p class="beer-qualities-web" style="color:{{page.font_color}};">Strong</p>
+					</td>
+					<td>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/sweet.png>
+					</td>
+					<td>
+						<p class="beer-qualities-web" style="color:{{page.font_color}};">Sweet</p>
+					</td>
+					<td>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/balanced.png>
+					</td>
+					<td>
+						<p class="beer-qualities-web" style="color:{{page.font_color}};">Balanced</p>
+					</td>
+					<td>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/crisp.png>
+					</td>
+					<td>
+						<p class="beer-qualities-web" style="color:{{page.font_color}};">Crisp</p>
+					</td>
+					<td>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/creamy.png>
+					</td>							
+					<td>
+						<p class="beer-qualities-web" style="color:{{page.font_color}};">Creamy</p>
+					</td>
+					<td>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/hopps.png>
+					</td>							
+					<td>
+						<p class="beer-qualities-web" style="color:{{page.font_color}};">Hoppy</p>
+					</td>
+					<td>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/hoppsx.png>
+					</td>							
+					<td>
+						<p class="beer-qualities-web" style="color:{{page.font_color}};">Xtra-Hoppy</p>
+					</td>
+					<td>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/light.png>
+					</td>
+					<td>
+						<p class="beer-qualities-web" style="color:{{page.font_color}};">Light</p>
+					</td>
+					<td>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/malt.png>
+					</td>							
+					<td>
+						<p class="beer-qualities-web" style="color:{{page.font_color}};">Malty</p>
+					</td>
+					<td>
+						<img class="flavor_image-web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/{{page.font_color}}/sour.png>
+					</td>							
+					<td>
+						<p class="beer-qualities-web" style="color:{{page.font_color}};">Sour</p>
+					</td>							
+				</tr>
+			</table>		
 		</div>
 	</div>
 </div>

@@ -13,7 +13,7 @@
             {% assign nav_list = site.nav_links %}
             {% for node in nav_list %}
             {% if node.title != null %}
-            <li><a href="{{ site.url }}{{site.baseurl}}{{ node.url}}">{{ node.title }}</a></li>
+            <li><a style="color:black;" href="{{ site.url }}{{site.baseurl}}{{ node.url}}">{{ node.title }}</a></li>
             {% endif %}
             {% endfor %}
          </ul>
