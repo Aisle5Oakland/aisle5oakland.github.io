@@ -1,6 +1,6 @@
 ---
 brand: "Sierra Nevada Kellerweis"
-type: "Kolsch"
+type: "Bavarian Wheat"
 location: "Chico, California"
 beer_color: "pale-ale.png"
 brewery_brand: "sierra-nevada.jpg"
