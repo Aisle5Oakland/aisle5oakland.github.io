@@ -1,5 +1,5 @@
 ---
-brand: "Eight Bridges Brown"
+brand: "Eight Bridges Nottingham Brown"
 type: "Brown Ale"
 location: "Livermore, California"
 beer_color: "goldenale.png"
