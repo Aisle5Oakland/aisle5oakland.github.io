@@ -5,8 +5,8 @@ layout: default
    div.screen-background {
    background-image: url("{{site.url}}{{site.baseurl}}/public/images/background/{{page.background_file}}");
    background-repeat: repeat;
-   margin-left:150px; 
-   margin-right:150px;
+   margin-left:10%; 
+   margin-right:10%;
    }
 </style>
 <div class="container-fluid no-padding">
@@ -35,7 +35,7 @@ layout: default
 		</div>
 	</div>
 	<div class="row screen-background">
-		<div class="col-lg-3">
+		<div class="col-lg-3 hidden-xs hidden-md">
 			<table style="margin: auto;">
 			{% for beer in site.beermenu %}
 			{% if forloop.index >= 1 and forloop.index <= 10 %}
@@ -49,7 +49,7 @@ layout: default
 			{% endfor %}
 			</table>
 		</div>
-		<div class="col-lg-6">
+		<div class="col-lg-6 col-xs-12 col-md-12">
 			<table style="width:100%">
 				<tr><td style="height: 10px;"/></tr>
 			{% for beer in site.beermenu %}
@@ -102,7 +102,7 @@ layout: default
 				<tr><td style="height: 50px;"/></tr>
 				</table>
 		</div>
-		<div class="col-lg-3">
+		<div class="col-lg-3 hidden-xs hidden-md">
 			<table style="margin: auto;">
 			{% for beer in site.beermenu %}
 			{% if forloop.index >= 11 and forloop.index <= 20 %}

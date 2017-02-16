@@ -1,0 +1,21 @@
+---
+brand: "Half Moon Bay Belgian White"
+type: "Belgian White"
+location: "Half Moon Bay, California"
+beer_color: "pale-ale.png"
+brewery_brand: "half-moon-bay.jpg"
+alcohol: "5.1%"
+ibu: "NA"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+---
