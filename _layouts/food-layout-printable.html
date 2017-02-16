@@ -1,45 +1,34 @@
 ---
-layout: default
+
 ---
+<!DOCTYPE html>
+<html lang="en-us">
+	{% include head.html %}
 <style type="text/css">
-   div.screen-background {
-   background-image: url("{{site.url}}{{site.baseurl}}/public/images/background/{{page.background_file}}");
-   background-repeat: repeat;
-   margin-left:10%; 
-   margin-right:10%;
-   }
+    body.screen-background {
+    background-image: url("{{site.url}}{{site.baseurl}}/public/images/{{page.background_file}}");
+	background-repeat: repeat;
+}
 </style>
+<body class="screen-background">
 <div class="container-fluid no-padding">
-	<div class="row">
-		<div class="col-lg-12" style="width:100%;">	
-			<img class="img-responsive center-block" src={{site.url}}{{site.baseurl}}/public/images/pizza_oven_woodstone.jpg>
-		</div>
-		<div class="col-lg-12">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-lg-12" style="text-align:center; padding-top:50px; padding-bottom:100px;">
-			<h1 style="color:black;">Oakland Pub and Grill</h1>
-			<h3 style="color:black;">Fire roasted pizzas, smoked foods, salads, and more!</h3>
-		</div>
-	</div>
 	<div class="row screen-background">
-		<div class="col-lg-2">
+		<div class="col-sm-2">
 			<p> </p>
 		</div>
-		<div class="col-lg-8">	
+		<div class="col-sm-8">	
 			<img class="img-responsive center-block" style="padding-top:100px; padding-bottom:50px;" src={{site.url}}{{site.baseurl}}/public/images/logo-dark-grey.png>
 		</div>
-		<div class="col-lg-2">
+		<div class="col-sm-2">
 			<p> </p>
 		</div>
 	</div>
 	<div class="row screen-background">
-		<div class="col-lg-2">
+		<div class="col-sm-2">
 			<p> </p>
 		</div>
 		<!-- First column of the menu -->		
-		<div class="col-lg-4" style="margin-right:25px">
+		<div class="col-sm-4" style="margin-right:25px">
 			<table style="margin: auto;">
 				<tr><td style="height: 50px;"/></tr>
 				<tr>
@@ -137,7 +126,7 @@ layout: default
 			</table>
 		</div>
 		<!-- Second column of the menu -->		
-		<div class="col-lg-4" style="margin-left:25px">
+		<div class="col-sm-4" style="margin-left:25px">
 			<table style="margin: auto;">
 				<tr><td style="height: 50px;"/></tr>
 			<!-- start sandwiches -->		
@@ -272,8 +261,10 @@ layout: default
 				{% endfor %}
 			</table>
 		</div>	
-		<div class="col-lg-2">
+		<div class="col-sm-2">
 			<p> </p>
 		</div>
 	</div>
 </div>
+</body>
+</html>
