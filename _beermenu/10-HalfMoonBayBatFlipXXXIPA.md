@@ -4,7 +4,7 @@ type: "IPA"
 location: "Half Moon Bay, California"
 beer_color: "pale-ale.png"
 brewery_brand: "half-moon-bay.jpg"
-alcohol: "10.3%"
+alcohol: "10%"
 ibu: "120"
 flavor_profile:
  - is_bitter: " "
