@@ -1,7 +1,7 @@
 ---
 brand: "Half Moon Bay Belgian White"
 type: "Belgian White"
-location: "Half Moon Bay, California"
+location: "Half Moon Bay, Ca"
 beer_color: "pale-ale.png"
 brewery_brand: "half-moon-bay.jpg"
 alcohol: "5.1%"
