@@ -1,5 +1,5 @@
 ---
-name: "Warm Bacon Potato Salad"
+name: "Picnic Potato Salad"
 type: "sides"
 description: " "
 modifier: " "

@@ -1,8 +1,8 @@
 ---
-name: "Seasonal Veg"
+name: "French Fries"
 type: "sides"
-description: " "
+description: "  "
 modifier: " "
-price: "$4"
+price: "$6"
 picture: "none"
 ---
