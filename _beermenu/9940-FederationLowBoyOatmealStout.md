@@ -1,6 +1,6 @@
 ---
 brand: "Federation Oatmeal Stout"
-type: "Porter"
+type: "Stout"
 location: "Oakland, California"
 beer_color: "stout.png"
 brewery_brand: "federation.png"
