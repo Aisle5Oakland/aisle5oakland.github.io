@@ -1,8 +1,7 @@
-
 /*
 	Bootstrap override file
-
 */
+
 * {
 	margin: 0;
 	padding: 0;
@@ -10,8 +9,8 @@
 
 body {
 	font-size: 18px;
+	padding-top: 70px;
 }
-
 /*
 	Food menu styling
 */
