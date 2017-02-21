@@ -88,7 +88,9 @@
 					<p class="beer-qualities" style="color:{{page.font_color}};">ABV: {{ beer.alcohol }}</p>
 				</div>
 				<div class="col-lg-1">
-					<p class="beer-qualities" style="color:{{page.font_color}};"> IBU: {{ beer.ibu }}</td>
+					{% if beer.ibu != "NA" %}					
+						<p class="beer-qualities" style="color:{{page.font_color}};"> IBU: {{ beer.ibu }}</p>
+					{% endif %}	
 				</div>
 		{% endif %}
       </div>
