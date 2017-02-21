@@ -18,6 +18,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: "True"
  - is_sour: " "
+long_desc: "Dry oatmeal stout on nitro with taste of smooth, rich coffee "
 ---
 
 This is a description for Federation Oatmeal Stout

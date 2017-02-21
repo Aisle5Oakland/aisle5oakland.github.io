@@ -18,4 +18,5 @@ flavor_profile:
  - is_light: "True"
  - is_malty: " "
  - is_sour: " "
+long_desc: "Like the Golden State, this sessionable Kolsch is laid-back but complex.  Mt. Shasta-grown malt adds body, while Noble and Crystal hops give it a bright, crisp, refreshing finish. It's going from slopes to shore in just a few hours."
 ---

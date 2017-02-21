@@ -18,6 +18,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
+long_desc: "A hybrid of an English IPA and American Pale Ale gives us this golden copper colored, easy drinking, aromatic IPA, perfect for those times when tickets are piling up on the printer, everyone's yelling at you, and out of the corner of your eye there's a group forming around something that's looking more and more like an actual fire."
 ---
 
 This is a description for Federation IPA

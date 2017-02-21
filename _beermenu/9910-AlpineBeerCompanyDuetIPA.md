@@ -18,6 +18,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
+long_desc: "Single IPA made with Simcoe and Amarillo hops in harmony. This is a balanced IPA - not too hoppy, not too bitter."
 ---
 
 This is a description for Alpine Beer Company Duet IPA

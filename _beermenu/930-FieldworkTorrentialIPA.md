@@ -18,6 +18,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: "True"
  - is_sour: " "
+long_desc: "It's big, dry, hugely aromatic, bursting with tropical-fruity hop flavors, balanced in bitterness, and terrifyingly drinkable. A mix of our base malt and a Belgian specialty malt gives the beer a small amount of malt character without adding any sweetness or coming off as anything other than a very west coast style Double IPA."
 ---
 
 This is a description for Fieldwork Torrential IPA

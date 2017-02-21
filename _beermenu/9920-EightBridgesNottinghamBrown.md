@@ -18,6 +18,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: "True"
  - is_sour: " "
+long_desc: "This full bodied English Brown ale is malt forward with low hop aromas. While drinking this beer you’ll notice its flavors tend toward raisin, molasses, nut and caramel along with the typical English hop flavors."
 ---
 
 This is a description for Eight Bridges Brown Ale

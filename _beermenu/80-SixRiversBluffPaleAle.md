@@ -18,6 +18,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
+long_desc: "This crisp refreshing ale has an updated flavor profile featuring Citra hops. Brilliantly golden in color and highly aromatic, this light ale a perfect go to for any occasion."
 ---
 
 This is a description for Six Rivers Pale Ale

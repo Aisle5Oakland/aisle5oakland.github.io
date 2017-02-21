@@ -18,6 +18,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
+long_desc: "This wheat-heavy Saison has huge amounts of malted and flaked wheat that provides a nice grainy character that marries incredibly well with bold citrus and hay-like esters derived from the Western European yeast; resulting in a very sessionable yet complex Farmhouse Ale."
 ---
 
 This is a description for Fieldwork Farmhouse Saison

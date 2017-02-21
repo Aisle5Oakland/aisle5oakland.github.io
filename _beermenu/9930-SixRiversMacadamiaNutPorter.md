@@ -18,6 +18,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: "True"
  - is_sour: " "
+long_desc: "This multiple award winning fan favorite makes for a wonderful dessert pairing, or you could haveit with some ribs or something too, whatever’s clever. It’s got a hella sweet profile balanced by notes of macadamia, plus a wicked smooth finish."
 ---
 
 This is a description for Six Rivers Macadamia Porter

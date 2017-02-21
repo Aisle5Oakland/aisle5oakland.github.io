@@ -115,10 +115,16 @@ hr.style2 {
 }
 
 .brand-name-web {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: bold;
   vertical-align: middle;
   padding-left: 20px;
+}
+
+.brand-long-desc {
+  font-size: 1.75rem;
+  font-style: italic;
+  padding-left: 20px;  
 }
 .brewery_brand-web {
 	width: 121px; 

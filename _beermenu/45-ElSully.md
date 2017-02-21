@@ -18,7 +18,7 @@ flavor_profile:
  - is_light: "True"
  - is_malty: " "
  - is_sour: " "
-
+long_desc: "A crisp Mexican-style lager with light notes of spice from Northern Brewer hops"
 ---
 
 This is a description for El Sully

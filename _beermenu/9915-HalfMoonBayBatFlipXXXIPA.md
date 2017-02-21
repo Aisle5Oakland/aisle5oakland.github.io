@@ -18,4 +18,5 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
+long_desc: "Brewed with Citra, Simcoe, Mosaic, Denali, and Ekuanot, in all the different hop formats available; whole cone, pellet, CO2 extract, and Lupulin powder! A surpisingly balanced triple IPA."
 ---

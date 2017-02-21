@@ -18,6 +18,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
+long_desc: "A crisp, refreshing hard apple cider with a distinctly pear accent and a creamy mouth feel that maintains cider integrity while adding a whole new dimension. Hard to describe, harder still to resist."
 ---
 
 This is a description for Sonoma Cider Pear Cider

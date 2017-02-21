@@ -18,7 +18,7 @@ flavor_profile:
  - is_light: "True"
  - is_malty: " "
  - is_sour: " "
-
+long_desc: "This Bavarian styled pilsner starts with all German ingredients to which is added a bit of noble hop for a little spiciness. The wonderfully malty aroma, that is classic to this style, is balanced with a noble hop character. The beer is crystal clear, straw colored with a brilliant white head."
 ---
 
 Eight Bridges Golden Pilsner

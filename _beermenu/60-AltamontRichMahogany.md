@@ -18,7 +18,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: "True"
  - is_sour: " "
-
+long_desc: "An American Red Ale, brewed for the sophistication of anchorman Ron Burgundy. Deep in a rich mahogany color, balanced maltiness, followed by a pronounce hop character. A pungent hop aroma and flavor is delivered by the use of Columbus, Summit, and Cascade hops; followed by a medium bitterness."
 ---
 
 This is the description for Altamont Rich Mahogany Ale

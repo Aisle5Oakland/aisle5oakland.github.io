@@ -18,4 +18,5 @@ flavor_profile:
  - is_light: "True"
  - is_malty: " "
  - is_sour: " "
+long_desc: "Dried orange peel, coriander, and wheat male make this beer fruity, spicy, and refreshing. This Belgian inspired White Beer was brewed in collaboration with Benoit Casper Brewing Co."
 ---
