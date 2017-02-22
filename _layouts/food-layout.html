@@ -229,6 +229,20 @@ layout: default
 							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
 						</td>
 					</tr>
+					{% if food.modifier_1 != " " %}
+					<tr>
+						<td>
+							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_1 }}</p>
+						</td>
+					</tr>
+					{% endif %}
+					{% if food.modifier_2 != " " %}
+					<tr>
+						<td>
+							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_2 }}</p>
+						</td>
+					</tr>
+					{% endif %}
 				{% endif %}
 				{% endfor %}
 				<!-- start sides -->
