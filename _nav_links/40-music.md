@@ -1,4 +1,4 @@
 ---
 layout: events
-title: Music
+title: Events
 ---
