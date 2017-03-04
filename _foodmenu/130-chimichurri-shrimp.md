@@ -2,7 +2,8 @@
 name: "Chimichurri Shrimp"
 type: "shared"
 description: "Grilled Marinated Shrimp atop a Fresh Tomato and Cucumber Salad."
-modifier: " "
+modifier_1: " "
+modifier_2: " "
 price: "$13"
 picture: "none"
 ---

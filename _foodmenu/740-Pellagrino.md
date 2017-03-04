@@ -1,8 +1,9 @@
 ---
-name: "Pellagrino"
+name: "Pellagrino Sparkling Water"
 type: "drinks"
 description: " "
-modifier: " "
-price: "$4"
+modifier_1: " "
+modifier_2: " "
+price: "$5"
 picture: "none"
 ---

@@ -1,5 +1,5 @@
 ---
-name: "Apple Jicama Slaw"
+name: "Baked Beans"
 type: "sides"
 description: " "
 modifier_1: " "

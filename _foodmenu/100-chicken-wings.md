@@ -1,8 +1,9 @@
 ---
-name: "Chicken Wings"
+name: "House Smoked Chicken Wings"
 type: "shared"
-description: "Crispy Jicama Sticks, choice of Avocado Lime Ranch or Honey Blue Cheese Dressing."
-modifier: " "
+description: "Served with Crispy Jicama Sticks"
+modifier_1: "- Choice of Buffalo, Sweet & Tangy, or Habanero sauce."
+modifier_2: "- Choice of Avocado Lime Ranch or Honey Blue Cheese side dressing."
 price: "$13"
 picture: "none"
 ---

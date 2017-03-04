@@ -2,7 +2,8 @@
 name: "Dad's Root Beer"
 type: "drinks"
 description: " "
-modifier: " "
-price: "$6"
+modifier_1: " "
+modifier_2: " "
+price: "$4"
 picture: "none"
 ---

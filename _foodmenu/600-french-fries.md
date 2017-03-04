@@ -2,7 +2,8 @@
 name: "French Fries"
 type: "sides"
 description: "  "
-modifier: " "
+modifier_1: " "
+modifier_2: " "
 price: "$6"
 picture: "none"
 ---
