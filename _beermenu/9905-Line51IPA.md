@@ -1,0 +1,22 @@
+---
+brand: "Line 51 One Inch Punch IPA"
+type: "IPA"
+location: "Oakland, Ca"
+beer_color: "pale-ale.png"
+brewery_brand: "line51.jpg"
+alcohol: "7.0%"
+ibu: "51"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "A West Coast IPA that uses 6 different hops to give you an adequate punch of bitterness that doesnt linger on your palate. The hint of Belgian malts leave your palate with a sweet after taste."
+---
