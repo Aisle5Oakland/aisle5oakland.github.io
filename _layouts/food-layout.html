@@ -1,50 +1,18 @@
 ---
 layout: default
 ---
-<style type="text/css">
-   div.screen-background {
-   background-image: url("{{site.url}}{{site.baseurl}}/public/images/background/{{page.background_file}}");
-   background-repeat: repeat;
-   margin-left:10%; 
-   margin-right:10%;
-   }
-</style>
 <div class="container-fluid no-padding">
 	<div class="row">
-		<div class="col-lg-12 hidden-xs" style="width:100%;">	
-			<img class="img-responsive center-block" src={{site.url}}{{site.baseurl}}/public/images/pizza_oven_woodstone-min.jpg>
-		</div>
-		<div class="col-lg-12">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-lg-12" style="text-align:center; padding-top:50px; padding-bottom:100px;">
-			<h1 style="color:black;">Oakland Pub and Grill</h1>
-			<h3 style="color:black;">Fire roasted pizzas, smoked foods, salads, and more!</h3>
-		</div>
-	</div>
-	<div class="row screen-background">
-		<div class="col-lg-1">
-			<p> </p>
-		</div>
-		<div class="col-lg-10">	
-			<img class="img-responsive center-block" style="padding-top:100px; padding-bottom:50px;" src={{site.url}}{{site.baseurl}}/public/images/logo-dark-grey.png>
-		</div>
-		<div class="col-lg-1">
-			<p> </p>
-		</div>
-	</div>
-	<div class="row screen-background">
-		<div class="col-lg-1">
+		<div class="col-lg-2">
 			<p> </p>
 		</div>
 		<!-- First column of the menu -->		
-		<div class="col-lg-5" style="margin-right:25px">
+		<div class="col-lg-6" style="margin-right:25px">
 			<table style="margin: auto;">
 				<tr><td style="height: 50px;"/></tr>
 				<tr>
 					<td>
-						<p class="food-menu-section-title">Shared Plates:</p>
+						<h2 class="menu-name">Shared Plates:</h2>
 					</td>
 				</tr>
 				{% for food in site.foodmenu %}
@@ -52,25 +20,24 @@ layout: default
 				{% if food.type == "shared" %}
 					<tr>
 						<td>
-							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }} </p>
+							<h3 class="food-item">{{ food.name }} </h3>
 						</td>
 						<td>
-							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+							<p class="food-item">{{ food.price }}</p>
 						</td>
 					</tr>
 					<tr>
 						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_1 }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_2 }}</p>
+							<p class="food-item-modifier">
+									{{ food.description }}<br />
+								{% if food.modifier_1 != " " %}					
+									{{ food.modifier_1 }}<br />
+								{% endif %}	
+								{% if food.modifier_2 != " " %}					
+									{{ food.modifier_2 }}<br />
+								{% endif %}	
+
+							</p>
 						</td>
 					</tr>
 				{% endif %}
@@ -79,32 +46,30 @@ layout: default
 				<tr><td style="height: 50px;"/></tr>
 				<tr>
 					<td>
-						<p class="food-menu-section-title">Wood Fire Pizzas:</p>
+						<h2 class="menu-name">Wood Fire Pizzas:</h2>
 					</td>
 				</tr>
 				{% for food in site.foodmenu %}
 				{% if food.type == "pizza" %}
 					<tr>
 						<td>
-							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }} </p>
+							<h3 class="food-item">{{ food.name }} </h3>
 						</td>
 						<td>
-							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+							<p class="food-item">{{ food.price }}</p>
 						</td>
 					</tr>
 					<tr>
 						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_1 }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_2 }}</p>
+							<p class="food-item-modifier">
+									{{ food.description }}<br />
+								{% if food.modifier_1 != " " %}					
+									{{ food.modifier_1 }}<br />
+								{% endif %}	
+								{% if food.modifier_2 != " " %}					
+									{{ food.modifier_2 }}<br />
+								{% endif %}	
+							</p>
 						</td>
 					</tr>
 				{% endif %}
@@ -113,7 +78,7 @@ layout: default
 				<tr><td style="height: 50px;"/></tr>
 				<tr>
 					<td>
-						<p class="food-menu-section-title">Salads:</p>
+						<h2 class="menu-name">Salads:</h2>
 					</td>
 				</tr>
 				<tr>
@@ -125,39 +90,34 @@ layout: default
 				{% if food.type == "salad" %}
 					<tr>
 						<td>
-							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }} </p>
+							<h3 class="food-item">{{ food.name }} </h3>
 						</td>
 						<td>
-							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+							<p class="food-item">{{ food.price }}</p>
 						</td>
 					</tr>
 					<tr>
 						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_1 }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_2 }}</p>
+							<p class="food-item-modifier">
+									{{ food.description }}<br />
+								{% if food.modifier_1 != " " %}					
+									{{ food.modifier_1 }}<br />
+								{% endif %}	
+								{% if food.modifier_2 != " " %}					
+									{{ food.modifier_2 }}<br />
+								{% endif %}	
+							</p>
 						</td>
 					</tr>
 				{% endif %}
 				{% endfor %}				
 			</table>
-		</div>
-		<!-- Second column of the menu -->		
-		<div class="col-lg-5" style="margin-left:25px">
 			<table style="margin: auto;">
 				<tr><td style="height: 50px;"/></tr>
 			<!-- start sandwiches -->		
 				<tr>
 					<td>
-						<p class="food-menu-section-title">Sandwiches:</p>
+						<h2 class="menu-name">Sandwiches:</h2>
 					</td>
 				</tr>
 				<tr>
@@ -174,69 +134,65 @@ layout: default
 				{% if food.type == "sandwiches" %}
 					<tr>
 						<td>
-							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }}</p>
+							<h3 class="food-item">{{ food.name }} </h3>
 						</td>
 						<td>
-							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+							<p class="food-item">{{ food.price }}</p>
 						</td>
 					</tr>
 					<tr>
 						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_1 }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_2 }}</p>
+							<p class="food-item-modifier">
+									{{ food.description }}<br />
+								{% if food.modifier_1 != " " %}					
+									{{ food.modifier_1 }}<br />
+								{% endif %}	
+								{% if food.modifier_2 != " " %}					
+									{{ food.modifier_2 }}<br />
+								{% endif %}	
+							</p>
 						</td>
 					</tr>
 				{% endif %}
 				{% endfor %}
 			<!-- start smoked platters -->
-				<tr><td style="height: 165px;"/></tr>
+				<tr><td style="height: 50px;"/></tr>
 				<tr>
 					<td>
-						<p class="food-menu-section-title">Smoked Platters:</p>
+						<h2 class="menu-name">Smoked Platters:</h2>
 					</td>
 				</tr>
 				<tr>
 					<td>
-						<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">- Choice of Sweet & Tangy, or Habanero sauce.</p>
+						<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">Choice of Sweet & Tangy, or Habanero sauce.</p>
 					</td>
 				</tr>
 				<tr>
 					<td>
-						<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">- Choice of 2 Sides</p>
+						<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">Choice of 2 Sides</p>
 					</td>
 				</tr>
 				{% for food in site.foodmenu %}
 				{% if food.type == "smoked" %}
 					<tr>
 						<td>
-							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }}</p>
+							<h3 class="food-item">{{ food.name }} </h3>
 						</td>
 						<td>
-							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+							<p class="food-item">{{ food.price }}</p>
 						</td>
 					</tr>
 					<tr>
 						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_1 }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_2 }}</p>
+							<p class="food-item-modifier">
+									{{ food.description }}<br />
+								{% if food.modifier_1 != " " %}					
+									{{ food.modifier_1 }}<br />
+								{% endif %}	
+								{% if food.modifier_2 != " " %}					
+									{{ food.modifier_2 }}<br />
+								{% endif %}	
+							</p>
 						</td>
 					</tr>
 
@@ -246,32 +202,30 @@ layout: default
 				<tr><td style="height: 50px;"/></tr>
 				<tr>
 					<td>
-						<p class="food-menu-section-title">Entrees:</p>
+						<h2 class="menu-name">Entrees:</h2>
 					</td>
 				</tr>
 				{% for food in site.foodmenu %}
 				{% if food.type == "entree" %}
 					<tr>
 						<td>
-							<p class="food-item-name" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }}</p>
+							<h3 class="food-item">{{ food.name }} </h3>
 						</td>
 						<td>
-							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.description }}</p>
+							<p class="food-item">{{ food.price }}</p>
 						</td>
 					</tr>
 					<tr>
 						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_1 }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-modifier" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.modifier_2 }}</p>
+							<p class="food-item-modifier">
+									{{ food.description }}<br />
+								{% if food.modifier_1 != " " %}					
+									{{ food.modifier_1 }}<br />
+								{% endif %}	
+								{% if food.modifier_2 != " " %}					
+									{{ food.modifier_2 }}<br />
+								{% endif %}	
+							</p>
 						</td>
 					</tr>
 				{% endif %}
@@ -280,17 +234,17 @@ layout: default
 				<tr><td style="height: 50px;"/></tr>
 				<tr>
 					<td>
-						<p class="food-menu-section-title">Sides:</p>
+						<h2 class="menu-name">Sides:</h2>
 					</td>
 				</tr>
 				{% for food in site.foodmenu %}
 				{% if food.type == "sides" %}
 					<tr>
 						<td>
-							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }}</p>
+							<h3 class="food-item">{{ food.name }} </h3>
 						</td>
 						<td>
-							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
+							<p class="food-item">{{ food.price }}</p>
 						</td>
 					</tr>
 				{% endif %}
@@ -300,24 +254,24 @@ layout: default
 				<tr><td style="height: 50px;"/></tr>
 				<tr>
 					<td>
-						<p class="food-menu-section-title">Drinks:</p>
+						<h2 class="menu-name">Drinks:</h2>
 					</td>
 				</tr>
 				{% for food in site.foodmenu %}
 				{% if food.type == "drinks" %}
 					<tr>
 						<td>
-							<p class="food-item-description" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.name }}</p>
+							<h3 class="food-item">{{ food.name }} </h3>
 						</td>
 						<td>
-							<p class="food-item-price" style="color:{{page.font_color}}; vertical-align: middle;">{{ food.price }}</p>
+							<p class="food-item">{{ food.price }}</p>
 						</td>
 					</tr>
 				{% endif %}
 				{% endfor %}
 			</table>
 		</div>	
-		<div class="col-lg-1">
+		<div class="col-lg-2">
 			<p> </p>
 		</div>
 	</div>

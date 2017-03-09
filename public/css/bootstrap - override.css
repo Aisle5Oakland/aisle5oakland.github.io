@@ -11,41 +11,54 @@ body {
 	font-size: 18px;
 	padding-top: 70px;
 }
+
 /*
 	Food menu styling
 */
+.food-item {
+	margin-bottom: 5px;
+	margin-top: 15px;
+}
 
-.food-menu-section-title{
-  font-size: 2.5rem;
-  font-weight: bold;
-  
+.space-below {margin-bottom: 50px;}
+
+.food-item p {color: #636363;
+  font-size: .9em;
 }
-.food-item-name{
-  font-size: 1.75rem;
-  font-weight: bold;    
+
+.food-item h3 {font-size: 1.2em;}
+
+.menu-name {
+  text-transform: uppercase;
+  font-family: 'BenchNine', serif;
+  color: #e47911;
+  font-size: 2.2em;
 }
-.food-item-price{
-	font-size: 1.75rem;
-	font-weight: bold;
-	padding-left: 10px;    
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
+
+p {
+	padding-bottom:0px;
+	padding-top: 0px;
+}
+.food-links li {
+  list-style-type: none;
+  text-transform: uppercase;
+}
+
 .food-item-description{
   font-size: 1.75rem;
-  font-style: italic;    
+  color: #636363;
+
 }
 .food-item-modifier{
   font-size: 1.75rem;
-  font-style: italic;    	
+  color: #636363;
+  padding-right: 20px;
 }
 
-.carousel-caption {
-width: 550px;
-left: 33%;
-top: 50% !important;
-transform: translateY(-50%);
-text-align: left;
-bottom: initial;
-}
 /* use to remove column padding */
 .no-padding {
    padding: 0 !important;
@@ -118,13 +131,11 @@ hr.style2 {
   font-size: 2rem;
   font-weight: bold;
   vertical-align: middle;
-  padding-left: 20px;
 }
 
 .brand-long-desc {
   font-size: 1.75rem;
   font-style: italic;
-  padding-left: 20px;  
 }
 .brewery_brand-web {
 	width: 121px; 
@@ -157,5 +168,59 @@ hr {
     border-width: 1px;
 }
 
+table.table.table td {
+    background-color: rgba(255,255,255, 0) !important;	
+}
 
-
+/* 
+	Max width before this PARTICULAR table gets nasty
+	This query will take effect for any screen smaller than 760px
+	and also iPads specifically.
+	*/
+	@media 
+	only screen and (max-width: 760px),
+	(min-device-width: 768px) and (max-device-width: 1024px)  
+{
+	
+		/* Force table to not be like tables anymore */
+		table, thead, tbody, th, td, tr { 
+			display: block; 
+		}
+		
+		/* Hide table headers (but not display: none;, for accessibility) */
+		thead tr { 
+			position: absolute;
+			top: -9999px;
+			left: -9999px;
+		}
+				
+		td:before { 
+			/* Now like a table header */
+			position: absolute;
+			/* Top/left values mimic padding */
+			top: 6px;
+			left: 6px;
+			width: 45%; 
+			padding-right: 10px; 
+			white-space: nowrap;
+		}
+		
+}
+	
+	/* Smartphones (portrait and landscape) ----------- */
+	@media only screen
+	and (min-device-width : 320px)
+	and (max-device-width : 480px) 
+{
+		body { 
+			padding: 0; 
+			margin: 0; 
+			width: 320px; }
+}
+	
+	/* iPads (portrait and landscape) ----------- */
+	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+		body { 
+			width: 495px; 
+		}
+}
