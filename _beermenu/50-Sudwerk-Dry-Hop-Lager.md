@@ -18,6 +18,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
+long_desc: "The perfect blend of West Coast piney citrus hop aromas mixed with the crisp refreshment of a German Helles lager. This classic lager style is dry-hopped with copious amounts of Amarillo, Simcoe and Cascade hops to create a new-age West Coast craft lager like none other."
 ---
 
 This is a description for Sudwerk Dry Hopped Lager
