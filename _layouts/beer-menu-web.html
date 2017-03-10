@@ -1,48 +1,30 @@
 ---
 layout: default
 ---
-<style type="text/css">
-   div.screen-background {
-   background-image: url("{{site.url}}{{site.baseurl}}/public/images/background/{{page.background_file}}");
-   background-repeat: repeat;
-   margin-left:10%; 
-   margin-right:10%;
-   }
-</style>
 <div class="container-fluid no-padding">
 	<div class="row">
-		<div class="col-lg-12" style="text-align:center; padding-top:50px; padding-bottom:100px;">
+		<div class="col-lg-12 hidden-xs" style="text-align:center; padding-top:50px; padding-bottom:100px;">
 			<h2 style="color:black;">We have 20 rotating taps of the finest craft beer for your enjoyment</h3>
 			<h2 style="color:black;">Our expert staff will assist you in selecting the right beer for your taste</h3>
 		</div>
 	</div>
-	<div class="row screen-background">
-		<div class="col-lg-2">
-			<p> </p>
+	<div class="row">
+		<div class="col-lg-3">
 		</div>
-		<div class="col-lg-8">	
-			<img class="img-responsive center-block" style="padding-top:100px; padding-bottom:50px;" src={{site.url}}{{site.baseurl}}/public/images/logo-dark-grey.png>
-		</div>
-		<div class="col-lg-2">
-			<p> </p>
-		</div>
-	</div>
-	<div class="row screen-background">
-		<div class="col-lg-12 col-xs-12 col-md-12">
+		<div class="col-lg-6 col-xs-12 col-md-6">
 			<table style="width:100%">
 				<tr><td style="height: 10px;"/></tr>
 			{% for beer in site.beermenu %}
 				<tr>
+					<td style="vertical-align: middle; padding-right:20px;">
+						<img class="brewery_brand" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
+					</td>
 					<td>
-						<p class="brand-name-web" style="color:{{page.font_color}}; vertical-align: middle;">{{ beer.brand }} ( ABV: {{ beer.alcohol }} 
+						<h3 class="food-item" style="color:{{page.font_color}}; vertical-align: middle;">{{ beer.brand }} ( ABV: {{ beer.alcohol }} 
 						{% if beer.ibu != "NA" %}
 							IBU: {{beer.ibu}}
 						{% endif %}
-						)</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
+						)</h3>
 						<p class="brand-long-desc" style="color:{{page.font_color}}; vertical-align: middle;">{{ beer.long_desc }}</p>
 					</td>
 				</tr>
@@ -50,5 +32,8 @@ layout: default
 				{% endfor %}
 				</table>
 		</div>
+		<div class="col-lg-3">
+		</div>
+
 	</div>
 </div>
