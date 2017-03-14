@@ -1,0 +1,22 @@
+---
+brand: "Altamont L-Town Brown"
+type: "English Brown Ale"
+location: "Livermore, California"
+beer_color: "stout.png"
+brewery_brand: "altamont-beer-works.jpg"
+alcohol: "5.0%"
+ibu: "NA"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "A super easy drinking English Brown Ale. The beer is roasty, toasty, chocolately, and malty; yet light in body and finishes clean. All the flavors you want out of a brown, perfect for the fall and winter."
+---
