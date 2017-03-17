@@ -34,8 +34,10 @@ layout: default
 					</tr>
 					<tr>
 						<td>
+							<p class="food-item-description">
+									{{ food.description }}
+							</p>
 							<p class="food-item-modifier">
-									{{ food.description }}<br />
 								{% if food.modifier_1 != " " %}					
 									{{ food.modifier_1 }}<br />
 								{% endif %}	
@@ -67,14 +69,17 @@ layout: default
 					</tr>
 					<tr>
 						<td>
+							<p class="food-item-description">
+									{{ food.description }}
+							</p>
 							<p class="food-item-modifier">
-									{{ food.description }}<br />
 								{% if food.modifier_1 != " " %}					
 									{{ food.modifier_1 }}<br />
 								{% endif %}	
 								{% if food.modifier_2 != " " %}					
 									{{ food.modifier_2 }}<br />
 								{% endif %}	
+
 							</p>
 						</td>
 					</tr>
@@ -104,14 +109,17 @@ layout: default
 					</tr>
 					<tr>
 						<td>
+							<p class="food-item-description">
+									{{ food.description }}
+							</p>
 							<p class="food-item-modifier">
-									{{ food.description }}<br />
 								{% if food.modifier_1 != " " %}					
 									{{ food.modifier_1 }}<br />
 								{% endif %}	
 								{% if food.modifier_2 != " " %}					
 									{{ food.modifier_2 }}<br />
 								{% endif %}	
+
 							</p>
 						</td>
 					</tr>
@@ -146,60 +154,20 @@ layout: default
 					</tr>
 					<tr>
 						<td>
+							<p class="food-item-description">
+									{{ food.description }}
+							</p>
 							<p class="food-item-modifier">
-									{{ food.description }}<br />
 								{% if food.modifier_1 != " " %}					
 									{{ food.modifier_1 }}<br />
 								{% endif %}	
 								{% if food.modifier_2 != " " %}					
 									{{ food.modifier_2 }}<br />
 								{% endif %}	
-							</p>
-						</td>
-					</tr>
-				{% endif %}
-				{% endfor %}
-			<!-- start smoked platters -->
-				<tr><td style="height: 50px;"/></tr>
-				<tr>
-					<td>
-						<h2 class="menu-name">Smoked Platters:</h2>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p class="food-item-modifier">Choice of Sweet & Tangy, or Habanero sauce.</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p class="food-item-modifier" >Choice of 2 Sides</p>
-					</td>
-				</tr>
-				{% for food in site.foodmenu %}
-				{% if food.type == "smoked" %}
-					<tr>
-						<td>
-							<h3 class="food-item">{{ food.name }} </h3>
-						</td>
-						<td>
-							<p class="food-item">{{ food.price }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-modifier">
-									{{ food.description }}<br />
-								{% if food.modifier_1 != " " %}					
-									{{ food.modifier_1 }}<br />
-								{% endif %}	
-								{% if food.modifier_2 != " " %}					
-									{{ food.modifier_2 }}<br />
-								{% endif %}	
-							</p>
-						</td>
-					</tr>
 
+							</p>
+						</td>
+					</tr>
 				{% endif %}
 				{% endfor %}
 			<!-- start entrees -->
@@ -221,14 +189,17 @@ layout: default
 					</tr>
 					<tr>
 						<td>
+							<p class="food-item-description">
+									{{ food.description }}
+							</p>
 							<p class="food-item-modifier">
-									{{ food.description }}<br />
 								{% if food.modifier_1 != " " %}					
 									{{ food.modifier_1 }}<br />
 								{% endif %}	
 								{% if food.modifier_2 != " " %}					
 									{{ food.modifier_2 }}<br />
 								{% endif %}	
+
 							</p>
 						</td>
 					</tr>

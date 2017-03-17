@@ -1,7 +1,7 @@
 ---
-name: "Burger"
+name: "Sirloin Brisket Burger"
 type: "sandwiches"
-description: "Hand formed brisket and sirloin patty. Lettuce, Tomato & Grilled Onion."
+description: "Hand formed Brisket and Sirloin patty. Lettuce, Tomato and Grilled Onion."
 modifier_1: " "
 modifier_2: " "
 price: "$14"

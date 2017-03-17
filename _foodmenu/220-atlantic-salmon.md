@@ -1,5 +1,5 @@
 ---
-name: "Grilled Salmon Sandwich"
+name: "Atlantic Salmon"
 type: "sandwiches"
 description: "Grilled Salmon, Tomato, Red Onion, Arugula, with lemon-garlin aioli"
 modifier: " "
