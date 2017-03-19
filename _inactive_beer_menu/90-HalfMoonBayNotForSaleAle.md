@@ -1,0 +1,22 @@
+---
+brand: "Half Moon Bay Ale"
+type: "Saison"
+location: "Half Moon Bay, Ca"
+beer_color: "pale-ale.png"
+brewery_brand: "half-moon-bay.jpg"
+alcohol: "5.5%"
+ibu: "24"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "A Saison made with a Peruvian herb called Cat’s Claw, combined with honey, ginger and Hibiscus flowers, and a Belgian Saison yeast that adds a spicy kick to the finish."
+---
