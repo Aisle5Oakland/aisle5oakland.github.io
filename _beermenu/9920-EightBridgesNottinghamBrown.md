@@ -6,6 +6,7 @@ beer_color: "goldenale.png"
 brewery_brand: "eightbridges.png"
 alcohol: "5.6%"
 ibu: "25"
+tap_order: "119"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

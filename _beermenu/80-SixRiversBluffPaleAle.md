@@ -6,6 +6,7 @@ beer_color: "pale-ale.png"
 brewery_brand: "six-rivers-brewery.png"
 alcohol: "5.5%"
 ibu: "54"
+tap_order: "107"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

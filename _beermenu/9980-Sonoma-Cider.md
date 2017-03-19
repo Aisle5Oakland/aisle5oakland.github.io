@@ -6,6 +6,7 @@ beer_color: "pale-ale.png"
 brewery_brand: "sonoma-cider.jpg"
 alcohol: "6.0%"
 ibu: "NA"
+tap_order: "118"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

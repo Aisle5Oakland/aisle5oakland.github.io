@@ -6,6 +6,7 @@ beer_color: "pilsner.png"
 brewery_brand: "drakes.jpg"
 alcohol: "6.8%"
 ibu: "75"
+tap_order: "108"
 flavor_profile:
  - is_bitter: ""
  - is_strong: "True "

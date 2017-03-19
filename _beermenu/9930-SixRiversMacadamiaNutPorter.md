@@ -6,6 +6,7 @@ beer_color: "goldenale.png"
 brewery_brand: "six-rivers-brewery.png"
 alcohol: "6.0%"
 ibu: "22"
+tap_order: "120"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

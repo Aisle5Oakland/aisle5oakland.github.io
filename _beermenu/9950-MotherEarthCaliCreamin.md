@@ -6,6 +6,7 @@ beer_color: "pale-ale.png"
 brewery_brand: "mother-earth-brew-co.jpg"
 alcohol: "5.0%"
 ibu: "20"
+tap_order: "109"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

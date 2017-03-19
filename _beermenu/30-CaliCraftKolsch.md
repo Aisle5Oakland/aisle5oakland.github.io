@@ -6,6 +6,7 @@ beer_color: "pale-ale.png"
 brewery_brand: "calicoast.png"
 alcohol: "4.8%"
 ibu: "15"
+tap_order: "100"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

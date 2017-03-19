@@ -6,6 +6,7 @@ beer_color: "stout.png"
 brewery_brand: "altamont-beer-works.jpg"
 alcohol: "5.0%"
 ibu: "NA"
+tap_order: "110"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

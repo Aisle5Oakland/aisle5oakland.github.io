@@ -1,0 +1,24 @@
+---
+
+---
+
+{% assign beer_sorted_list = site.beermenu | sort: 'tap_order' %}
+{% assign beer_count = 0 %}
+<div class="container-fluid no-padding">
+	<div class="row">
+		<div class="col-lg-6 col-xs-12 col-md-6">
+			{% for beer in beer_sorted_list %}
+			{% assign beer_count = beer_count | plus: 1 %}
+				<h3 class="food-item">{{ beer_count }}.  {{ beer.brand }}
+					(
+					ABV: {{ beer.alcohol }} 
+					{% if beer.ibu != "NA" %}
+					IBU: {{beer.ibu}}
+					{% endif %}
+					)
+				</h3>
+				<p class="brand-long-desc">{{ beer.long_desc }}</p>
+				{% endfor %}
+		</div>
+	</div>
+</div>

@@ -6,6 +6,7 @@ beer_color: "pale-ale.png"
 brewery_brand: "berryessa.jpg"
 alcohol: "6.5%"
 ibu: "56"
+tap_order: "105"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

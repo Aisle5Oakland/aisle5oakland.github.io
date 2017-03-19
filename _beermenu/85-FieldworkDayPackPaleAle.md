@@ -6,6 +6,7 @@ beer_color: "goldenale.png"
 brewery_brand: "fieldwork.jpg"
 alcohol: "5.5%"
 ibu: "NA"
+tap_order: "114"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

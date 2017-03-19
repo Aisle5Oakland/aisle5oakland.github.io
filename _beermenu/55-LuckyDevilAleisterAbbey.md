@@ -6,6 +6,7 @@ beer_color: "goldenale.png"
 brewery_brand: "logo-luckydevil.png"
 alcohol: "7.0%"
 ibu: "NA"
+tap_order: "116"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

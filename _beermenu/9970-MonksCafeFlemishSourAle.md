@@ -6,6 +6,7 @@ beer_color: "goldenale.png"
 brewery_brand: "monks-cafe-flemish-sour-ale.jpg"
 alcohol: "5.5%"
 ibu: "NA"
+tap_order: "117"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

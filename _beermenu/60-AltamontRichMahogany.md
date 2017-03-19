@@ -6,6 +6,7 @@ beer_color: "goldenale.png"
 brewery_brand: "altamonth-rich-mahogany.jpg"
 alcohol: "6.5%"
 ibu: "50"
+tap_order: "112"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

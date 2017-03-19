@@ -6,6 +6,7 @@ beer_color: "pale-ale.png"
 brewery_brand: "sudwerk.jpg"
 alcohol: "5.0%"
 ibu: "28"
+tap_order: "115"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: " "

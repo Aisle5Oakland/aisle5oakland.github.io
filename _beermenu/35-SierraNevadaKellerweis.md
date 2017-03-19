@@ -6,6 +6,7 @@ beer_color: "pale-ale.png"
 brewery_brand: "sierra-nevada.jpg"
 alcohol: "4.8%"
 ibu: "15"
+tap_order: "101"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
