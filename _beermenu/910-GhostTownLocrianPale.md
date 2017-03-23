@@ -19,7 +19,7 @@ flavor_profile:
  - is_light: "True"
  - is_malty: " "
  - is_sour: " "
-long_desc: "A great day time beer, this American Pale Ale from Oakland's Ghost Town Brewing starts with a clean initial taste with a hoppy finish."
+long_desc: "The American style Pale Ale is continuously hopped in the kettle and dry-hopped for a refreshing sessionable beer with notes of light lemon citrus."
 ---
 
 This is a description for Ghost Town Locrian Pale
