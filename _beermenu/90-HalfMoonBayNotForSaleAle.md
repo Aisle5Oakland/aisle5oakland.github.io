@@ -1,5 +1,5 @@
 ---
-brand: "Half Moon Bay Ale"
+brand: "Half Moon Bay Not for Sale Ale"
 type: "Saison"
 location: "Half Moon Bay, Ca"
 beer_color: "pale-ale.png"
