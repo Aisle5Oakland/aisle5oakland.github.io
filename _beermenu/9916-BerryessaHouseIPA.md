@@ -1,0 +1,23 @@
+---
+brand: "Berryessa House IPA"
+type: "IPA"
+location: "Winters, Ca"
+beer_color: "pale-ale.png"
+brewery_brand: "berryessa.jpg"
+alcohol: "6.8%"
+ibu: "65"
+tap_order: "105"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Pours a deep copper color with a thick beige head a sticky ripe stone fruit aroma with a rich malt base and balanced hop flavor and bitterness a true westcoast IPA."
+---
