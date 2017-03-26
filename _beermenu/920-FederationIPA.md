@@ -6,7 +6,7 @@ beer_color: "pilsner.png"
 brewery_brand: "federation.png"
 alcohol: "6.0%"
 ibu: "65"
-tap_order: "113"
+tap_order: "112"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
