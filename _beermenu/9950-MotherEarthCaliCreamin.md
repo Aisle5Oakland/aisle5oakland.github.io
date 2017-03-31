@@ -1,5 +1,5 @@
 ---
-brand: "Mother Earth Cali Creamin' "
+brand: "Mother Earth Cali Creamin' (Nitro) "
 type: "Vanilla Cream Ale"
 location: "Vista, Ca"
 beer_color: "pale-ale.png"

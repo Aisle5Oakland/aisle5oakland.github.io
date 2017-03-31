@@ -11,7 +11,7 @@ flavor_profile:
  - is_bitter: " "
  - is_strong: " "
  - is_sweet: "True"
- - is_balanced: ""
+ - is_balanced: "True"
  - is_light_crisp: "True"
  - is_creamy: ""
  - is_hoppy: " "

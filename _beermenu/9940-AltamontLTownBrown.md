@@ -1,5 +1,5 @@
 ---
-brand: "Altamont L-Town Brown"
+brand: "Altamont L-Town Brown (Nitro)"
 type: "English Brown Ale"
 location: "Livermore, California"
 beer_color: "stout.png"
@@ -15,7 +15,7 @@ flavor_profile:
  - is_light_crisp: " "
  - is_creamy: "True"
  - is_hoppy: " "
- - is_extra_hoppy: ""
+ - is_extra_hoppy: " "
  - is_light: " "
  - is_malty: "True"
  - is_sour: " "

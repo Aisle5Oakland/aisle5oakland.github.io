@@ -16,7 +16,7 @@ flavor_profile:
  - is_creamy: " "
  - is_hoppy: " "
  - is_extra_hoppy: " "
- - is_light: " "
+ - is_light: "True"
  - is_malty: " "
  - is_sour: " "
 long_desc: "This crisp refreshing ale has an updated flavor profile featuring Citra hops. Brilliantly golden in color and highly aromatic, this light ale a perfect go to for any occasion."
