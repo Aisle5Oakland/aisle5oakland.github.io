@@ -1,0 +1,23 @@
+---
+brand: "Line 51 Leadoff IPA"
+type: "Blond IPA"
+location: "Oakland, Ca"
+beer_color: "pale-ale.png"
+brewery_brand: "line51.jpg"
+alcohol: "6.0%"
+ibu: "51"
+tap_order: "113"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Leadoff Blonde IPA is a baseball seasonal. Having the light malty character of blonde ale combined with a clean bitterness of an IPA makes Leadoff a hit on a hot summer day."
+---
