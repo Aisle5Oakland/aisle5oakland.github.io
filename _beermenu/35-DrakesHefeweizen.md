@@ -1,0 +1,23 @@
+---
+brand: "Drakes Hefeweizen"
+type: "Hefeweizen"
+location: "San Leandro, California"
+beer_color: "pilsner.png"
+brewery_brand: "drakes.jpg"
+alcohol: "4.8%"
+ibu: "25"
+tap_order: "101"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: "True"
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Like the fog lingering over the bay, out take on the classic wheat beer is unfiltered for a hazy appearance and fluffy mouthfeel. It’s a smooth, easy drinker, with notes of fresh banana and clove spice that finishes with a soft, mellow sweetness."
+---
