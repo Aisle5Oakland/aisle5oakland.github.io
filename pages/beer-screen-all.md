@@ -1,5 +1,5 @@
 ---
-layout: beer-menu-screen-clean
+layout: beer-menu-screen-kiosk
 title: Beer
 start_index: 1
 end_index: 20

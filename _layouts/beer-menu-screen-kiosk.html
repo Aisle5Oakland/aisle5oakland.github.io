@@ -23,10 +23,10 @@
 			</div>
 			<div class="row">
 				<div class="hidden-xs hidden-md col-lg-1">
-					<img class="brewery_brand" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
+					<img class="brewery_brand_kiosk" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
 				</div>
 				<div class="col-lg-4">
-					<h1 class="brand-name" style="color:{{page.font_color}};">{{ beer.brand }}</h1>				
+					<h1 class="brand-name_kiosk" style="color:{{page.font_color}};">{{ beer.brand }}</h1>				
 				</div>
 				<div class="col-lg-2">
 					<table style="width:100%">
@@ -34,37 +34,37 @@
 							<td>
 								{% for profile in beer.flavor_profile %}
 									{% if profile.is_bitter == "True" %}
-										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/bitter.png>
+										<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/bitter.png>
 									{% endif %}
 									{% if profile.is_strong == "True" %}
-										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/strong.png>
+										<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/strong.png>
 									{% endif %}
 									{% if profile.is_sweet == "True" %}
-										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sweet.png>
+										<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sweet.png>
 									{% endif %}
 									{% if profile.is_balanced == "True" %}
-										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/balanced.png>
+										<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/balanced.png>
 									{% endif %}
 									{% if profile.is_light_crisp == "True" %}
-										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/crisp.png>
+										<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/crisp.png>
 									{% endif %}
 									{% if profile.is_creamy == "True" %}
-										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/creamy.png>
+										<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/creamy.png>
 									{% endif %}
 									{% if profile.is_hoppy == "True" %}
-										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/hopps.png>
+										<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/hopps.png>
 									{% endif %}
 									{% if profile.is_extra_hoppy == "True" %}
-										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/hoppsx.png>
+										<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/hoppsx.png>
 									{% endif %}
 									{% if profile.is_light == "True" %}
-										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/light.png>
+										<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/light.png>
 									{% endif %}
 									{% if profile.is_malty == "True" %}
-										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/malt.png>
+										<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/malt.png>
 									{% endif %}
 									{% if profile.is_sour == "True" %}
-										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sour.png>
+										<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sour.png>
 									{% endif %}
 								{% endfor %}
 							</td>
@@ -77,7 +77,7 @@
 							<td class="beer-type" style="color:{{page.font_color}};">{{ beer.type }}</td>
 						</tr>
 						<tr>
-						<td class="brewery-location" style="color:{{page.font_color}};">{{ beer.location }}</td>
+						<td class="brewery-location_kiosk" style="color:{{page.font_color}};">{{ beer.location }}</td>
 						</tr>
 					</table>	
 				</div>
@@ -104,62 +104,62 @@
 					<table width= "100%">
 						<tr>
 							<td>
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/bitter.png>
+								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image_kiosk/white/bitter.png>
 							</td>
 
 							<td>
 								<p class="beer-qualities" style="color:{{page.font_color}};">Bitter</p>
 							</td>
 							<td>
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/strong.png>
+								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image_kiosk/white/strong.png>
 							</td>
 							<td>
 								<p class="beer-qualities" style="color:{{page.font_color}};">Strong</p>
 							</td>
 							<td>
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sweet.png>
+								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image_kiosk/white/sweet.png>
 							</td>
 							<td>
 								<p class="beer-qualities" style="color:{{page.font_color}};">Sweet</p>
 							</td>
 							<td>
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/balanced.png>
+								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image_kiosk/white/balanced.png>
 							</td>
 							<td>
 								<p class="beer-qualities" style="color:{{page.font_color}};">Balanced</p>
 							</td>
 							<td>
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/crisp.png>
+								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image_kiosk/white/crisp.png>
 							</td>
 							<td>
 								<p class="beer-qualities" style="color:{{page.font_color}};">Crisp</p>
 							</td>
 							<td>
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/creamy.png>
+								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image_kiosk/white/creamy.png>
 							</td>							
 							<td>
 								<p class="beer-qualities" style="color:{{page.font_color}};">Creamy</p>
 							</td>
 							<td>
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/hopps.png>
+								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image_kiosk/white/hopps.png>
 							</td>							
 							<td>
 								<p class="beer-qualities" style="color:{{page.font_color}};">Hoppy</p>
 							</td>
 							<td>
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/light.png>
+								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image_kiosk/white/light.png>
 							</td>
 							<td>
 								<p class="beer-qualities" style="color:{{page.font_color}};">Light</p>
 							</td>
 							<td>
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/malt.png>
+								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image_kiosk/white/malt.png>
 							</td>							
 							<td>
 								<p class="beer-qualities" style="color:{{page.font_color}};">Malty</p>
 							</td>
 							<td>
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/sour.png>
+								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image_kiosk/white/sour.png>
 							</td>							
 							<td>
 								<p class="beer-qualities" style="color:{{page.font_color}};">Sour</p>

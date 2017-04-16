@@ -11,6 +11,28 @@ body {
 	font-size: 18px;
 	padding-top: 70px;
 }
+/* kiosk styling */
+
+.brewery_brand_kiosk {
+	width: 135px; 
+	height:94px;
+	text-align: left;
+}
+.brand-name_kiosk {
+  font-size: 3rem;
+  font-weight: bold;
+  vertical-align: middle;
+  padding-left: 10px;
+  padding-top:0px;
+}
+.flavor_image_kiosk {
+	width: 49px; 
+	height:56px;
+}
+.brewery-location_kiosk {
+  font-size: 2.75rem;
+  font-weight: normal;
+}
 
 /*
 	Food menu styling
