@@ -1,0 +1,23 @@
+---
+brand: "Fieldwork Shoreline IPA"
+type: "IPA"
+location: "Berkeley, California"
+beer_color: "lager.png"
+brewery_brand: "fieldwork.jpg"
+alcohol: "6.6%"
+ibu: "NA"
+tap_order: "111"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Huge upfront notes of honeydew melon and ruby red grapefruit happily dominate the aroma profile of Shoreline IPA. Following up the long lingering melon and grapefruit flavors comes a complex blend of notes consisting of pineapple, jack fruit, lemon, and cotton candy."
+---
