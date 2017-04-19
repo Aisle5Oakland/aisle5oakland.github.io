@@ -1,0 +1,23 @@
+---
+brand: "Eight Bridges Denali IPA"
+type: "IPA"
+location: "Livermore, California"
+beer_color: "pilsner.png"
+brewery_brand: "eightbridges.png"
+alcohol: "6.3%"
+ibu: "65"
+tap_order: "113"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "The second version of our One Box series, the One Box Denali has a light, somewhat malty base with a solid IPA bitterness level that was dry hopped with a whole box of Denali, a new variety of hop with a higher than normal essential oil content that makes this hop unique and imparts a lot of aroma in the beer. Pineapple aromas dominate. Flavor takes on a tropical taste."
+---

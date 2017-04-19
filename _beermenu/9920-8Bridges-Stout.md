@@ -1,0 +1,23 @@
+---
+brand: "Eight Bridges Stout"
+type: "Stout"
+location: "Livermore, California"
+beer_color: "goldenale.png"
+brewery_brand: "eightbridges.png"
+alcohol: "6.0%"
+ibu: "38"
+tap_order: "119"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Our Stout is opaque black with a tan head and slightly sweeter than a dry stout. Aromas are of roasted malt blended with some chocolate and coffee notes. Following a similar pattern, the flavor is a balance between chocolate and coffee supported by some background sweetness."
+---
