@@ -1,25 +1,23 @@
 ---
-brand: "Sonoma Cider The Hatchet"
+brand: "Golden State Might Dry Cider"
 type: "Cider"
-location: "Healdsburg, CA"
+location: "Sebastopol, CA"
 beer_color: "pale-ale.png"
-brewery_brand: "sonoma-cider.jpg"
-alcohol: "6.0%"
+brewery_brand: "Golden-State-Cider.png"
+alcohol: "6.9%"
 ibu: "NA"
 tap_order: "118"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
  - is_sweet: "True"
- - is_balanced: "True"
+ - is_balanced: " "
  - is_light_crisp: "True"
  - is_creamy: ""
  - is_hoppy: " "
  - is_extra_hoppy: " "
- - is_light: " "
+ - is_light: "True"
  - is_malty: " "
  - is_sour: " "
-long_desc: "The Hatchet is a blend of sweet and tart apple varietals to yield a refreshing cider with noticeable complexity and a crisp, clean finish."
+long_desc: "Mighty Dry is a champagne-like cider that pairs perfectly with any moment of the day. It’s just dry enough. It's perfectly balanced, and crispy (if not crispier) as biting into a freshly picked apple."
 ---
-
-This is a description for Sonoma Hatchet Apple Cider

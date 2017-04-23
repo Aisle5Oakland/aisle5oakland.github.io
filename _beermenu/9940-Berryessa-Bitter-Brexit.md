@@ -1,0 +1,23 @@
+---
+brand: "Berryessa Bitter Brexit (Nitro)"
+type: "English Bitter"
+location: "Winters, Ca"
+beer_color: "goldenale.png"
+brewery_brand: "berryessa.jpg"
+alcohol: "4.0%"
+ibu: "NA"
+tap_order: "110"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "An English-style bitter on Nitro."
+---
