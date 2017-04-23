@@ -1,5 +1,5 @@
 ---
-brand: "Golden State Might Dry Cider"
+brand: "Golden State Mighty Dry Cider"
 type: "Cider"
 location: "Sebastopol, CA"
 beer_color: "pale-ale.png"
