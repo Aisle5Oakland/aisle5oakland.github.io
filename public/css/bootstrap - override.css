@@ -16,7 +16,6 @@ body {
 .brewery_brand_kiosk {
 	width: 189px; 
 	height:131px;
-	padding-top: 10px;
 }
 .brand-name_kiosk {
   font-size: 3rem;
@@ -45,7 +44,6 @@ body {
   font-size: 2.5rem;
   font-weight: normal;
   vertical-align: middle;
-  padding-top:10px;
 }
 
 /*
