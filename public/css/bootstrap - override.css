@@ -30,8 +30,14 @@ body {
 	height:56px;
 }
 .brewery-location_kiosk {
-  font-size: 2.75rem;
+  font-size: 2.5rem;
   font-weight: normal;
+}
+
+.beer-type_kiosk {
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-top: 10px;
 }
 
 /*
