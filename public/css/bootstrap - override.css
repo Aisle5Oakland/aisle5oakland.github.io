@@ -14,9 +14,8 @@ body {
 /* kiosk styling */
 
 .brewery_brand_kiosk {
-	width: 135px; 
-	height:94px;
-	text-align: left;
+	width: 189px; 
+	height:131px;
 }
 .brand-name_kiosk {
   font-size: 3rem;
