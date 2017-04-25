@@ -71,7 +71,7 @@
 						</tr>
 					</table>						
 				</div>
-				<div class="col-lg-2">
+				<div class="col-lg-3">
 					<table style="width:100%">
 						<tr>
 							<td class="beer-type_kiosk" style="color:{{page.font_color}};">{{ beer.type }}</td>
@@ -81,14 +81,12 @@
 						</tr>
 					</table>	
 				</div>
-				<div class="col-lg-1">
-					<p class="beer-qualities" style="color:{{page.font_color}};">ABV: {{ beer.alcohol }}</p>
-				</div>
-				<div class="col-lg-1">
+				<div class="col-lg-2">
+					<p class="beer-qualities_kiosk" style="color:{{page.font_color}};">ABV: {{ beer.alcohol }}</p>
 					{% if beer.ibu != "NA" %}					
-						<p class="beer-qualities" style="color:{{page.font_color}};"> IBU: {{ beer.ibu }}</p>
+					<p class="beer-qualities_kiosk" style="color:{{page.font_color}};"> IBU: {{ beer.ibu }}</p>
 					{% endif %}	
-				</div>
+					</div>
 		{% endif %}
       </div>
 		{% endfor %}
