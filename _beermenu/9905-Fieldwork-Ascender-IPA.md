@@ -1,0 +1,23 @@
+---
+brand: "Fieldwork Ascender IPA"
+type: "IPA"
+location: "Berkeley, California"
+beer_color: "lager.png"
+brewery_brand: "fieldwork.jpg"
+alcohol: "6.6%"
+ibu: "NA"
+tap_order: "111"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "This IPA was brewed with a blank canvas of a grain bill consisting only of Fieldwork's domestic base malt, then added in an obscene amount of Amarillo hops to develop a huge ruby red grapefruit and pink starburst character, only to be followed by El Dorado hop influenced secondary notes of papaya, fresh peaches, citron, and navel oranges, ending with a faint note of key lime pie."
+---
