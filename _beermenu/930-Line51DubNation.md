@@ -1,0 +1,23 @@
+---
+brand: "Line 51 Dub Nation IPA"
+type: "IPA"
+location: "Oakland, Ca"
+beer_color: "pale-ale.png"
+brewery_brand: "line51.jpg"
+alcohol: "6.5%"
+ibu: "51"
+tap_order: "113"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "This limited Line 51 release showcases Warrior hops for a strong bitterness that leaves your palate winning. The combination of  Mosaic and Galaxy hops, on top of a this light bodied example, give Dubnation IPA the perfect splash of aroma and flavor. Go Warriors!!"
+---
