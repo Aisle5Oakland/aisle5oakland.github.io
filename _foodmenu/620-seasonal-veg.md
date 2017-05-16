@@ -4,6 +4,6 @@ type: "sides"
 description: " "
 modifier_1: " "
 modifier_2: " "
-price: "$5"
+price: "$6"
 picture: "none"
 ---
