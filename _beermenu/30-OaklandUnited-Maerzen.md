@@ -1,0 +1,23 @@
+---
+brand: "Oakland United Maerzen"
+type: "Maerzen"
+location: "Oakland, California"
+beer_color: "pilsner.png"
+brewery_brand: "oakland-united.png"
+alcohol: "5.9%"
+ibu: "20"
+tap_order: "100"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "This West-Coast take on a traditional German Maerzen Lager, this rich amber beer is full of fall harvest notes. Orginally brewed by Medieval German brewers in March, Maerzen Lagers are brewed strong and well-hopped to survive through the warm summer months."
+---
