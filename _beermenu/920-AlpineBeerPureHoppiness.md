@@ -1,0 +1,23 @@
+---
+brand: "Alpine Pure Hoppiness Double IPA"
+type: "Double IPA"
+location: "Alpine, California"
+beer_color: "pilsner.png"
+brewery_brand: "alpine.png"
+alcohol: "8.0%"
+ibu: "NA"
+tap_order: "112"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "A West Coast Double IPA So mega-hopped it will take you to hop heaven. We’ve used hops in the boil, more hops in the giant hopback, and added to that, an incredible amount of dry-hopping for that cutting-edge hop bite. Once you’ve tasted this unique beer, all others pale in comparison."
+---
