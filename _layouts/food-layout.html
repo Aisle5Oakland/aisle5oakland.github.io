@@ -18,7 +18,7 @@ layout: default
 				<tr><td style="height: 50px;"/></tr>
 				<tr>
 					<td>
-						<h2 class="menu-name">Shared Plates:</h2>
+						<h2 class="menu-name">Shared Plates</h2>
 					</td>
 				</tr>
 				{% for food in site.foodmenu %}
@@ -54,7 +54,7 @@ layout: default
 				<tr><td style="height: 50px;"/></tr>
 				<tr>
 					<td>
-						<h2 class="menu-name">Wood Fire Pizzas:</h2>
+						<h2 class="menu-name">Wood Fire Pizzas</h2>
 					</td>
 				</tr>
 				{% for food in site.foodmenu %}
@@ -89,7 +89,7 @@ layout: default
 				<tr><td style="height: 50px;"/></tr>
 				<tr>
 					<td>
-						<h2 class="menu-name">Salads:</h2>
+						<h2 class="menu-name">Salads & Pasta</h2>
 					</td>
 				</tr>
 				<tr>
@@ -129,7 +129,7 @@ layout: default
 			<!-- start sandwiches -->		
 				<tr>
 					<td>
-						<h2 class="menu-name">Sandwiches:</h2>
+						<h2 class="menu-name">Sandwiches</h2>
 					</td>
 				</tr>
 				<tr>
@@ -144,41 +144,6 @@ layout: default
 				</tr>
 				{% for food in site.foodmenu %}
 				{% if food.type == "sandwiches" %}
-					<tr>
-						<td>
-							<h3 class="food-item">{{ food.name }} </h3>
-						</td>
-						<td>
-							<p class="food-item">{{ food.price }}</p>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<p class="food-item-description">
-									{{ food.description }}
-							</p>
-							<p class="food-item-modifier">
-								{% if food.modifier_1 != " " %}					
-									{{ food.modifier_1 }}<br />
-								{% endif %}	
-								{% if food.modifier_2 != " " %}					
-									{{ food.modifier_2 }}<br />
-								{% endif %}	
-
-							</p>
-						</td>
-					</tr>
-				{% endif %}
-				{% endfor %}
-			<!-- start entrees -->
-				<tr><td style="height: 50px;"/></tr>
-				<tr>
-					<td>
-						<h2 class="menu-name">Entrees:</h2>
-					</td>
-				</tr>
-				{% for food in site.foodmenu %}
-				{% if food.type == "entree" %}
 					<tr>
 						<td>
 							<h3 class="food-item">{{ food.name }} </h3>
