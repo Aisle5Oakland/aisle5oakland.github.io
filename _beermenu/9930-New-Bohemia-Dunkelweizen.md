@@ -1,0 +1,23 @@
+---
+brand: "New Bohemia Dunkelweizen"
+type: "Dunkelweizen"
+location: "Santa Cruz, California"
+beer_color: "goldenale.png"
+brewery_brand: "new-bohemia-brewing-co.png"
+alcohol: "4.8%"
+ibu: "18"
+tap_order: "120"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "A traditional brew that will remind you of Chocolate Banana Nut Bread with yeast derived flavors of banana and clove."
+---
