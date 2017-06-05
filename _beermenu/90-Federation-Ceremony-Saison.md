@@ -1,0 +1,23 @@
+---
+brand: "Federation Ceremony Saison"
+type: "Saison"
+location: "Oakland, California"
+beer_color: "pale-ale.png"
+brewery_brand: "federation.png"
+alcohol: "5.8%"
+ibu: "NA"
+tap_order: "106"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: ""
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "A crisp saison with a touch of fresh squeezed grapefruit."
+---
