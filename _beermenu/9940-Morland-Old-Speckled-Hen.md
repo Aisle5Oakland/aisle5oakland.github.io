@@ -1,0 +1,23 @@
+---
+brand: "Old Speckled Hen (Nitro)"
+type: "English Bitter"
+location: "Suffolk, England"
+beer_color: "goldenale.png"
+brewery_brand: "morland-brewing-company.png"
+alcohol: "5.0%"
+ibu: "NA"
+tap_order: "110"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Auburn and copper on the eye; malty, toffee notes on the nose; and then a further lovely helping of malt in the taste, with distinctive hints of caramel balanced by a touch of fruit. As English as English can be."
+---
