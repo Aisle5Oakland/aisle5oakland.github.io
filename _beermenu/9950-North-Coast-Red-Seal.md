@@ -1,0 +1,23 @@
+---
+brand: "North Coast Red Seal (Nitro) "
+type: "Red Ale"
+location: "Fort Bragg, Ca"
+beer_color: "pale-ale.png"
+brewery_brand: "north-coast-brewing.png"
+alcohol: "5.4%"
+ibu: "42"
+tap_order: "109"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Malt and hops are beautifully married in this full-bodied, copper-red Pale Ale. Red Seal is generously hopped for a long, spicy finish. An excellent accompaniment to grilled meats and rich sauces."
+---
