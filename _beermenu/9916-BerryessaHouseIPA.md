@@ -1,7 +1,7 @@
 ---
 brand: "Berryessa House IPA"
 type: "IPA"
-location: "Winters, Ca"
+location: "Winters, California"
 beer_color: "pale-ale.png"
 brewery_brand: "berryessa.jpg"
 alcohol: "6.8%"

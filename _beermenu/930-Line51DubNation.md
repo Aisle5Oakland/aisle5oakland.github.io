@@ -1,7 +1,7 @@
 ---
 brand: "Line 51 Dub Nation IPA"
 type: "IPA"
-location: "Oakland, Ca"
+location: "Oakland, California"
 beer_color: "pale-ale.png"
 brewery_brand: "line51.jpg"
 alcohol: "6.5%"

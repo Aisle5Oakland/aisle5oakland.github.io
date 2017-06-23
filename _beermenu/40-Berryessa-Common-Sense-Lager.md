@@ -1,0 +1,23 @@
+---
+brand: "Berryessa Common Sense Lager"
+type: "Lager"
+location: "Winters, California"
+beer_color: "pilsner.png"
+brewery_brand: "berryessa.jpg"
+alcohol: "4.5%"
+ibu: "20"
+tap_order: "103"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Pours a nice deep straw color with a thick white head a light floral aroma and a soft malt base perfect for sipping with friends."
+---

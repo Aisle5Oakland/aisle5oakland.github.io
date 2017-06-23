@@ -1,7 +1,7 @@
 ---
 brand: "North Coast Red Seal (Nitro) "
 type: "Red Ale"
-location: "Fort Bragg, Ca"
+location: "Fort Bragg, California"
 beer_color: "pale-ale.png"
 brewery_brand: "north-coast-brewing.png"
 alcohol: "5.4%"

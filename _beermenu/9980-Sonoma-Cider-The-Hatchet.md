@@ -1,7 +1,7 @@
 ---
 brand: "Golden State Mighty Dry Cider"
 type: "Cider"
-location: "Sebastopol, CA"
+location: "Sebastopol, California"
 beer_color: "pale-ale.png"
 brewery_brand: "Golden-State-Cider.png"
 alcohol: "6.9%"
