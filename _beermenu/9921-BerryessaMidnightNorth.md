@@ -1,5 +1,5 @@
 ---
-brand: "Berryessa Midnight North Black IPA"
+brand: "Berryessa Midnight North IPA"
 type: "Black IPA"
 location: "Winters, California"
 beer_color: "imperialstout.png"
