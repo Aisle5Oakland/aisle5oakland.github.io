@@ -1,0 +1,23 @@
+---
+brand: "21st Amend Watermelon Wheat"
+type: "Wheat"
+location: "San Leandro, California"
+beer_color: "pale-ale.png"
+brewery_brand: "21stAmendment.png"
+alcohol: "4.9%"
+ibu: "17"
+tap_order: "101"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "21st Amendment starts by brewing a classic American wheat beer, which undergoes a traditional secondary fermentation using fresh watermelon. A straw-colored, refreshing beer with a kiss of watermelon aroma and flavor."
+---

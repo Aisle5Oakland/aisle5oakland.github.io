@@ -6,7 +6,7 @@ beer_color: "lager.png"
 brewery_brand: "el-sully.png"
 alcohol: "4.8%"
 ibu: "19"
-tap_order: "104"
+tap_order: "103"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
