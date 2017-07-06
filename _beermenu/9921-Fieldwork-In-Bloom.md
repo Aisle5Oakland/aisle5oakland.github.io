@@ -1,0 +1,23 @@
+---
+brand: "Fieldwork In Bloom Double IPA"
+type: "Double IPA"
+location: "Berkeley, California"
+beer_color: "pilsner.png"
+brewery_brand: "fieldwork.jpg"
+alcohol: "8.2%"
+ibu: "NA"
+tap_order: "119"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Its hazy appearance foreshadows the juicy hop flavor approaching, eventually bogging down your senses with notes of meyer lemon juice, candied honeydew melon, and fresh ruby red grapefruit."
+---
