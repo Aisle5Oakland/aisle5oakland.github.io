@@ -1,0 +1,23 @@
+---
+brand: "Altamont Green Collar Pale Ale"
+type: "Pale Ale"
+location: "Livermore, California"
+beer_color: "pale-ale.png"
+brewery_brand: "altamont-beer-works.jpg"
+alcohol: "5.5%"
+ibu: "NA"
+tap_order: "105"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "A collaboration pale ale brewed for the Oakland A’s home opener with Mraz Brewing Co. out of El Dorado Hills. This pale ale is huge on the tropical/citrus hop aromas and flavors from the Citra, Mosaic, and Lemon Drop hops."
+---
