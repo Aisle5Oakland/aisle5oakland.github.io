@@ -1,0 +1,23 @@
+---
+brand: "Headlands Hawk Hill Heffe"
+type: "Hefeweizen"
+location: "Mill Valley, California"
+beer_color: "pale-ale.png"
+brewery_brand: "headlands-brewing-company.png"
+alcohol: "4.7%"
+ibu: "15"
+tap_order: "108"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Hawk Hill follows a traditional German Hefeweizen grain bill with a bit of rye tossed in to draw out the pepper and spice notes from the light hopping schedule.  Light, crisp, and refreshing, Hawk Hill will bring out the sun, no matter the weather."
+---
