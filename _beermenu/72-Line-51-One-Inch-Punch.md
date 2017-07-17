@@ -6,7 +6,7 @@ beer_color: "pale-ale.png"
 brewery_brand: "line51.jpg"
 alcohol: "7.0%"
 ibu: "51"
-tap_order: "111"
+tap_order: "113"
 flavor_profile:
  - is_bitter: " "
  - is_strong: "True"
