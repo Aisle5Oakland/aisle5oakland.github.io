@@ -6,7 +6,7 @@ beer_color: "pale-ale.png"
 brewery_brand: "21stAmendment.png"
 alcohol: "6.7%"
 ibu: "NA"
-tap_order: "108"
+tap_order: "103"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
