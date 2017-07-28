@@ -1,0 +1,23 @@
+---
+brand: "New Bohemia Nu Bo Pilsner"
+type: "German Pilsner"
+location: "Santa Cruz, California"
+beer_color: "pilsner.png"
+brewery_brand: "new-bohemia-brewing-co.png"
+alcohol: "5.2%"
+ibu: "45"
+tap_order: "100"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "The NuBo Pils is a classic Pilsner made with Noble German hops which gives it a clean bitterness while Bohemian malts offer flavors of honey and toast."
+---
