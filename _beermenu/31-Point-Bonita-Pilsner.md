@@ -1,0 +1,23 @@
+---
+brand: "Point Bonita Pilsner"
+type: "Pilsner"
+location: "Mill Valley, California"
+beer_color: "pilsner.png"
+brewery_brand: "headlands-brewing-company.png"
+alcohol: "5.3%"
+ibu: "38"
+tap_order: "100"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Crisp and spicy from the rye malt and noble hop character, yet has enough body from the rustic grains to accompany your breakfast, lunch or dinner."
+---
