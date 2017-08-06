@@ -1,0 +1,23 @@
+---
+brand: "Eight Bridges Twisted Red"
+type: "Red Ale"
+location: "Livermore, California"
+beer_color: "goldenale.png"
+brewery_brand: "eightbridges.png"
+alcohol: "7.0%"
+ibu: "39"
+tap_order: "112"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "This easy drinking Red Ale is definitely red but the American hop bill gives a typical pale ale type flavor with added caramel sweetness. Expect a malt flavor with a caramel or slight molasses sweetness combined with a very slight bitterness from hops."
+---
