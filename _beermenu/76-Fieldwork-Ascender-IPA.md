@@ -6,7 +6,7 @@ beer_color: "lager.png"
 brewery_brand: "fieldwork.jpg"
 alcohol: "6.6%"
 ibu: "NA"
-tap_order: "111"
+tap_order: "119"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

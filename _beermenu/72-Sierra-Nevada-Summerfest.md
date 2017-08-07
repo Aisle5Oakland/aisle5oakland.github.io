@@ -1,0 +1,23 @@
+---
+brand: "Sierra Nevada Summerfest"
+type: "Lager"
+location: "Chico, California"
+beer_color: "pale-ale.png"
+brewery_brand: "sierra-nevada.png"
+alcohol: "5.0%"
+ibu: "20"
+tap_order: "113"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "With a nod toward the original Czech tradition, Summerfest is brewed to feature the best of Bohemian nature. Crisp, golden, dry and incredibly drinkable, Summerfest has a delicate and complex malt flavor and spicy and floral hop character."
+---
