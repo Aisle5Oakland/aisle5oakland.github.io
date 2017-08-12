@@ -1,0 +1,23 @@
+---
+brand: "Devil's Canyon Full Bore (Nitro) "
+type: "Scotch Ale"
+location: "Belmont, California"
+beer_color: "goldenale.png"
+brewery_brand: "devils-canyon.png"
+alcohol: "7.4%"
+ibu: "NA"
+tap_order: "109"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Deeply malted and caramel apparent with overtones of chocolate and a mild, smoky flavor. A complex beer that is light on the palette and easy drinking."
+---
