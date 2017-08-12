@@ -1,0 +1,23 @@
+---
+brand: "Benoit Point Richmond Pale"
+type: "Pale Ale"
+location: "Richmond, California"
+beer_color: "pilsner.png"
+brewery_brand: "benoit-casper-brewing.jpg"
+alcohol: "5.4%"
+ibu: "54"
+tap_order: "100"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "This award-winning pale ale is brewed with a blend of English malt and over six, different, hop varieties which makes for a nice balance of sweet malt, floral and citrus hop flavors."
+---
