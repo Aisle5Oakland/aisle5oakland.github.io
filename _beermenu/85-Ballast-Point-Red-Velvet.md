@@ -1,0 +1,23 @@
+---
+brand: "Ballast Point Red Velvet (Nitro) "
+type: "Stout"
+location: "San Diego, California"
+beer_color: "goldenale.png"
+brewery_brand: "ballast-point.png"
+alcohol: "5.5%"
+ibu: "35"
+tap_order: "109"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Like the cake that inspired it, the deep red color comes from beets, which add a rich, earthy character that complements the chocolate flavor and aroma. The foamy head of the nitro pour is the icing, adding a creamy smoothness to the mouthfeel."
+---
