@@ -6,7 +6,7 @@ beer_color: "pilsner.png"
 brewery_brand: "eightbridges.png"
 alcohol: "4.9%"
 ibu: "30"
-tap_order: "103"
+tap_order: "101"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

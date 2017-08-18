@@ -1,0 +1,23 @@
+---
+brand: "Drakes Black Robusto Porter"
+type: "Porter"
+location: "San Leandro, California"
+beer_color: "goldenale.png"
+brewery_brand: "drakes.jpg"
+alcohol: "6.3%"
+ibu: "35"
+tap_order: "120"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Dark and brooding with a little heft in the body and the alcohol content, this is the type of beer necessary to tackle the chill of the fog when it rolls into the East Bay. As is our style at Drake’s, the Black Robusto still finishes relatively dry with hints of bittersweet chocolate and coffee lasting into the finish."
+---

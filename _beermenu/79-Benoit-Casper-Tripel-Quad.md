@@ -6,7 +6,7 @@ beer_color: "goldenale.png"
 brewery_brand: "benoit-casper-brewing.jpg"
 alcohol: "10%"
 ibu: "33"
-tap_order: "116"
+tap_order: "103"
 flavor_profile:
  - is_bitter: " "
  - is_strong: "True"
