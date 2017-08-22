@@ -1,0 +1,23 @@
+---
+brand: "Epidemic Worlds End Lager"
+type: "Lager"
+location: "Concord, California"
+glass: "pint.png"
+brewery_brand: "epidemic-ales.png"
+alcohol: "4.5%"
+ibu: "NA"
+tap_order: "102"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "This traditional pale lager is so crisp and refreshing that it deserves a moment to be enjoyed even if the world around you is ending."
+---

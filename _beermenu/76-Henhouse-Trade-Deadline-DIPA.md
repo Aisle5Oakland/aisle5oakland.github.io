@@ -1,9 +1,9 @@
 ---
-brand: "Henouse Trade Deadline IPA"
+brand: "Henhouse Trade Deadline IPA"
 type: "Double IPA"
 location: "Petaluma, Ca"
 beer_color: "pilsner.png"
-glass: "pint.png"
+glass: "snifter.png"
 brewery_brand: "henhouse.png"
 alcohol: "9.5%"
 ibu: "NA"
