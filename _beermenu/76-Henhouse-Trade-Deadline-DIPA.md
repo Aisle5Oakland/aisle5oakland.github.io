@@ -5,7 +5,7 @@ location: "Petaluma, Ca"
 beer_color: "pilsner.png"
 glass: "pint.png"
 brewery_brand: "henhouse.png"
-alcohol: "9.2%"
+alcohol: "9.5%"
 ibu: "NA"
 tap_order: "119"
 flavor_profile:
