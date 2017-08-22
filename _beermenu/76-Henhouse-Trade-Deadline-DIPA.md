@@ -1,0 +1,23 @@
+---
+brand: "Henouse Trade Deadline IPA"
+type: "Double IPA"
+location: "Petaluma, Ca"
+beer_color: "pilsner.png"
+brewery_brand: "henhouse.png"
+alcohol: "9.2%"
+ibu: "NA"
+tap_order: "119"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "A double IPA with a hazy golden orange color and a subtle but pleasant citrusy flavor."
+---
