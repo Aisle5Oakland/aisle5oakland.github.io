@@ -10,7 +10,7 @@ ibu: "NA"
 tap_order: "115"
 flavor_profile:
  - is_bitter: "True"
- - is_strong: "True"
+ - is_strong: " "
  - is_sweet: " "
  - is_balanced: " "
  - is_light_crisp: " "
@@ -20,6 +20,7 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
+ - is_fruity: "True"
 long_desc: "A bitter, moderately strong IPA that uses its clean, supporting malt to showcase its hop character."
 ---
 
