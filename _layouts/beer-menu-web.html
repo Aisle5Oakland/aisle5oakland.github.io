@@ -74,6 +74,9 @@ layout: default
 									{% if profile.is_sour == "True" %}
 										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/sour.png>
 									{% endif %}
+									{% if profile.is_fruity == "True" %}
+										<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/fruity.png>
+									{% endif %}
 								{% endfor %}
 							</td>
 						</tr>
