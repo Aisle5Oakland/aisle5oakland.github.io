@@ -78,6 +78,8 @@
 						<tr>
 							{% if beer.ibu != "NA" %}					
 							<td class="beer-qualities_kiosk" style="color:{{page.font_color}};"> IBU: {{ beer.ibu }}</td>
+							{% else %}
+							<td class="beer-qualities_kiosk" style="color:{{page.font_color}};"> IBU: Not Available</td>
 							{% endif %}	
 						</tr>
 					</table>	

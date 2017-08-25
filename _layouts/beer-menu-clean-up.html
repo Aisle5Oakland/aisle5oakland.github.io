@@ -14,6 +14,8 @@
 					ABV: {{ beer.alcohol }} 
 					{% if beer.ibu != "NA" %}
 					IBU: {{beer.ibu}}
+					{% else %}
+					IBU: Not Available
 					{% endif %}
 					)
 				</h3>
