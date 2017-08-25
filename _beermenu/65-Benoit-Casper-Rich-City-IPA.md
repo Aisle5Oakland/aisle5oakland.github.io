@@ -1,0 +1,23 @@
+---
+brand: "Benoit Casper Rich City IPA"
+type: "IPA"
+location: "Richmond, California"
+glass: "pint.png"
+brewery_brand: "benoit-casper-brewing.jpg"
+alcohol: "7.0%"
+ibu: "77"
+tap_order: "116"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "A well-balanced West Coast IPA with Aromas of citrus and Pine. Hops: Simcoe and Amarillo."
+---

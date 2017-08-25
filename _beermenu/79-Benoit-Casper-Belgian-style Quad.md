@@ -2,7 +2,6 @@
 brand: "Benoit Casper Belgian-style Quad"
 type: "Belgian Quad"
 location: "Richmond, California"
-beer_color: "goldenale.png"
 glass: "snifter.png"
 brewery_brand: "benoit-casper-brewing.jpg"
 alcohol: "10%"

@@ -1,0 +1,23 @@
+---
+brand: "Benoit Saison de Casper"
+type: "Saison"
+location: "Richmond, California"
+glass: "pilsner.png"
+brewery_brand: "benoit-casper-brewing.jpg"
+alcohol: "5.5%"
+ibu: "22"
+tap_order: "106"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: ""
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "This most refreshing ale is fermented with a blend of Belgian farmhouse yeast which lend way to some very distinct esters. Accompanied by those unique flavors is a soft malt body and a quenching, crisp finish. Gold Medal Winner, Best of Craft Beer Awards 2016"
+---
