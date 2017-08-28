@@ -2,7 +2,6 @@
 brand: "Drakes Black Robusto Porter"
 type: "Porter"
 location: "San Leandro, California"
-beer_color: "goldenale.png"
 glass: "snifter.png"
 brewery_brand: "drakes.jpg"
 alcohol: "6.3%"

@@ -1,0 +1,23 @@
+---
+brand: "Drakes Dry Irish Stout (Nitro)"
+type: "Stout"
+location: "San Leandro, California"
+glass: "snifter.png"
+brewery_brand: "drakes.jpg"
+alcohol: "4.8%"
+ibu: "22"
+tap_order: "110"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "This dry stout is comprised of a 2-Row malt, roasted barley, and chocolate malts and served on nitrogen. Enjoy the creamy mouthfeel, medium body, and roasty, chocolate flavors in Drake’s version of this classic style.  "
+---
