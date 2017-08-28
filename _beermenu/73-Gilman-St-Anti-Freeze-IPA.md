@@ -8,7 +8,7 @@ alcohol: "8.0%"
 ibu: "NA"
 tap_order: "111"
 flavor_profile:
- - is_bitter: "True"
+ - is_bitter: " "
  - is_strong: "True"
  - is_sweet: " "
  - is_balanced: " "
@@ -19,5 +19,6 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
+ - is_fruity: "True"
 long_desc: "A juicy, hybrid, East meets west Style unfiltered IPA. Like a mai-tai without the rum bite, this beer explodes with tropical aromas and flavors. English style yeast lends a slightly hazy finish and extra smooth Mouthfeel."
 ---
