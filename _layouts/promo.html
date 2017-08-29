@@ -13,13 +13,12 @@ layout: default
 			<div class="row">
 			{% for promotion in site.promotions %}
 			<div style="padding-top:50px; padding-bottom:50px;">
-				<div class="row coupon-background" style="text-align:center; padding-bottom:25px;">
+				<div class="row coupon-background" style="text-align:center; padding-top:50px; padding-bottom:50px;">
 					<div class="col-lg-12">
-						<h1 class="brand-name" style="color:{{page.font_color}};">{{ promotion.Offer_Line_1 }}</h1>
-						<h1 class="brand-name" style="color:{{page.font_color}};">{{ promotion.Offer_Line_2 }}</h1>				
-						<h1 class="brand-name" style="color:{{page.font_color}};">{{ promotion.Offer_Line_3 }}</h1>				
-						<h2 class="brand-name" style="color:{{page.font_color}};">{{ promotion.Offer_limitations }}</h2>				
-						<h2 class="brand-name" style="color:{{page.font_color}};">Offer expires: {{ promotion.end_date }}</h2>				
+						<h1 style="color:{{page.font_color}};">{{ promotion.Offer_Line_1 }}</h1>
+						<h1 style="color:{{page.font_color}};">{{ promotion.Offer_Line_2 }}</h1>	<h1 style="color:{{page.font_color}};">{{ promotion.Offer_Line_3 }}</h1>
+						<h2 style="color:{{page.font_color}};">{{ promotion.Promotion_code }}</h2>	<h2 style="color:{{page.font_color}};">{{ promotion.Offer_limitations }}</h2>				
+						<h2 style="color:{{page.font_color}};"> Offer expires: {{ promotion.end_date }}</h2>				
 					</div>
 				</div>
 			</div>
