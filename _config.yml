@@ -28,6 +28,8 @@ collections:
     output: true
   nav_links:
     output: true
+  promotions:
+    output: true
 
 
 

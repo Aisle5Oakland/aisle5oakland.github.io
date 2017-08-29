@@ -1,0 +1,53 @@
+---
+layout: default
+---
+	<!DOCTYPE html>
+	     <style type="text/css">
+         div.coupon-background {
+			border: dotted 2px black;			 
+			margin:0 auto;
+			width: 50%
+          }
+		</style>
+		<div class="container-fluid">
+			<div class="row">
+			{% for promotion in site.promotions %}
+			<div style="padding-top:50px; padding-bottom:50px;">
+				<div class="row coupon-background" style="text-align:center; padding-bottom:25px;">
+					<div class="col-lg-12">
+						<h1 class="brand-name" style="color:{{page.font_color}};">{{ promotion.Offer_Line_1 }}</h1>
+						<h1 class="brand-name" style="color:{{page.font_color}};">{{ promotion.Offer_Line_2 }}</h1>				
+						<h1 class="brand-name" style="color:{{page.font_color}};">{{ promotion.Offer_Line_3 }}</h1>				
+						<h2 class="brand-name" style="color:{{page.font_color}};">{{ promotion.Offer_limitations }}</h2>				
+						<h2 class="brand-name" style="color:{{page.font_color}};">Offer expires: {{ promotion.end_date }}</h2>				
+					</div>
+				</div>
+			</div>
+			</div>
+			{% endfor %}
+			<div class="row">
+				<div class="col-lg-12 hidden-xs" style="text-align:center; padding-top:50px; padding-bottom:15px;">
+					<address>
+						<strong>Aisle 5 Oakland</strong><br>
+								3320 Grand Avenue<br>
+								Oakland, CA 94610<br>
+						<abbr title="Phone">Phone: </abbr>(510) 879-7053 <br/>
+						<a href="mailto:social@aisle5oakland.com?Subject=Feedback" target="_top">social@aisle5oakland.com</a>
+					</address>			
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-2">
+				</div>
+				<div class="col-lg-8 hidden-xs" style="text-align:center; padding-top:50px; padding-bottom:15px;">
+					<iframe
+						width="975"
+						height="450"
+						frameborder="0" style="border:0"
+						src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB8Ag9qo2hn4TSXZcyChHNstIimkffE29M&q=Aisle 5,Oakland+Ca" allowfullscreen>
+					</iframe>
+				</div>
+				<div class="col-lg-2">
+				</div>
+			</div>
+		</div>
