@@ -1,0 +1,23 @@
+---
+brand: "Shadow Puppet Kokonati Porter"
+type: "Porter"
+location: "Livermore, California"
+glass: "snifter.png"
+brewery_brand: "shadow-puppet.png"
+alcohol: "8.1%"
+ibu: "29"
+tap_order: "110"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Originally brewed to be shipped across the North Sea, Baltic Porters are stronger and bolder than traditional Porters. A solid presence of toasted coconut combined with a robust roasted malt and chocolate notes."
+---
