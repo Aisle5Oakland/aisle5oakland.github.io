@@ -1,0 +1,23 @@
+---
+brand: "South City Original Cider"
+type: "Cider"
+location: "San Bruno, CA"
+glass: "snifter.png"
+brewery_brand: "south-city-cider.png"
+alcohol: "5.5%"
+ibu: "NA"
+tap_order: "118"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: ""
+ - is_light_crisp: "True"
+ - is_creamy: ""
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "This semi-sweet, dry finishing cider is known for it's easy drinkability without being overly sweet."
+---

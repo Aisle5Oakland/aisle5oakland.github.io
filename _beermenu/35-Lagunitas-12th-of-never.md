@@ -1,0 +1,23 @@
+---
+brand: "Lagunitas 12th of Never"
+type: "Pale Ale"
+location: "Petaluma, California"
+glass: "pint.png"
+brewery_brand: "lagunitas.png"
+alcohol: "5.5%"
+ibu: "45"
+tap_order: "102"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "12th of Never is a blend of Old and New School hops that play bright citrus, rich coconut, and papaya-esque flavors, all on a solid stage of English puffed wheat. Tropically hoppy. Light, yet full-bodied. Bright and citrusy."
+---
