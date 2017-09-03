@@ -1,0 +1,23 @@
+---
+brand: "Barebottle California Kolsch"
+type: "Kolsch"
+location: "San Francisco, California"
+glass: "pint.png"
+brewery_brand: "bare-bottle.png"
+alcohol: "4.5%"
+ibu: "NA"
+tap_order: "104"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Bright, refreshing, drinkable, Barebottle Brewery's take on the famous style from Cologne, Germany. Fermented cold at 64F with an honest to goodness Kolsch yeast strain from the banks of the Rhine river."
+---
