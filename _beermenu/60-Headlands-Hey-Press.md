@@ -1,0 +1,25 @@
+---
+brand: "Headlands Haypress"
+type: "Pale Ale"
+location: "Mill Valley, California"
+glass: "pint.png"
+brewery_brand: "headlands-brewing-company.png"
+alcohol: "5.3%"
+ibu: "NA"
+tap_order: "114"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: " "
+---
+
