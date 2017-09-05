@@ -1,0 +1,23 @@
+---
+brand: "Alpine Truck Trail Ale"
+type: "Pale Ale"
+location: "Alpine, California"
+glass: "pint.png"
+brewery_brand: "alpine.png"
+alcohol: "5.5%"
+ibu: "31"
+tap_order: "105"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: "True"
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "This American Pale Ale features a balanced blend of Cascade and Centennial hops. It pours a golden yellow with an eggshell colored beer foam and its bold hop-bitterness is perfectly balanced by a mellow, malty sweetness. Dominant notes of fresh pine needles and zesty citrus rind make this a classic example of the style."
+---
