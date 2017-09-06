@@ -1,5 +1,5 @@
 ---
-brand: "Hermitage Strawberry-Rhubarb Sour"
+brand: "Hermitage Strawberry-Rhubarb"
 type: "Sour"
 location: "San Jose, Ca"
 glass: "snifter.png"
