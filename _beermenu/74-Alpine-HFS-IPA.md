@@ -1,0 +1,22 @@
+---
+brand: "Alpine HFS IPA"
+type: "IPA"
+location: "Alpine, California"
+glass: "pint.png"
+brewery_brand: "alpine.png"
+alcohol: "6.5%"
+ibu: "NA"
+tap_order: "113"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Single IPA that pours golden with a white head that lingers. Sweet fruity and malty with resonating notes of tangerine, mango, peach, carsmel malty backbone, hoppy bitter finish."
+---
