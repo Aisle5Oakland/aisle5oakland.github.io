@@ -94,7 +94,7 @@ layout: default
 				</tr>
 				<tr>
 					<td>
-						<p class="food-item-modifier">Add Grilled Chicken $6, Smoked Brisket $6, Grilled Shrimp $8, or Grilled Salmon $8</p>
+						<p class="food-item-modifier">Add Pulled Smoked Chicken $6, Smoked Brisket $6, Grilled Shrimp $8, Grilled Salmon $8, Fried Artichokes $4</p>
 					</td>
 				</tr>
 				{% for food in site.foodmenu %}
@@ -161,45 +161,6 @@ layout: default
 								{% endif %}	
 
 							</p>
-						</td>
-					</tr>
-				{% endif %}
-				{% endfor %}
-				<!-- start sides -->
-				<tr><td style="height: 50px;"/></tr>
-				<tr>
-					<td>
-						<h2 class="menu-name">Sides:</h2>
-					</td>
-				</tr>
-				{% for food in site.foodmenu %}
-				{% if food.type == "sides" %}
-					<tr>
-						<td>
-							<h3 class="food-item">{{ food.name }} </h3>
-						</td>
-						<td>
-							<p class="food-item">{{ food.price }}</p>
-						</td>
-					</tr>
-				{% endif %}
-				{% endfor %}
-
-			<!-- start drinks -->
-				<tr><td style="height: 50px;"/></tr>
-				<tr>
-					<td>
-						<h2 class="menu-name">Drinks:</h2>
-					</td>
-				</tr>
-				{% for food in site.foodmenu %}
-				{% if food.type == "drinks" %}
-					<tr>
-						<td>
-							<h3 class="food-item">{{ food.name }} </h3>
-						</td>
-						<td>
-							<p class="food-item">{{ food.price }}</p>
 						</td>
 					</tr>
 				{% endif %}

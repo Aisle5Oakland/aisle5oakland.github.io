@@ -1,7 +1,7 @@
 ---
 name: "Mixed Greens Salad"
 type: "salad"
-description: "Fresh Seasonal Greens, Tomatoes, Cucumber & Red Onion, with a Porter Balsamic Vinaigrette"
+description: "Fresh seasonal greens, smoked tomatoes, cucumber & pickled red onion, with a Porter balsamic vinaigrette"
 modifier_1: " "
 modifier_2: " "
 price: "$12"
