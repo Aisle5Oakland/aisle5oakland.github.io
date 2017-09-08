@@ -1,7 +1,7 @@
 ---
 name: "Burrata & Olive"
 type: "pizza"
-description: "Fresh Burrata Cheese, Kalamata Olives, Burrata, Cherry Tomatoes, Caramelized Red Onion, Basil, and Arugula, Finished with Garlic Oil, and a Honey Porter Balsamic Reduction."
+description: "Fresh burrata cheese, kalamata olives, cherry tomatoes, caramelized red onion, fresh basil, and arugula. Finished with a porter balsamic reduction."
 modifier_1: " "
 modifier_2: " "
 price: "$19"

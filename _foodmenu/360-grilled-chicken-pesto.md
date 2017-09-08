@@ -1,7 +1,7 @@
 ---
 name: "Grilled Chicken Pesto"
 type: "pizza"
-description: "Grilled Chicken, Roasted Red Peppers, Mozzarella, Parmesan, and House Pesto."
+description: "Roasted red peppers, mozzarella, parmesan, and house pesto."
 modifier_1: " "
 modifier_2: " "
 price: "$19"
