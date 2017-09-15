@@ -58,40 +58,34 @@ layout: default
 							<td>Flavor Profile: 
 								{% for profile in beer.flavor_profile %}
 									{% if profile.is_bitter == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/bitter.png>
+										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/bitter.png title="Bitter">
 									{% endif %}
 									{% if profile.is_strong == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/strong.png>
+										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/strong.png title="Strong">
 									{% endif %}
 									{% if profile.is_sweet == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/sweet.png>
-									{% endif %}
-									{% if profile.is_balanced == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/balanced.png>
+										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/sweet.png title="Sweet">
 									{% endif %}
 									{% if profile.is_light_crisp == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/crisp.png>
+										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/crisp.png title="Crisp">
 									{% endif %}
 									{% if profile.is_creamy == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/creamy.png>
+										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/creamy.png title="Creamy">
 									{% endif %}
 									{% if profile.is_hoppy == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/hopps.png>
-									{% endif %}
-									{% if profile.is_extra_hoppy == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/hoppsx.png>
+										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/hopps.png title="Hoppy">
 									{% endif %}
 									{% if profile.is_light == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/light.png>
+										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/light.png title="Light">
 									{% endif %}
 									{% if profile.is_malty == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/malt.png>
+										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/malt.png title="Malty">
 									{% endif %}
 									{% if profile.is_sour == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/sour.png>
+										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/sour.png title="Sour">
 									{% endif %}
 									{% if profile.is_fruity == "True" %}
-										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/fruity.png>
+										<img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/fruity.png title="Fruity">
 									{% endif %}
 								{% endfor %}
 							</td>
