@@ -28,14 +28,30 @@ layout: default
 					<td>
 					</td>
 					<td>
+						<p class="food-item">Type: {{beer.type}}</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+					</td>
+					<td>
+						<p class="food-item">ABV: {{ beer.alcohol }}</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+					</td>
+					<td>
 						<p class="food-item">
-							ABV: {{ beer.alcohol }} 
 							{% if beer.ibu != "NA" %}
-							IBU: {{beer.ibu}}
-							{% endif %}		
+								IBU: {{beer.ibu}}
+							{% else %}
+								IBU: Not Available
+							{% endif %}
 						</p>
 					</td>
 				</tr>
+
 				<tr>
 					<td>
 					</td>
