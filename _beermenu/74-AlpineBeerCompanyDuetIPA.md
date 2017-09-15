@@ -2,7 +2,6 @@
 brand: "Alpine Company Duet IPA"
 type: "IPA"
 location: "Alpine, California"
-beer_color: "pilsner.png"
 glass: "pint.png"
 brewery_brand: "alpine.png"
 alcohol: "7.0%"
@@ -22,5 +21,3 @@ flavor_profile:
  - is_sour: " "
 long_desc: "Single IPA made with Simcoe and Amarillo hops in harmony. This is a balanced IPA - not too hoppy, not too bitter."
 ---
-
-This is a description for Alpine Beer Company Duet IPA
