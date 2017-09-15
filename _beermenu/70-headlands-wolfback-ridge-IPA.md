@@ -1,0 +1,22 @@
+---
+brand: "Headlands Wolfback Ridge IPA"
+type: "IPA"
+location: "Mill Valley, California"
+glass: "pint.png"
+brewery_brand: "headlands-brewing-company.png"
+alcohol: "6.5%"
+ibu: "45"
+tap_order: "116"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Wolfback Ridge is our rye IPA with a heavy dose of Mosaic hops. The tropical and floral hop aromas pierce through the grain bill to create brew that skews towards hops, but doesn’t wreck your palate."
+---
