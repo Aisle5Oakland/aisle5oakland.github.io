@@ -1,0 +1,21 @@
+---
+brand: "Eight Bridges Marzen"
+type: "Marzen"
+location: "Livermore, California"
+glass: "pint.png"
+brewery_brand: "eightbridges.png"
+alcohol: "5.8%"
+ibu: "NA"
+tap_order: "115"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: " "
+---
