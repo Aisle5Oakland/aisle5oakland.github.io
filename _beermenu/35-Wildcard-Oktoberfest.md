@@ -1,0 +1,23 @@
+---
+brand: "Wildcard Octoberfest"
+type: "Marzen"
+location: "Redding, California"
+glass: "pint.png"
+brewery_brand: "wildcard.png"
+alcohol: "5.3%"
+ibu: "NA"
+tap_order: "102"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: " "
+---
