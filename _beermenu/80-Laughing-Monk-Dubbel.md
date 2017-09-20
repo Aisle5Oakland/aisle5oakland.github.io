@@ -1,0 +1,23 @@
+---
+brand: "Laughing Monk Dubbel"
+type: "Belgian Dubbel"
+location: "San Francisco, California"
+glass: "snifter.png"
+brewery_brand: "laughing-monk.png"
+alcohol: "7.1%"
+ibu: "15"
+tap_order: "112"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "A classic Belgian style Dubbel with notes of dried fruits and chocolate emanate from the glass. Pleasant flavors of Plum, Dates, and Raisins hit the palate with an undertone of chocolate and bready notes. Lingering finish holds similar flavors to the palate, with a more accentuated bready note."
+---

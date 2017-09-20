@@ -1,0 +1,22 @@
+---
+brand: "Laughing Monk Bayview Golden"
+type: "Golden Ale"
+location: "San Francisco, California"
+glass: "snifter.png"
+brewery_brand: "laughing-monk.png"
+alcohol: "5.5%"
+ibu: "23"
+tap_order: "102"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "A deep Golden Ale brewed with Organic Chamomile flower grown by our community garden partners in the Bayview neighborhood of San Francisco. Light spice and lemon yeast character pairs perfectly with the floral and soft citrus notes of the Chamomile. Bright, refreshing, and very well balanced for an enjoyable year round Golden Ale."
+---
