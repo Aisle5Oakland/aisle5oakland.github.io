@@ -1,0 +1,23 @@
+---
+brand: "Anchor Steam Coffee Porter"
+type: "Porter"
+location: "San Francisco, California"
+glass: "snifter.png"
+brewery_brand: "anchor-steam.png"
+alcohol: "6.7%"
+ibu: "NA"
+tap_order: "120"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Anchor Coffee Porter is a rich, smooth Porter with a roasty malt backbone, a bold coffee aroma and complex layers of chocolate, nuts and spices."
+---
