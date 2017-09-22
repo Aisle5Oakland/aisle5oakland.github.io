@@ -1,0 +1,23 @@
+---
+brand: "Shadow Puppet Milk Stout (Nitro)"
+type: "Stout"
+location: "Livermore, California"
+glass: "snifter.png"
+brewery_brand: "shadow-puppet.png"
+alcohol: "6.0%"
+ibu: "25"
+tap_order: "110"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Starts with chocolate and coffee on the nose which carries through to the palate, ending with a creamy finish."
+---

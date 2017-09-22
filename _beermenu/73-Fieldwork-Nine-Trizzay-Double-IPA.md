@@ -2,7 +2,7 @@
 brand: "Fieldwork Nine Trizzay IPA"
 type: "Double IPA"
 location: "Berkeley, Ca"
-glass: "pint.png"
+glass: "snifter.png"
 brewery_brand: "fieldwork.jpg"
 alcohol: "9.3%"
 ibu: "NA"
