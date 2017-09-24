@@ -17,5 +17,5 @@ flavor_profile:
  - is_light: " "
  - is_malty: "True"
  - is_sour: " "
-long_desc: " "
+long_desc: "This amber lager is malty with a touch of hops. The aroma is of lightly toasted malts and smells similar to fresh baked bread."
 ---
