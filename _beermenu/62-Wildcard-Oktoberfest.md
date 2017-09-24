@@ -6,7 +6,7 @@ glass: "pint.png"
 brewery_brand: "wildcard.png"
 alcohol: "5.3%"
 ibu: "NA"
-tap_order: "102"
+tap_order: "103"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
