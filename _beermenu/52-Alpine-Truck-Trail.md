@@ -6,7 +6,7 @@ glass: "pint.png"
 brewery_brand: "alpine.png"
 alcohol: "5.5%"
 ibu: "31"
-tap_order: "105"
+tap_order: "103"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
