@@ -1,0 +1,36 @@
+---
+
+---
+	<!DOCTYPE html>
+	<html lang="en-us">
+		{% include head.html %}
+		{% assign start_index  = {{page.start_index}} %}
+		{% assign end_index  = {{page.end_index}} %}
+        <style type="text/css">
+         body.screen-background {
+             background-image: url("{{site.url}}{{site.baseurl}}/public/images/{{page.background_file}}");
+			 background-repeat: repeat;
+          }
+		</style>
+	<body class="screen-background" style="padding-top: 0px;">
+		<div class="container-fluid">	
+        {% for beer in site.beermenu %}
+		{% if forloop.index >= start_index and forloop.index <= end_index %}
+			<div class="row">
+				<div class="col-lg-12">	
+					<hr class="style2"></hr>
+				</div>
+			</div>
+			<div class="row">
+				<div class="hidden-xs hidden-md col-lg-1">
+					<img class="brewery_brand" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
+				</div>
+				<div class="col-lg-4">
+					<h1 class="brand-name" style="color:{{page.font_color}};">{{ beer.brand }}</h1>				
+				</div>
+			</div>
+		{% endif %}
+		</div>
+		{% endfor %}
+	</body>
+	</html>
