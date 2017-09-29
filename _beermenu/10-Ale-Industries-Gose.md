@@ -1,0 +1,23 @@
+---
+brand: "Ale Industries Gose"
+type: "Gose"
+location: "Oakland, California"
+glass: "pint.png"
+brewery_brand: "ale-industries.png"
+alcohol: "4.4%"
+ibu: "NA"
+tap_order: "112"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: "True"
+long_desc: "Say hello to this gorgeous gose that sparkles and shines across your tastebuds. Effervescent, delicious, and hella tangy."
+---
