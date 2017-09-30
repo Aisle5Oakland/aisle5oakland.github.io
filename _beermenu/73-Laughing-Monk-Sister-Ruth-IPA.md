@@ -1,0 +1,23 @@
+---
+brand: "Laughing Monk Sister Ruth"
+type: "IPA"
+location: "San Francisco, California"
+glass: "pint.png"
+brewery_brand: "laughing-monk.png"
+alcohol: "6.8%"
+ibu: "40"
+tap_order: "119"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "Hazy, light gold in color with aromas of grapefruit, pineapple and citrus. Flavors of orange, mango and pineapple pair well with this beer's slight bitterness. The lingering, semi-dry finish is accompanied by notes of citrus and pear."
+---
