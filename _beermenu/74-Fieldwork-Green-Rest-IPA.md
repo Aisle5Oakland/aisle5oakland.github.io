@@ -1,0 +1,23 @@
+---
+brand: "Fieldwork Green Rest IPA"
+type: "IPA"
+location: "Berkeley, Ca"
+glass: "pint.png"
+brewery_brand: "fieldwork.jpg"
+alcohol: "6.9%"
+ibu: "NA"
+tap_order: "113"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Green Rest IPA is a veritable playground for the infinitely complex hops known as Simcoe. Its nose is untamed with potent aromas of fresh grapefruit and sweet guava."
+---
