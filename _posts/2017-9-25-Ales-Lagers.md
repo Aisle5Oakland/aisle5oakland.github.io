@@ -1,0 +1,5 @@
+---
+title: The difference between ales and lagers
+image: "Lager-vs-Ale.jpg"
+---
+And now for perhaps the most basic lesson when it comes to beer: What’s the difference between ales and lagers? Ales are the veterans of the beer game; they’ve been around for thousands of years. Lagers are newbies, only around for possibly hundreds of years, though they’ve certainly made a name for themselves. The most basic difference comes from the yeast. Ales use “top-fermenting” yeasts, whereas lagers use “bottom-fermenting” strains. An article from Popular Science breaks down the difference in greater detail [here](http://www.popsci.com/science/article/2013-01/beersci-what-difference-between-lager-and-ale). Lagers are usually described as “crisp,” and almost all of the major commercial beer brands (Budweiser, Heineken, Coors, etc.) are lagers. Ales are much more versatile, and oftentimes are described as hoppy or bitter. Social Kitchen & Brewery MR. KITE'S is an excellent example of an English-style pale Ale with tasting notes of dried apricot, honey, nuts. Taste the differences for yourself at Aisle 5 today!
