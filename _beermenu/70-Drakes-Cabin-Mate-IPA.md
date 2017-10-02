@@ -1,0 +1,22 @@
+---
+brand: "Drakes Cabin Mates IPA"
+type: "IPA"
+location: "San Leandro, California"
+glass: "pint.png"
+brewery_brand: "drakes.jpg"
+alcohol: "5.0%"
+ibu: "NA"
+tap_order: "116"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Sessionable IPA infused with coffee"
+---

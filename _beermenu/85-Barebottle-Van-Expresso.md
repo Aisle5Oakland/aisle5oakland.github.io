@@ -1,0 +1,23 @@
+---
+brand: "Barebottle Vanilla Expresso (Nitro) "
+type: "Stout"
+location: "San Francisco, Ca"
+glass: "snifter.png"
+brewery_brand: "bare-bottle.png"
+alcohol: "5.3%"
+ibu: "NA"
+tap_order: "109"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Tasting notes of bourbon soaked vanilla beans, espresso coffee, milk sugar, and stout."
+---

@@ -1,0 +1,22 @@
+---
+brand: "Knee Deep Citra Pale Ale"
+type: "Pale Ale"
+location: "Auburn, California"
+glass: "pint.png"
+brewery_brand: "knee-deep.png"
+alcohol: "7.0%"
+ibu: "45"
+tap_order: "105"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "A single hop, West Coast style American Pale Ale with intense hop flavor and aromas.  This is a citrus bomb that has grapefruit and passion fruit aromas with citrus lime flavors."
+---
