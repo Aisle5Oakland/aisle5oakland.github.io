@@ -1,0 +1,22 @@
+---
+brand: "Epidemic Zombie Brew IPA"
+type: "IPA"
+location: "Concord, California"
+glass: "pint.png"
+brewery_brand: "epidemic-ales.png"
+alcohol: "7.0%"
+ibu: "NA"
+tap_order: "116"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "A frighteningly good IPA with a medium malt body that allows you to really sink your teeth into the five different hop varieties.  Your mouth will be murdered with a striking but balanced bitterness then reanimated with the subtle fruit flavors and a snappy dry finish."
+---

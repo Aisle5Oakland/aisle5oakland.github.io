@@ -1,0 +1,22 @@
+---
+brand: "Epidemic Affliction Amber"
+type: "Amber Ale"
+location: "Concord, California"
+glass: "pint.png"
+brewery_brand: "epidemic-ales.png"
+alcohol: "5.5%"
+ibu: "26"
+tap_order: "105"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "When struck with an affliction that requires a great beer, this is your go-to amber ale.  Various specialty malts add a complex flavor and impart a deep red color, while abundant hops force you to surrender to a pleasant citrus finish.  Go to your happy place sipping this perfectly crisp, bright amber."
+---
