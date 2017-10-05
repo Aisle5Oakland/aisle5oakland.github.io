@@ -1,7 +1,8 @@
 ---
-brand: "Sonoma Cider The Hatchet"
+brand: "Sonoma Might Dry Cider"
 type: "Cider"
 location: "Healdsburg, CA"
+glass: "snifter.png"
 beer_color: "pale-ale.png"
 brewery_brand: "sonoma-cider.jpg"
 alcohol: "6.0%"
