@@ -1,0 +1,22 @@
+---
+brand: "Golden State Brut Cider"
+type: "Cider"
+location: "Sebastopol, CA"
+glass: "snifter.png"
+brewery_brand: "Golden-State-Cider.png"
+alcohol: "6.9%"
+ibu: "NA"
+tap_order: "118"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_light_crisp: "True"
+ - is_creamy: ""
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "A true rustic style cider, Bay Brut offers layers of stone fruit, green apple peel, and Bay leaf, followed by a gripping minerality and smooth finish. Enjoy chilled in a bulbous glass and expect a cloudy cider."
+---

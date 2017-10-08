@@ -1,0 +1,23 @@
+---
+brand: "Line 51 Baltic Porter"
+type: "Porter"
+location: "Oakland, California"
+glass: "snifter.png"
+brewery_brand: "line51.jpg"
+alcohol: "8.0%"
+ibu: "26"
+tap_order: "120"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "All European malts combined with lager fermentation bring a rich sweetness which smoothly transforms to a moderately roasted finish."
+---
