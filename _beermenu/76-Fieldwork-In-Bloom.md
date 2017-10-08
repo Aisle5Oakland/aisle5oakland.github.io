@@ -2,11 +2,11 @@
 brand: "Fieldwork In Bloom Double IPA"
 type: "Double IPA"
 location: "Berkeley, California"
-beer_color: "pilsner.png"
+glass: "snifter.png"
 brewery_brand: "fieldwork.jpg"
 alcohol: "8.2%"
 ibu: "NA"
-tap_order: "119"
+tap_order: "111"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: "True"
