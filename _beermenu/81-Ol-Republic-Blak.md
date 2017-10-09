@@ -1,0 +1,23 @@
+---
+brand: "Ol Republic Black Lager"
+type: "Black Lager"
+location: "Nevada City, California"
+glass: "pint.png"
+brewery_brand: "ol-republic.png"
+alcohol: "4.8%"
+ibu: "NA"
+tap_order: "108"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Deep mahogany in color, this beer has an aroma of full malt roastiness and hints of coffee. This lager shows a clean, bittersweet flavor reminiscent of cocoa, and a very restrained Noble hop character."
+---

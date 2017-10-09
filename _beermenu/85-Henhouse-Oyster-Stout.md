@@ -1,0 +1,23 @@
+---
+brand: "Henhouse Oyster Stout (Nitro) "
+type: "Stout"
+location: "Petaluma, Ca"
+glass: "snifter.png"
+brewery_brand: "henhouse.png"
+alcohol: "4.9%"
+ibu: "NA"
+tap_order: "109"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Starts off with some roasted chocolate malts with a hint of coffee and a bit of a mineraly flavor. Through the middle, some sweeter milk chocolate flavors come through with a bit more roasted flavor. The finish is a mix of roasted chocolate and coffee with a touch of sweetness and minerals, and a hint of dark fruit."
+---

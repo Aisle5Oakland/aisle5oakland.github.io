@@ -2,7 +2,7 @@
 brand: "Highwater Cucumber Kolsch"
 type: "Kolsch"
 location: "San Leandro, California"
-beer_color: "pale-ale.png"
+glass: "pint.png"
 brewery_brand: "highwater-brewing.png"
 alcohol: "4.8%"
 ibu: "15"

@@ -1,0 +1,25 @@
+---
+brand: "Anderson Valley Summer Solstice"
+type: "Cream Ale"
+location: "Boonville, California"
+glass: "pint.png"
+brewery_brand: "anderson-valley.png"
+alcohol: "5.0%"
+ibu: "NA"
+tap_order: "114"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Copper colored ale is a silky, creamy dream. It’s malty, very mildly hopped, & lightly sweet, with a delicate hint of spice for that oh-so-drinkable, extra velvet."
+---
+

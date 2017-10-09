@@ -1,0 +1,23 @@
+---
+brand: "New Bohemia Amirita IPA"
+type: "IPA"
+location: "Santa Cruz, Ca"
+glass: "pint.png"
+brewery_brand: "new-bohemia-brewing-co.png"
+alcohol: "6.0%"
+ibu: "69"
+tap_order: "113"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "This IPA boasts citrusy orange aromas complemented by a slight bitterness provided by El Dorado and Mandarina Bavaria hops."
+---
