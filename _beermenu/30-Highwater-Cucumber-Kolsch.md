@@ -1,0 +1,23 @@
+---
+brand: "Highwater Cucumber Kolsch"
+type: "Kolsch"
+location: "San Leandro, California"
+beer_color: "pale-ale.png"
+brewery_brand: "highwater-brewing.png"
+alcohol: "4.8%"
+ibu: "15"
+tap_order: "104"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "This Kolsch is brewed with pure German Pilsner malt, fresh Cucumber and Coconut waters and the delicate caress of the finest German noble hops."
+---
