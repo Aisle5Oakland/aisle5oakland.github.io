@@ -1,5 +1,5 @@
 ---
-brand: "Ol Republic Black Lager"
+brand: "Ol Republic Blak Lager"
 type: "Black Lager"
 location: "Nevada City, California"
 glass: "pint.png"
