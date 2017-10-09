@@ -1,5 +1,5 @@
 ---
-brand: "New Bohemia Amirita IPA"
+brand: "New Bohemia Amrita IPA"
 type: "IPA"
 location: "Santa Cruz, Ca"
 glass: "pint.png"
