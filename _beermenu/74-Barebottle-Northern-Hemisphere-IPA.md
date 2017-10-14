@@ -1,0 +1,23 @@
+---
+brand: "Barebottle N Hemisphere IPA"
+type: "IPA"
+location: "San Francisco, California"
+glass: "pint.png"
+brewery_brand: "bare-bottle.png"
+alcohol: "6.2%"
+ibu: "77"
+tap_order: "113"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Keeping it All-West Coast, Vito & David from Bay Area Mashers and Diablo Order of Zymiracle Enthusiasts, made the best of new American Citrusy/Piney hops."
+---
