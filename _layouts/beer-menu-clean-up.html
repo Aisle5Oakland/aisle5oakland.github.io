@@ -6,64 +6,21 @@
 {% assign beer_count = 0 %}
 <div class="container-fluid no-padding">
 	<div class="row">
-		<div class="col-lg-12 col-xs-12 col-md-6">
-			<table width="100%">
-				{% for beer in beer_sorted_list %}
-				{% assign beer_count = beer_count | plus: 1 %}
-				<tr>
-					<td width="10%"><h3># {{ beer_count }}</h3></td>
-					<td><h3 class="food-item">{{ beer.brand }}</h3></td>
-					<td>
-							{% for profile in beer.flavor_profile %}
-							{% if profile.is_bitter == "True" %}
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/bitter.png>
-							{% endif %}
-							{% if profile.is_strong == "True" %}
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/strong.png>
-							{% endif %}
-							{% if profile.is_sweet == "True" %}
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/sweet.png>
-							{% endif %}
-							{% if profile.is_light_crisp == "True" %}
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/crisp.png>
-							{% endif %}
-							{% if profile.is_creamy == "True" %}
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/creamy.png>
-							{% endif %}
-							{% if profile.is_hoppy == "True" %}
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/hopps.png>
-							{% endif %}
-							{% if profile.is_extra_hoppy == "True" %}
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/hoppsx.png>
-							{% endif %}
-							{% if profile.is_light == "True" %}
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/light.png>
-							{% endif %}
-							{% if profile.is_malty == "True" %}
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/malt.png>
-							{% endif %}
-							{% if profile.is_sour == "True" %}
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/sour.png>
-							{% endif %}
-							{% if profile.is_fruity == "True" %}
-								<img class="flavor_image" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/fruity.png>
-							{% endif %}
-						{% endfor %}
-					</td>
-					<td>ABV: {{ beer.alcohol }}</td>
-					<td>
-						{% if beer.ibu != "NA" %}
-						IBU: {{beer.ibu}}
-						{% else %}
-						IBU: Not Available
-						{% endif %}
-					</td>
-				</tr>
-				<tr>
-					<td colspan="4"><p class="brand-long-desc">{{ beer.long_desc }}</p></td>
-				</tr>
+		<div class="col-lg-6 col-xs-12 col-md-6">
+			{% for beer in beer_sorted_list %}
+			{% assign beer_count = beer_count | plus: 1 %}
+				<h3 class="food-item">{{ beer_count }}.  {{ beer.brand }}
+					(
+					ABV: {{ beer.alcohol }} 
+					{% if beer.ibu != "NA" %}
+					IBU: {{beer.ibu}}
+					{% else %}
+					IBU: Not Available
+					{% endif %}
+					)
+				</h3>
+				<p class="brand-long-desc">{{ beer.long_desc }}</p>
 				{% endfor %}
-			</table>
 		</div>
 	</div>
 </div>
