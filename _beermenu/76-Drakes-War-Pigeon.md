@@ -1,0 +1,23 @@
+---
+brand: "Drakes War Pigeon Double IPA"
+type: "Double IPA"
+location: "San Leandro, California"
+glass: "snifter.png"
+brewery_brand: "drakes.jpg"
+alcohol: "8.0%"
+ibu: "87"
+tap_order: "111"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "What starts as a faint hum builds to a roaring crescendo as the War Pigeons take to the sky. A telegraphed warning comes over the wire, but it’s too late. You’ve been hit. We deployed the freshest hops in our hop arsenal and the payload is a blast of dank, floral citrus. Surrender to the aromatic blitzkrieg as the hops rain down."
+---

@@ -1,0 +1,23 @@
+---
+brand: "Oakland United Ales ALS"
+type: "Pale Ale"
+location: "Oakland, California"
+glass: "pint.png"
+brewery_brand: "oakland-united.png"
+alcohol: "5.7%"
+ibu: "45"
+tap_order: "103"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "We decided to keep this American Pale Ale unfiltered to maximize the flavor and aroma of this year’s hop blend. Orange zest, spice, lemon peel and berries rise from the glass. Pine and orange marmalade dance on your tongue. The pale orange color is appropriate for the flavor and aroma of this special brew."
+---
