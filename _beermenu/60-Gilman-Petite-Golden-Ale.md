@@ -1,0 +1,25 @@
+---
+brand: "Gilman Petite Golden Ale"
+type: "Golden Ale"
+location: "Berkeley, California"
+glass: "pint.png"
+brewery_brand: "Gilman-Street-Brewing.png"
+alcohol: "3.7%"
+ibu: "NA"
+tap_order: "114"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "A Belgian golden with a Japanese twist. Pilsner malt and rice lend a crisp malt backbone with a medium golden body. An extremely refreshing summer session beer. "
+---
+
