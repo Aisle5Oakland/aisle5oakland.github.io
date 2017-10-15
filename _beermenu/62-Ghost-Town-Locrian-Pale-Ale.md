@@ -1,0 +1,22 @@
+---
+brand: "Ghost Town Locrian Pale Ale"
+type: "Pale Ale"
+location: "Oakland, California"
+glass: "pint.png"
+brewery_brand: "ghost-town-brewing.jpg"
+alcohol: "5.3%"
+ibu: "NA"
+tap_order: "102"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "The American style Pale Ale is continuously hopped in the kettle and dry-hopped for a refreshing sessionable beer with notes of light lemon citrus."
+---
