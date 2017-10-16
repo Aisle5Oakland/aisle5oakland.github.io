@@ -1,0 +1,22 @@
+---
+brand: "New Bohemia Lager"
+type: "Pale Ale"
+location: "Santa Cruz, California"
+glass: "pint.png"
+brewery_brand: "new-bohemia-brewing-co.png"
+alcohol: "5.5%"
+ibu: "32"
+tap_order: "105"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "This copper Vienna-style lager has a hint of sweetness that makes it go down incredibly smooth. Aromas of toasted bread, honey and a touch of our lemon drop hops."
+---
