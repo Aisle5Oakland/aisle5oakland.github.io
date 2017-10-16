@@ -9,7 +9,7 @@ ibu: "26"
 tap_order: "120"
 flavor_profile:
  - is_bitter: " "
- - is_strong: " "
+ - is_strong: "True"
  - is_sweet: "True"
  - is_balanced: " "
  - is_light_crisp: " "

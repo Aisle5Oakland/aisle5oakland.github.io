@@ -1,0 +1,23 @@
+---
+brand: "Laughing Monk Blackberry Triple"
+type: "Belgian Tripel"
+location: "San Francisco, California"
+glass: "snifter.png"
+brewery_brand: "laughing-monk.png"
+alcohol: "7.6%"
+ibu: "15"
+tap_order: "108"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "Dark amber with a purple haze and frothy off-white head. Aromas of berries and chocolate are matched with flavors of blackberries, spice and toasted malt. Light bodied with notes of dried fruit accompany the semi-dry, lingering finish."
+---
