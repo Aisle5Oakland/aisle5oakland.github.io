@@ -5,7 +5,7 @@ location: "Livermore, California"
 glass: "snifter.png"
 brewery_brand: "altamont-beer-works.jpg"
 alcohol: "5.5%"
-ibu: "26"
+ibu: "NA"
 tap_order: "120"
 flavor_profile:
  - is_bitter: " "
