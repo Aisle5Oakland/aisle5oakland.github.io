@@ -25,6 +25,11 @@ body {
   padding-bottom: 15px;
 }
 
+.flavor_image_clean_up {
+	width: 9px; 
+	height:10px;
+}
+
 .flavor_image_kiosk {
 	width: 49px; 
 	height:56px;

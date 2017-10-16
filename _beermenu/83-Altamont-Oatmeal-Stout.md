@@ -1,0 +1,23 @@
+---
+brand: "Altamont Oatmeal Stout"
+type: "Stout"
+location: "Livermore, California"
+glass: "snifter.png"
+brewery_brand: "altamont-beer-works.jpg"
+alcohol: "5.5%"
+ibu: "26"
+tap_order: "120"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Nutty Operator is a peanut butter version of Smooth Operator, a smooth, rich, full-bodied oatmeal stout. Heavy on the oats and chocolate malt, this complex beer balances out with a medium roast character, followed by huge flavors and aromas of peanut butter; like drinking a Reese’s Peanut Butter Cup."
+---
