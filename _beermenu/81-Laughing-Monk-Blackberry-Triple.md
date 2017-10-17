@@ -1,5 +1,5 @@
 ---
-brand: "Laughing Monk Blackberry Triple"
+brand: "Laughing Monk Blackberry Tripel"
 type: "Belgian Tripel"
 location: "San Francisco, California"
 glass: "snifter.png"
