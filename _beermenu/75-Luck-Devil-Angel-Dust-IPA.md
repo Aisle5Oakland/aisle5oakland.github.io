@@ -1,0 +1,23 @@
+---
+brand: "Lucky Devil Angel Dust"
+type: "IPA"
+location: "Oakland, California"
+glass: "pint.png"
+brewery_brand: "logo-luckydevil.png"
+alcohol: "7.0%"
+ibu: "70"
+tap_order: "113"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Angel Dust is  remarkably dank and aromatic with notes of grapefruit,eucalyptus, mandarin orange and a slight hint of coriander. Adorned with a plethora of Simcoe and Mosaic hops, Angel Dust threatens to become a delectable addiction for many a hophead."
+---
