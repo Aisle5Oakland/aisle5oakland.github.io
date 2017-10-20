@@ -1,0 +1,23 @@
+---
+brand: "Laughing Monk Pilsner"
+type: "Pilsner"
+location: "San Francisco, California"
+glass: "pilsner.png"
+brewery_brand: "laughing-monk.png"
+alcohol: "5.3%"
+ibu: "NA"
+tap_order: "101"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Bright gold in color, great clarity, and a bright white head. Aromas of lemon and wheat bread compliment the flavors of lemon and grass, and a slight bready undertone. Light body, with a slight acidity and a semi-dry, lightly hopped finish."
+---
