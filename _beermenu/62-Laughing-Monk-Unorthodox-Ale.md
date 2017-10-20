@@ -1,0 +1,22 @@
+---
+brand: "Laughing Monk Pale Ale"
+type: "Belgian Pale"
+location: "San Francisco, California"
+glass: "pint.png"
+brewery_brand: "laughing-monk.png"
+alcohol: "5.2%"
+ibu: "NA"
+tap_order: "102"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Light straw in color with a frothy white head. Aromas of lemon match flavors of citrus and pepper, with a lingering and dry finish."
+---
