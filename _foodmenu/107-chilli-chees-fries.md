@@ -1,7 +1,7 @@
 ---
 name: "Chili Cheese Fries"
 type: "shared"
-description: "House-made brisket chili over french fries topped with 3-cheese blend."
+description: "Smoked brisket chili, aged provolone, parmesan cheese and mozzarella."
 modifier_1: " "
 modifier_2: " "
 price: "$10"
