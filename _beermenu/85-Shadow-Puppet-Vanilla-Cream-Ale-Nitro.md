@@ -1,6 +1,6 @@
 ---
 brand: "Shadow Puppet Cream Ale (Nitro) "
-type: "Stout"
+type: "Cream Ale"
 location: "Livermore, California"
 glass: "snifter.png"
 brewery_brand: "shadow-puppet.png"

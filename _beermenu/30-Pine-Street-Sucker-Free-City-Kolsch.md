@@ -1,0 +1,23 @@
+---
+brand: "Pine Street Kolsch"
+type: "Kolsch"
+location: "San Francisco, California"
+glass: "pint.png"
+brewery_brand: "pine-street.png"
+alcohol: "4.6%"
+ibu: "15"
+tap_order: "104"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "This crisp, Kolsch-style ale is the perfect beer for chilling with your homies. Grassy hops combined with pilsner malt and kolsch yeast keep this beer clean yet interesting. Pairs well with bratwurst and dominos."
+---
