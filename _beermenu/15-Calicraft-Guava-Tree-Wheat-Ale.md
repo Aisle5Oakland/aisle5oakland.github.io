@@ -1,0 +1,23 @@
+---
+brand: "Calicraft Guava Wheat Ale"
+type: "Wheat Ale"
+location: "Walnut Creek, California"
+glass: "snifter.png"
+brewery_brand: "calicoast.png"
+alcohol: "6.2%"
+ibu: "NA"
+tap_order: "108"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "Part hazy beer - part sparkling ale - part wheat This beer is guava juice in a glass."
+---

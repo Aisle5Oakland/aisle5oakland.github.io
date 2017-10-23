@@ -1,0 +1,22 @@
+---
+brand: "Berryessa Double Tap IPA"
+type: "IPA"
+location: "Winters, California"
+glass: "pint.png"
+brewery_brand: "berryessa.jpg"
+alcohol: "8.5%"
+ibu: "70"
+tap_order: "116"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Pour a hazy orange with a thick white head and a sticky mandarin-tropical aroma with a rich malt base a hop drenched mouth feel tastes of fruit and bitterness that will not linger.	"
+---

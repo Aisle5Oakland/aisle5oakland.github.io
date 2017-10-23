@@ -1,0 +1,25 @@
+---
+brand: "Barebottle Midnight Kolsch"
+type: "Dark Kolsch"
+location: "San Francisco, California"
+glass: "pint.png"
+brewery_brand: "bare-bottle.png"
+alcohol: "4.6%"
+ibu: "NA"
+tap_order: "114"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Stranger Things meets California Cologne – light, drinkable, and crisp, but with an upside down twist -- roasty toasty malts add chocolately caramel and coffee flavors."
+---
+
