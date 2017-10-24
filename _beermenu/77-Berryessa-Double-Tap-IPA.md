@@ -1,6 +1,6 @@
 ---
-brand: "Berryessa Double Tap IPA"
-type: "IPA"
+brand: "Berryessa Double Tap DIPA"
+type: "Double IPA"
 location: "Winters, California"
 glass: "pint.png"
 brewery_brand: "berryessa.jpg"
