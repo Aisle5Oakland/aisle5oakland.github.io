@@ -6,7 +6,7 @@ glass: "pint.png"
 brewery_brand: "headlands-brewing-company.png"
 alcohol: "6.5%"
 ibu: "45"
-tap_order: "116"
+tap_order: "113"
 flavor_profile:
  - is_bitter: " "
  - is_strong: "True"
