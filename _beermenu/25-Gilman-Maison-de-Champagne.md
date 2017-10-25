@@ -1,0 +1,23 @@
+---
+brand: "Gilman Maison de Campagne"
+type: "French Saison"
+location: "Berkeley, California"
+glass: "pilsner.png"
+brewery_brand: "Gilman-Street-Brewing.png"
+alcohol: "7.6%"
+ibu: "NA"
+tap_order: "108"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "A french inspired saison. Crisp and spicy from a special house strain saison yeast and the use of wheat. Dry finish."
+---
