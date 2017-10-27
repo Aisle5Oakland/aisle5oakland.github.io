@@ -1,0 +1,23 @@
+---
+brand: "Barebottle Middle Earth Ale"
+type: "Session Ale"
+location: "San Francisco, California"
+glass: "pint.png"
+brewery_brand: "bare-bottle.png"
+alcohol: "5.2%"
+ibu: "NA"
+tap_order: "103"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "Motueka, a town located on the northern tip of the Southern Island of New Zealand, grows apples, kiwis, and a highly specialized type of hop, called Motueka, characterized by a light lemon-lime aroma."
+---
