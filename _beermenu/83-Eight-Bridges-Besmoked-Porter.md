@@ -1,0 +1,23 @@
+---
+brand: "Eight Bridges Besmoked Porter"
+type: "Porter"
+location: "Livermore, California"
+glass: "snifter.png"
+brewery_brand: "eightbridges.png"
+alcohol: "6.5%"
+ibu: "40"
+tap_order: "120"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "A robust porter with a smokey finish. Black malt adds a nice coffee like flavor, the Cherrywood smoked malt from Briess lends a slight woody/smokey flavor and almost makes the beer taste a bit like chocolate."
+---
