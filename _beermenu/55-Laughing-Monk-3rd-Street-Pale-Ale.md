@@ -1,0 +1,22 @@
+---
+brand: "Laughing Monk Pale Ale"
+type: "Pale Ale"
+location: "San Francisco, California"
+glass: "pint.png"
+brewery_brand: "laughing-monk.png"
+alcohol: "5.0%"
+ibu: "50"
+tap_order: "102"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Straw like in color with a strong white head, with aromas of Citra and Mosaic hops exploding from the glass. Strong citrus and grapefruit notes accent the palate with slight hay and yeast notes towards the finish. Crisp, refreshing, and easy to drink. A great California Pale Ale."
+---

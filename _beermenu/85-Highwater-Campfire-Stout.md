@@ -1,0 +1,23 @@
+---
+brand: "Highwater Campfire Stout (Nitro) "
+type: "Stout"
+location: "San Leandro, California"
+glass: "snifter.png"
+brewery_brand: "highwater-brewing.png"
+alcohol: "6.5%"
+ibu: "39"
+tap_order: "109"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Stout brewed with graham crackers, molasses with natural flavor added. Campfire Stout evokes fond memories of wilderness and camping adventures. Notes of chocolate and graham cracker topped with a hint of marshmallow will leave you wanting s’more. Like any campfire experience, this beer is best shared with a warm circle of family and friends."
+---
