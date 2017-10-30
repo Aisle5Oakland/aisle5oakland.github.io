@@ -1,0 +1,23 @@
+---
+brand: "Pine Street Milk Stout (Nitro) "
+type: "Stout"
+location: "San Francisco, California"
+glass: "snifter.png"
+brewery_brand: "pine-street.png"
+alcohol: "5.0%"
+ibu: "NA"
+tap_order: "109"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Black Bay is a great alternative to the everyday stout. This beer pours heavy and dry."
+---
