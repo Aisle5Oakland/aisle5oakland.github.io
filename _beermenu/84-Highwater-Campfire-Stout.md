@@ -6,7 +6,7 @@ glass: "snifter.png"
 brewery_brand: "highwater-brewing.png"
 alcohol: "6.5%"
 ibu: "39"
-tap_order: "109"
+tap_order: "110"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

@@ -1,0 +1,25 @@
+---
+brand: "HMB Strawberry Belgium Blonde"
+type: "Blonde Ale"
+location: "Half Moon Bay, Ca"
+glass: "pint.png"
+brewery_brand: "half-moon-bay.jpg"
+alcohol: "5.4%"
+ibu: "NA"
+tap_order: "107"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "With over 300 lbs of strawberry puree this one is a special treat. It starts off as a light Belgian style beer with hints of coriander and cinnamon spice from a special yeast strain. We then add the prodigious amount of strawberry puree for a nice refreshing fruit and beer balance."
+---
+

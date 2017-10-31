@@ -1,12 +1,12 @@
 ---
-brand: "Fieldwork East Side Double IPA"
+brand: "Fieldwork East Side DIPA"
 type: "Double IPA"
 location: "Berkeley, California"
 beer_color: "pilsner.png"
 brewery_brand: "fieldwork.jpg"
 alcohol: "8.3%"
 ibu: "NA"
-tap_order: "119"
+tap_order: "111"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: "True"
