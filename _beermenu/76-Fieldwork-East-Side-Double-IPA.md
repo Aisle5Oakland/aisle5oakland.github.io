@@ -2,7 +2,7 @@
 brand: "Fieldwork East Side DIPA"
 type: "Double IPA"
 location: "Berkeley, California"
-beer_color: "pilsner.png"
+glass: "pint.png"
 brewery_brand: "fieldwork.jpg"
 alcohol: "8.3%"
 ibu: "NA"
