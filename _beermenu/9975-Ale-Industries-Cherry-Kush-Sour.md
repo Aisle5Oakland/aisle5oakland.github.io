@@ -20,5 +20,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: "True"
  - is_fruity: "True"
-long_desc: "This California Tea Beer is brewed without hops and with fresh, organic, tart cherry juice."
+long_desc: "This California tea beer is brewed without hops and with fresh, organic, tart cherry juice."
 ---
