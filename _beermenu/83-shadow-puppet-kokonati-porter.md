@@ -1,12 +1,12 @@
 ---
-brand: "Shadow Puppet Kokonati Porter"
+brand: "Shadow Puppet Kokonati (Nitro)"
 type: "Porter"
 location: "Livermore, California"
 glass: "snifter.png"
 brewery_brand: "shadow-puppet.png"
 alcohol: "8.1%"
 ibu: "29"
-tap_order: "120"
+tap_order: "109"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
