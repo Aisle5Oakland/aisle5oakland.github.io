@@ -2,7 +2,7 @@
 brand: "Berryessa Double Tap DIPA"
 type: "Double IPA"
 location: "Winters, California"
-glass: "pint.png"
+glass: "snifter.png"
 brewery_brand: "berryessa.jpg"
 alcohol: "8.5%"
 ibu: "70"
