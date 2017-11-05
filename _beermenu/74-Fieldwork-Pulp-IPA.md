@@ -1,0 +1,22 @@
+---
+brand: "Fieldwork Pulp IPA"
+type: "IPA"
+location: "Berkeley, California"
+glass: "pint.png"
+brewery_brand: "fieldwork.jpg"
+alcohol: "6.9%"
+ibu: "NA"
+tap_order: "113"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Using an isolated yeast strain from Vermont, this IPA obtains complimentary yeast esters of over-ripe peaches falling from the tree that pair perfectly with its hops."
+---
