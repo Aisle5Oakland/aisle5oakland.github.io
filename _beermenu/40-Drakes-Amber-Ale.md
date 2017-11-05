@@ -1,0 +1,22 @@
+---
+brand: "Drakes Amber Ale"
+type: "Lager"
+location: "San Leandro, California"
+glass: "pint.png"
+brewery_brand: "drakes.jpg"
+alcohol: "5.9%"
+ibu: "NA"
+tap_order: "105"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Drake’s Amber Ale is a deep copper brew topped by a big, bubbly head. A prism of scents float from the glass, twisting from caramelized malt with chocolate hints to peppery, citrusy hops. Hefty toffee sweetness washes through the swallow, before an aggressive hop profile zips by, flashing grapefruit, pepper, and bursts of pine. This is a meaty brew with heaps of hearty grains and punchy hops, rendering it slightly big for an amber, but still truly delicious."
+---
