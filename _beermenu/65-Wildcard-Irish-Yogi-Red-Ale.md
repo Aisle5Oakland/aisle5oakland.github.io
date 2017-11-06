@@ -1,0 +1,21 @@
+---
+brand: "Wildcard Irish Red Ale"
+type: "Red Ale"
+location: "Redding, California"
+glass: "pint.png"
+brewery_brand: "wildcard.png"
+alcohol: "6.0%"
+ibu: "27"
+tap_order: "115"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Irish Red Ale with Special B malt and Chinook Hops."
+---

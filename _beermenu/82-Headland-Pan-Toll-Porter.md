@@ -1,0 +1,23 @@
+---
+brand: "Headlands Pan Toll Porter"
+type: "Porter"
+location: "Mill Valley, California"
+glass: "snifter.png"
+brewery_brand: "headlands-brewing-company.png"
+alcohol: "6.8%"
+ibu: "34"
+tap_order: "120"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Roasted notes are synced up with rich chocolate and full bodied mouth feel. A slight hop bitterness blends with the tannin-like character from the darker grains."
+---
