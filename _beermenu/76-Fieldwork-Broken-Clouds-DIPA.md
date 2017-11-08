@@ -1,5 +1,5 @@
 ---
-brand: "Fieldwork Broken Cloud DIPA"
+brand: "Fieldwork Broken Clouds DIPA"
 type: "Double IPA"
 location: "Berkeley, California"
 glass: "snifter.png"
