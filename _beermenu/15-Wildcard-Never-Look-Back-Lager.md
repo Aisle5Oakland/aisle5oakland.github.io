@@ -1,0 +1,23 @@
+---
+brand: "Wildcard Lager"
+type: "Lager"
+location: "Walnut Creek, California"
+glass: "pint.png"
+brewery_brand: "calicoast.png"
+alcohol: "4.6%"
+ibu: "18"
+tap_order: "108"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Lager flavored with Hüll Melon hops."
+---
