@@ -1,0 +1,22 @@
+---
+brand: "Drakes Dark Wing IPA"
+type: "IPA"
+location: "San Leandro, California"
+glass: "pint.png"
+brewery_brand: "drakes.jpg"
+alcohol: "7.5%"
+ibu: "63"
+tap_order: "113"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Drake’s Dark Wing IPA brings you bright hop notes of crushed pine needles, dank herbaceousness, and a touch of grapefruit marmalade sweetness. "
+---
