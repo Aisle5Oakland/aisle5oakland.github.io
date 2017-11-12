@@ -1,0 +1,21 @@
+---
+brand: "Mare Island IPA"
+type: "IPA"
+location: "Mare Island, California"
+glass: "pint.png"
+brewery_brand: "mare-island.png"
+alcohol: "6.0%"
+ibu: "NA"
+tap_order: "115"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: " "
+---
