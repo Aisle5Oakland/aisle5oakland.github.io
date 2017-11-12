@@ -2,12 +2,11 @@
 brand: "Gilman Street Champ Rochaux"
 type: "Nectarine Saison"
 location: "Berkeley, California"
-beer_color: "pale-ale.png"
 glass: "pilsner.png"
 brewery_brand: "Gilman-Street-Brewing.png"
 alcohol: "6.0%"
 ibu: "NA"
-tap_order: "107"
+tap_order: "106"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

@@ -6,7 +6,7 @@ glass: "pint.png"
 brewery_brand: "drakes.jpg"
 alcohol: "5.8%"
 ibu: "NA"
-tap_order: "112"
+tap_order: "105"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
