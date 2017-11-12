@@ -6,7 +6,7 @@ glass: "pilsner.png"
 brewery_brand: "Gilman-Street-Brewing.png"
 alcohol: "7.6%"
 ibu: "NA"
-tap_order: "108"
+tap_order: "106"
 flavor_profile:
  - is_bitter: " "
  - is_strong: "True"
