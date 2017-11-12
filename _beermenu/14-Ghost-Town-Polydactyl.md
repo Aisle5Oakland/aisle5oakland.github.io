@@ -1,0 +1,25 @@
+---
+brand: "Ghost Town Polydactl"
+type: "Pale Ale"
+location: "Oakland, California"
+glass: "pint.png"
+brewery_brand: "ghost-town-brewing.jpg"
+alcohol: "5.6%"
+ibu: "30"
+tap_order: "107"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Brewed with Mosaic and Citra hops"
+---
+
