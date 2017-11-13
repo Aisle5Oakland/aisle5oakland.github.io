@@ -1,9 +1,9 @@
 ---
 brand: "Wildcard Lager"
 type: "Lager"
-location: "Walnut Creek, California"
+location: "Redding, California"
 glass: "pint.png"
-brewery_brand: "calicoast.png"
+brewery_brand: "wildcard.png"
 alcohol: "4.6%"
 ibu: "18"
 tap_order: "108"
