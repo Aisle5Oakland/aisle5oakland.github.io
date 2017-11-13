@@ -1,5 +1,5 @@
 ---
-brand: "Epidemic Zombie Brew IPA"
+brand: "Epidemic Zombrew IPA"
 type: "IPA"
 location: "Concord, California"
 glass: "pint.png"
