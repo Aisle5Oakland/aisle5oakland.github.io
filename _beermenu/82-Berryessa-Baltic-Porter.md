@@ -1,0 +1,23 @@
+---
+brand: "Berryessa Baltic Porter"
+type: "Porter"
+location: "Winters, California"
+glass: "snifter.png"
+brewery_brand: "berryessa.jpg"
+alcohol: "7.0%"
+ibu: "14"
+tap_order: "120"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "This opaque lager pours a deep black color with a tan head and a roasted chocolate aroma and flavor with subtle coffee notes. A smooth and complex beer. Gently conditioned with two pounds of Pepper Peddler coffee."
+---
