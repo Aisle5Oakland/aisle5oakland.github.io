@@ -1,0 +1,23 @@
+---
+brand: "Highwater Rio D'Oro"
+type: "Strong Ale"
+location: "San Leandro, California"
+glass: "snifter.png"
+brewery_brand: "highwater-brewing.png"
+alcohol: "8.5%"
+ibu: "NA"
+tap_order: "114"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Brewed with Belgian Pilsner and Caramel malts, Styrian Golding hops and Belgian yeast from East Flanders, this treasure glitters with aromas of tropical fruits and a dry effervescent finish."
+---

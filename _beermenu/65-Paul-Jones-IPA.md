@@ -4,7 +4,7 @@ type: "IPA"
 location: "Mare Island, California"
 glass: "pint.png"
 brewery_brand: "mare-island.png"
-alcohol: "9.0%"
+alcohol: "6.0%"
 ibu: "63"
 tap_order: "115"
 flavor_profile:

@@ -1,0 +1,23 @@
+---
+brand: "Ol Republic Dead Canary"
+type: "Lager"
+location: "Nevada City, California"
+glass: "pint.png"
+brewery_brand: "ol-republic.png"
+alcohol: "4.8%"
+ibu: "NA"
+tap_order: "108"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "This lager begins with a water profile closer to the more mineral waters of Dortmund in West Germany. This allows for the wonderful malt characteristics to shine, exhibiting aromas of white bread and grits. A touch of noble hops added at just the right moment in the boil underscores the subtle, yet complex interplay between the malts and the hops, while Saaz hops added at flameout keeps the sugars in check with it’s herbal spice notes."
+---
