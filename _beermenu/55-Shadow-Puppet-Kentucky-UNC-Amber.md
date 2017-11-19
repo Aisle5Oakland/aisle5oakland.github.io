@@ -1,0 +1,22 @@
+---
+brand: "Shadow Puppet Amber Ale"
+type: "Amber Ale"
+location: "Livermore, California"
+glass: "pint.png"
+brewery_brand: "shadow-puppet.png"
+alcohol: "5.8%"
+ibu: "22"
+tap_order: "102"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Very easy-drinking, super-smooth, and slightly sweet amber ale brewed with a blend of corn and rye."
+---
