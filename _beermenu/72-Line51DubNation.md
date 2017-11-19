@@ -6,7 +6,7 @@ glass: "pint.png"
 brewery_brand: "line51.jpg"
 alcohol: "6.5%"
 ibu: "51"
-tap_order: "115"
+tap_order: "114"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: " "
