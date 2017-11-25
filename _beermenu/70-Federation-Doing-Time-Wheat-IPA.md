@@ -8,7 +8,7 @@ alcohol: "6.4%"
 ibu: "NA"
 tap_order: "113"
 flavor_profile:
- - is_bitter: "Tre"
+ - is_bitter: "True"
  - is_strong: " "
  - is_sweet: " "
  - is_light_crisp: " "
