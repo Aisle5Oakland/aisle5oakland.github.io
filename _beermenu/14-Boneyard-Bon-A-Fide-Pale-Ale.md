@@ -1,0 +1,25 @@
+---
+brand: "Boneyard Pale Ale"
+type: "Pale Ale"
+location: "Bend, Oregon"
+glass: "pint.png"
+brewery_brand: "boneyard.png"
+alcohol: "5.5%"
+ibu: "38"
+tap_order: "107"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "This West Coast Style Pale Ale is brewed for a big hoppy finish. Golden to copper in color. The malts used to create this beer balance nicely with the Citra hops that are used. The floral aroma should jump out of the glass thanks to the copious quantities of hops used in the dry hop process."
+---
+
