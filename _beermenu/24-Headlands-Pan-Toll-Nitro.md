@@ -1,0 +1,22 @@
+---
+brand: "Headlands Pan Toll Porter (Nitro) "
+type: "Porter"
+location: "Mill Valley, California"
+glass: "snifter.png"
+brewery_brand: "headlands-brewing-company.png"
+alcohol: "6.7%"
+ibu: "34"
+tap_order: "110"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "The roasted notes and aromas stave off the bite from the evening chill and dropping temps. A slight hop bitterness blends with the tannin-like character from the darker malts and is balanced against a full-bodied mouthfeel. Enjoy it while you can!"
+---

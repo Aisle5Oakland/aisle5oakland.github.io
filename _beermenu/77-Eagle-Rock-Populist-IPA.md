@@ -1,0 +1,22 @@
+---
+brand: "Eagle Rock Populist IPA"
+type: "IPA"
+location: "Los Angeles, California"
+glass: "pint.png"
+brewery_brand: "eagle-rock.png"
+alcohol: "7.0%"
+ibu: "68"
+tap_order: "116"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Celebrate the aromatic wonder of the hop flower. Malt, Yeast, and Water lend quiet support as Hops take a solo."
+---
