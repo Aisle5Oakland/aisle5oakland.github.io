@@ -6,7 +6,7 @@ glass: "pint.png"
 brewery_brand: "bare-bottle.png"
 alcohol: "5.8%"
 ibu: "NA"
-tap_order: "105"
+tap_order: "101"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
@@ -20,5 +20,5 @@ flavor_profile:
  - is_malty: "True"
  - is_sour: " "
  - is_fruity: " "
-long_desc: "Taking inspiration from our neighbors in the north, we took a delicious Brown Ale recipe and went full-Mountie with it, fermenting it with organic Canadian Maple syrup. It’s a perfect winter ale for brunch, lunch, or just drinking a bunch."
+long_desc: "Taking inspiration from our neighbors in the north, we took a delicious Brown Ale recipe and went full-Mountie with it, fermenting it with organic Canadian Maple syrup. Its a perfect winter ale for brunch, lunch, or just drinking a bunch."
 ---
