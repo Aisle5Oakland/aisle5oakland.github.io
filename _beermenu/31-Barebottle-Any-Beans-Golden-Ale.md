@@ -1,0 +1,22 @@
+---
+brand: "Barebottle Golden Ale"
+type: "Golden Ale"
+location: "San Francisco, California"
+glass: "pint.png"
+brewery_brand: "bare-bottle.png"
+alcohol: "4.9%"
+ibu: "NA"
+tap_order: "102"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Golden Ale fermented with whole Coffee & Vanilla Beans. Pale, smooth, and complex – we fermented a wonderful blonde ale on whole coffee and vanilla beans, giving it just the lightest hint of vanilla and coffee aromas: berry, chocolate, roast, and nuttiness."
+---

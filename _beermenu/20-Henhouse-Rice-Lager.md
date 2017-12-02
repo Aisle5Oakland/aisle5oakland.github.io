@@ -1,0 +1,23 @@
+---
+brand: "Henhouse Rice Lager"
+type: "Lager"
+location: "Petaluma, Ca"
+glass: "pint.png"
+brewery_brand: "henhouse.png"
+alcohol: "4.5%"
+ibu: "NA"
+tap_order: "108"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "This beer is a collaboration Rice Lager with Temescal, Eagle Rock and HenHouse Brewing Co. Utilizing puffed rice, Augustiner yeast and whole cone Hallertau Blanc hops."
+---
