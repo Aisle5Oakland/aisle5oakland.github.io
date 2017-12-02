@@ -6,7 +6,7 @@ glass: "pint.png"
 brewery_brand: "bare-bottle.png"
 alcohol: "5.8%"
 ibu: "NA"
-tap_order: "101"
+tap_order: "105"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
