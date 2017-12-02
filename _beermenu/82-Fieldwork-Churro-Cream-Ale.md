@@ -1,0 +1,23 @@
+---
+brand: "Fieldwork Churro Cream Ale"
+type: "Cream Ale"
+location: "Berkeley, California"
+glass: "snifter.png"
+brewery_brand: "fieldwork.jpg"
+alcohol: "5.5%"
+ibu: "NA"
+tap_order: "120"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "A toasty grain bill provides the perfect character to mimic the donut-like pastry dough and provide hints of sweetness to tie together all of the flavors."
+---
