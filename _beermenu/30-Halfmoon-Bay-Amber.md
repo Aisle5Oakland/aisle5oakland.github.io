@@ -1,0 +1,23 @@
+---
+brand: "Halfmoon Bay Amber Ale"
+type: "Brown Ale"
+location: "Half Moon Bay, Ca"
+glass: "pint.png"
+brewery_brand: "half-moon-bay.jpg"
+alcohol: "5.0%"
+ibu: "20"
+tap_order: "105"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "A well-balanced, full-flavored amber ale. It has a rich, malty body with a pleasant caramel character from specialty Aromatic and Melonoidin malts. A complex hop aroma, with hints of floral and citrus from a combination of Summit, Cascade and Chinook hops."
+---
