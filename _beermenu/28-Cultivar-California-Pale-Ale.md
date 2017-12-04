@@ -1,0 +1,25 @@
+---
+brand: "Cultivar Pale Ale"
+type: "Pale Ale"
+location: "San Francisco, Ca"
+glass: "pint.png"
+brewery_brand: "cultivar.png"
+alcohol: "5.1%"
+ibu: "50"
+tap_order: "107"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "We took a bold leap into the unknown and found something good. By combining Chinook, Cluster, and Columbus hops, we have created a tantalizing combination resulting in this delicious Pale Ale. Like a ray of sunshine, this thirst quenching Pale Ale enter the bar. Note the hints of honey and citrus."
+---
+

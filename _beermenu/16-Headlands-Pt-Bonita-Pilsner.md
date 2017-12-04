@@ -6,7 +6,7 @@ glass: "pilsner.png"
 brewery_brand: "headlands-brewing-company.png"
 alcohol: "5.3%"
 ibu: "38"
-tap_order: "101"
+tap_order: "104"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
