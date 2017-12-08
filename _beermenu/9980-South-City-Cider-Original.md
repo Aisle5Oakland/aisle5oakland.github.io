@@ -2,7 +2,7 @@
 brand: "South City Original Cider"
 type: "Cider"
 location: "San Bruno, CA"
-glass: "snifter.png"
+glass: "pint.png"
 brewery_brand: "south-city-cider.png"
 alcohol: "5.5%"
 ibu: "NA"
