@@ -6,7 +6,7 @@ glass: "snifter.png"
 brewery_brand: "headlands-brewing-company.png"
 alcohol: "6.7%"
 ibu: "34"
-tap_order: "110"
+tap_order: "109"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

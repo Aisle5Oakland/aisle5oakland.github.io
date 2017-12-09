@@ -1,0 +1,25 @@
+---
+brand: "Pizza Port Rye Pale Ale"
+type: "Rye Ale"
+location: "Carlsbad, California"
+glass: "pint.png"
+brewery_brand: "pizza-port.png"
+alcohol: "5.6%"
+ibu: "NA"
+tap_order: "114"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: " "
+---
+
