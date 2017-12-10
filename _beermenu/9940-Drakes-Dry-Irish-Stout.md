@@ -2,7 +2,7 @@
 brand: "Drakes Dry Irish Stout (Nitro)"
 type: "Stout"
 location: "San Leandro, California"
-glass: "snifter.png"
+glass: "pint.png"
 brewery_brand: "drakes.jpg"
 alcohol: "4.8%"
 ibu: "22"
