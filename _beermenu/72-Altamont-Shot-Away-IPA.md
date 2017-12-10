@@ -1,0 +1,22 @@
+---
+brand: "Altamont Shot Away IPA"
+type: "IPA"
+location: "Livermore, California"
+glass: "pint.png"
+brewery_brand: "altamonth-rich-mahogany.jpg"
+alcohol: "6.8%"
+ibu: "NA"
+tap_order: "114"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "A true West Coast IPA, which is hop forward without the extreme hop bitterness. Light in body and color; this beer is bursting with huge citrus and tropical aromas."
+---

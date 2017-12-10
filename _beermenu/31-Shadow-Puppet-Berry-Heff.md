@@ -1,0 +1,22 @@
+---
+brand: "Shadow Puppet Berry Hefe"
+type: "Cranberry Hefe"
+location: "Livermore, California"
+glass: "pint.png"
+brewery_brand: "shadow-puppet.png"
+alcohol: "4.9%"
+ibu: "NA"
+tap_order: "102"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Wheat ale brewed with fresh cranberries. A complex yet refreshing holiday beer that pairs well with rich holiday foods."
+---
