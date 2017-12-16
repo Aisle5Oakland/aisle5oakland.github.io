@@ -13,24 +13,16 @@
           }
 		</style>
 	<body class="screen-background" style="padding-top: 0px;">
-		<div class="container-fluid">	
-        {% for beer in site.beermenu %}
-		{% if forloop.index >= start_index and forloop.index <= end_index %}
-			<div class="row">
-				<div class="col-lg-12">	
-					<hr class="style2"></hr>
-				</div>
-			</div>
-			<div class="row">
-				<div class="hidden-xs hidden-md col-lg-1">
-					<img class="brewery_brand" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
-				</div>
-				<div class="col-lg-4">
-					<h1 class="brand-name" style="color:{{page.font_color}};">{{ beer.brand }}</h1>				
-				</div>
-			</div>
-		{% endif %}
-		</div>
-		{% endfor %}
+	<!-- listing of posts -->
+	<div class="container-fluid">	
+		<table  class="post-table-index" width="60%">
+			{% tablerow beer in site.beermenu cols: 2 %}
+					<div>
+						<img class="brewery_brand" align="left" style="padding:5px;" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
+						<h1 class="brand-name" align="left" style="color:{{page.font_color}};">{{ beer.brand }}</h1>		
+					</div>
+		{% endtablerow %}
+		</table>
+	</div>
 	</body>
-	</html>
+</html>
