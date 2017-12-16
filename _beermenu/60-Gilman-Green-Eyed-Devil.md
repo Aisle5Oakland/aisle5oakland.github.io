@@ -6,7 +6,7 @@ glass: "pint.png"
 brewery_brand: "Gilman-Street-Brewing.png"
 alcohol: "4.0%"
 ibu: "NA"
-tap_order: "114"
+tap_order: "108"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
