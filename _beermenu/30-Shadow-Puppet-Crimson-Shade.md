@@ -1,0 +1,23 @@
+---
+brand: "Shadow Puppet Crimson Shade"
+type: "Red Ale"
+location: "Livermore, California"
+glass: "pint.png"
+brewery_brand: "shadow-puppet.png"
+alcohol: "6.7%"
+ibu: "48"
+tap_order: "105"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Rich copper color with a toasted caramel malt backbone with six varieties of hops lending notes of pepper and pine."
+---
