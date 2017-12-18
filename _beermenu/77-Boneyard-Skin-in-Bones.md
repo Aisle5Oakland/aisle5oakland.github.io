@@ -1,0 +1,22 @@
+---
+brand: "Boneyard Skin in Bones IPA"
+type: "Session IPA"
+location: "Bend, Oregon"
+glass: "pint.png"
+brewery_brand: "boneyard.png"
+alcohol: "4.0%"
+ibu: "20"
+tap_order: "116"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "This India Session Ale is a duel hop beer showcasing Mosaic and Citra hops. Brewed with pale and pilsner malts, it’s light bodied and golden in color."
+---
