@@ -1,7 +1,7 @@
 ---
 brand: "Blindwood Honey Sage Cider"
 type: "Cider"
-location: "Hayward, CA"
+location: "Oakland, CA"
 glass: "pint.png"
 brewery_brand: "blindwood.png"
 alcohol: "6.9%"
