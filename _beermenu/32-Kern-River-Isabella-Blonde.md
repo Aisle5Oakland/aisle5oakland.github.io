@@ -1,0 +1,23 @@
+---
+brand: "Kern River Isabella Blonde"
+type: "Blonde Ale"
+location: "Kernville, California"
+glass: "pint.png"
+brewery_brand: "kern-river.png"
+alcohol: "4.5%"
+ibu: "NA"
+tap_order: "103"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "This Blonde Ale has an easy malt body and a mild hop aroma produced by traditional English hops. The light straw color and crisp finish make this an easy drinking beer that's great for those hot summer days."
+---

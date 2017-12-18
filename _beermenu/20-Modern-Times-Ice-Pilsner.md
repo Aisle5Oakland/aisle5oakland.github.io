@@ -1,0 +1,23 @@
+---
+brand: "Modern Times Ice Pilsner"
+type: "Pilsner"
+location: "San Diego, California"
+glass: "pilsner.png"
+brewery_brand: "modern-times.png"
+alcohol: "4.8%"
+ibu: "30"
+tap_order: "101"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "The flavor: cold. The crushability: maximum. Ice is our very first pils, and it brings the noise. Hopped with Czech Saaz and Australian Summer hops, before, like, so many weeks of lagering, Ice packs the flavor of the mighty San Diego mountains into a compact 4.8% ABV package."
+---
