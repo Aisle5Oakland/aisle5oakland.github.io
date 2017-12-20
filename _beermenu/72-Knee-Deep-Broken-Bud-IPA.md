@@ -1,0 +1,22 @@
+---
+brand: "Knee Deep Broken Bud IPA"
+type: "IPA"
+location: "Auburn, California"
+glass: "pint.png"
+brewery_brand: "knee-deep.png"
+alcohol: "6.5%"
+ibu: "50"
+tap_order: "114"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Old school meets new school in this fresh approach to the classic IPA.  At 50 IBU’s and 6.5% ABV, Breaking Bud features the restrained bitterness and alcohol of a classic IPA with newer tropical fruit hop flavors and aromas of Mosaic."
+---

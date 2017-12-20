@@ -6,7 +6,7 @@ glass: "snifter.png"
 brewery_brand: "berryessa.jpg"
 alcohol: "6.0%"
 ibu: "25"
-tap_order: "110"
+tap_order: "109"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
