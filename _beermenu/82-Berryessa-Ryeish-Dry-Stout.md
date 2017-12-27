@@ -1,5 +1,5 @@
 ---
-brand: "Berryessa Dryish Dry Stout"
+brand: "Berryessa Rye Ryerish Stout"
 type: "Rye Stout"
 location: "Winters, California"
 glass: "snifter.png"

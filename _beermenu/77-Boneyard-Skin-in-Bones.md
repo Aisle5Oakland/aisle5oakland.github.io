@@ -1,5 +1,5 @@
 ---
-brand: "Boneyard Skin in Bones IPA"
+brand: "Boneyard Skin 'N Bones IPA"
 type: "Session IPA"
 location: "Bend, Oregon"
 glass: "pint.png"

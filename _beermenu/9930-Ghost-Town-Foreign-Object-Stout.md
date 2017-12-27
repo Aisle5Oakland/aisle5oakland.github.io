@@ -6,7 +6,7 @@ glass: "snifter.png"
 brewery_brand: "ghost-town-brewing.jpg"
 alcohol: "7.0%"
 ibu: "NA"
-tap_order: "109"
+tap_order: "112"
 flavor_profile:
  - is_bitter: " "
  - is_strong: "True"

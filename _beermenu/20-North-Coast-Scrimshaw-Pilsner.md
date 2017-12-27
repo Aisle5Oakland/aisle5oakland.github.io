@@ -1,0 +1,23 @@
+---
+brand: "North Coast Scrimshaw Pilsner"
+type: "Pilsner"
+location: "Fort Bragg, California"
+glass: "pilsner.png"
+brewery_brand: "north-coast-brewing.png"
+alcohol: "4.7%"
+ibu: "22"
+tap_order: "101"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Named for the delicate engravings popularized by 19th century seafarers, Scrimshaw is a fresh tastingPilsner brewed in the finest European tradition using Munich malt and, Hallertauer and Tettnang hops. Scrimshaw has a subtle hop character, a crisp, clean palate, and a dry finish."
+---
