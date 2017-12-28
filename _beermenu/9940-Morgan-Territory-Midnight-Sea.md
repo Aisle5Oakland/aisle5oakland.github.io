@@ -1,0 +1,23 @@
+---
+brand: "Morgan Territory Midnight Sea (Nitro)"
+type: "Stout"
+location: "Tracy, California"
+glass: "pint.png"
+brewery_brand: "morgan-territory.png"
+alcohol: "7.3%"
+ibu: "NA"
+tap_order: "110"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: " "
+---
