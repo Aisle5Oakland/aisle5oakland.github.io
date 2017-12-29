@@ -1,0 +1,23 @@
+---
+brand: "Ex Novo Stiff Upper Lip"
+type: "ESB"
+location: "Portland, Oregon"
+glass: "pint.png"
+brewery_brand: "ex-novo.png"
+alcohol: "6.2%"
+ibu: "30"
+tap_order: "105"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: " "
+---
