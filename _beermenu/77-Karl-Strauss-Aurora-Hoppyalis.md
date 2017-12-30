@@ -1,0 +1,22 @@
+---
+brand: "Karl Strauss Aurora Hoppyalis"
+type: "IPA"
+location: "San Diego, California"
+glass: "pint.png"
+brewery_brand: "karl-strauss.png"
+alcohol: "7.0%"
+ibu: "60"
+tap_order: "116"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Aurora Hoppyalis is a San Diego-style IPA brewed with Simcoe, Mosaic, Amarillo, and Citra hops. Robust flavors and aromas of tropical fruit, pine, and tangerine linger through a dry, crisp finish."
+---

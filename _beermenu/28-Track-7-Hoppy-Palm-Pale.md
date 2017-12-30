@@ -6,7 +6,7 @@ glass: "pint.png"
 brewery_brand: "track-7.png"
 alcohol: "5.7%"
 ibu: "42"
-tap_order: "107"
+tap_order: "106"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: " "
@@ -20,6 +20,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: "The product of that hop selection, Hoppy Palm Pale Ale, has been aggressively dry-hopped with Cascade, Chinook, and Galaxy hops, producing an American Pale Ale with a light body and minimal sweetness. If you pay close attention, you’ll notice tropical notes from the Galaxy hops, with the Cascade hops giving it a hint of citrus as well."
+long_desc: "The product of that hop selection, Hoppy Palm Pale Ale, has been aggressively dry-hopped with Cascade, Chinook, and Galaxy hops, producing an American Pale Ale with a light body and minimal sweetness. If you pay close attention, you’ll notice tropical notes from the Galaxy hops, with the Cascade hops giving it a hint of citrus as well. "
 ---
-
