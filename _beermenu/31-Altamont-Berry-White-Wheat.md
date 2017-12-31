@@ -10,7 +10,7 @@ tap_order: "102"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
- - is_sweet: "True"
+ - is_sweet: " "
  - is_light_crisp: "True"
  - is_creamy: " "
  - is_hoppy: " "
