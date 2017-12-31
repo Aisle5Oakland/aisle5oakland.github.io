@@ -1,0 +1,23 @@
+---
+brand: "Altamont Berry White Wheat "
+type: "Wheat Ale"
+location: "Livermore, California"
+glass: "pint.png"
+brewery_brand: "altamont-beer-works.jpg"
+alcohol: "4.7%"
+ibu: "20"
+tap_order: "102"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "A wheat ale brewed with pale malt, white wheat, and a touch of Munich; finished with natural fruit puree. This beer finishes dry, mellow, crisp, and fruity for those hot summer days."
+---
