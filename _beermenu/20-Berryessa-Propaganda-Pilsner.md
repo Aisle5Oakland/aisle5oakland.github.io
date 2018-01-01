@@ -1,0 +1,23 @@
+---
+brand: "Berryessa Propoganda Pilsner"
+type: "Pilsner"
+location: "Winters, California"
+glass: "pilsner.png"
+brewery_brand: "berryessa.jpg"
+alcohol: "6.0%"
+ibu: "60"
+tap_order: "101"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Pour a nice bright yellow with a crisp bitter finish. A touch of malt sweetness rounds out the huge noble type hop aroma - a true hop head pilsner."
+---
