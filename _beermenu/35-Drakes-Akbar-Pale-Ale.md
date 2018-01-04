@@ -1,0 +1,25 @@
+---
+brand: "Drakes Akbar Ale"
+type: "English Ale"
+location: "San Leandro, California"
+glass: "pint.png"
+brewery_brand: "drakes.jpg"
+alcohol: "5.6%"
+ibu: "NA"
+tap_order: "114"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: ""
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Subtle fruit notes from the yeast complement the malt aromatics."
+---
+
