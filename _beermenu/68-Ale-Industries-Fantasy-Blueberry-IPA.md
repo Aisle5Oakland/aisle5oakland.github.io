@@ -2,7 +2,7 @@
 brand: "Ale Industries Blueberry IPA"
 type: "IPA"
 location: "Oakland, California"
-glass: "pint.png"
+glass: "snifter.png"
 brewery_brand: "ale-industries.png"
 alcohol: "8.1%"
 ibu: "NA"
