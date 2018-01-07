@@ -7,6 +7,7 @@ brewery_brand: "henhouse.png"
 alcohol: "6.9%"
 ibu: "NA"
 tap_order: "107"
+price: "8"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

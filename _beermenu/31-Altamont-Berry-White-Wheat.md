@@ -7,6 +7,7 @@ brewery_brand: "altamont-beer-works.jpg"
 alcohol: "4.7%"
 ibu: "20"
 tap_order: "102"
+price: "7"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

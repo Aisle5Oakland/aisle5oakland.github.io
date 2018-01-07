@@ -7,6 +7,7 @@ brewery_brand: "2-towns.png"
 alcohol: "5.0%"
 ibu: "NA"
 tap_order: "118"
+price: "8"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

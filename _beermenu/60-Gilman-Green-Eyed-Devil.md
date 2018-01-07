@@ -7,6 +7,7 @@ brewery_brand: "Gilman-Street-Brewing.png"
 alcohol: "4.0%"
 ibu: "NA"
 tap_order: "108"
+price: "7"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

@@ -7,6 +7,7 @@ brewery_brand: "ale-industries.png"
 alcohol: "8.1%"
 ibu: "NA"
 tap_order: "119"
+price: "8"
 flavor_profile:
  - is_bitter: " "
  - is_strong: "True"

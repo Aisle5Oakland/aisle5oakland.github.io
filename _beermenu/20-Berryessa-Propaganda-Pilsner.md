@@ -7,6 +7,7 @@ brewery_brand: "berryessa.jpg"
 alcohol: "6.0%"
 ibu: "60"
 tap_order: "101"
+price: "7"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: " "

@@ -7,6 +7,7 @@ brewery_brand: "ex-novo.png"
 alcohol: "6.2%"
 ibu: "30"
 tap_order: "105"
+price: "7"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: " "

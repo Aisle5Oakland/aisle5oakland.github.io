@@ -7,6 +7,7 @@ brewery_brand: "fort-point.png"
 alcohol: "4.6%"
 ibu: "17"
 tap_order: "104"
+price: "7"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

@@ -6,6 +6,7 @@
 {% assign beer_count = 0 %}
 <div class="container-fluid no-padding">
 	<div class="row">
+		<p class="food-item">Prices do not include tax</p>
 		<div class="col-lg-6 col-xs-12 col-md-6">
 			{% for beer in beer_sorted_list %}
 			{% assign beer_count = beer_count | plus: 1 %}
@@ -18,6 +19,7 @@
 					IBU: Not Available
 					{% endif %}
 					)
+					Price: ${{beer.price}}
 				</h3>
 				<p class="brand-long-desc">{{ beer.long_desc }}</p>
 				{% endfor %}

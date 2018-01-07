@@ -7,6 +7,7 @@ brewery_brand: "kern-river.png"
 alcohol: "4.5%"
 ibu: "NA"
 tap_order: "103"
+price: "7"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

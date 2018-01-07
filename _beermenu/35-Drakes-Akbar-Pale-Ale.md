@@ -7,6 +7,7 @@ brewery_brand: "drakes.jpg"
 alcohol: "5.6%"
 ibu: "NA"
 tap_order: "114"
+price: "8"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

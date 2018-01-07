@@ -7,6 +7,7 @@ brewery_brand: "laughing-monk.png"
 alcohol: "6.4%"
 ibu: "NA"
 tap_order: "113"
+price: "7"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: "True"

@@ -7,6 +7,7 @@ brewery_brand: "karl-strauss.png"
 alcohol: "7.0%"
 ibu: "60"
 tap_order: "116"
+price: "8"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: "True"

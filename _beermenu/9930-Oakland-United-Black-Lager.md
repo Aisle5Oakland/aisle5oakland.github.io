@@ -7,6 +7,7 @@ brewery_brand: "oakland-united.png"
 alcohol: "5.2%"
 ibu: "24"
 tap_order: "112"
+price: "7"
 flavor_profile:
  - is_bitter: " "
  - is_strong: "True"

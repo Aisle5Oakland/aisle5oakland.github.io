@@ -7,6 +7,7 @@ brewery_brand: "modern-times.png"
 alcohol: "4.8%"
 ibu: "17"
 tap_order: "117"
+price: "8"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "

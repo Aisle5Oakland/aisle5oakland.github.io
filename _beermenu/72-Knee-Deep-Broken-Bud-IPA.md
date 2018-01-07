@@ -7,6 +7,7 @@ brewery_brand: "knee-deep.png"
 alcohol: "6.5%"
 ibu: "50"
 tap_order: "114"
+price: "8"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: "True"

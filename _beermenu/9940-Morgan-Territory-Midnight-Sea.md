@@ -7,6 +7,7 @@ brewery_brand: "morgan-territory.png"
 alcohol: "7.3%"
 ibu: "NA"
 tap_order: "110"
+price: "8"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
