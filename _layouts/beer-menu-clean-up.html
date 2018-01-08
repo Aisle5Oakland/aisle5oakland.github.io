@@ -10,7 +10,7 @@
 		<div class="col-lg-6 col-xs-12 col-md-6">
 			{% for beer in beer_sorted_list %}
 			{% assign beer_count = beer_count | plus: 1 %}
-				<h3 class="food-item">{{ beer_count }}.  {{ beer.brand }}
+				<h3 class="food-item">{{ beer_count }}.  {{ beer.brewery }} {{ beer.brand }}
 					(
 					ABV: {{ beer.alcohol }} 
 					{% if beer.ibu != "NA" %}

@@ -1,5 +1,6 @@
 ---
-brand: "Henhouse Honest Days Saison"
+brewery: "Henhouse"
+brand: "Honest Days Saison"
 type: "Saison"
 location: "Petaluma, Ca"
 glass: "pilsner.png"

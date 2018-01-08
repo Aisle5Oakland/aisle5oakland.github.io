@@ -1,5 +1,6 @@
 ---
-brand: "Morgan Territory Midnight Sea (Nitro)"
+brewery: "Morgan Territory"
+brand: "Midnight Sea (Nitro)"
 type: "Stout"
 location: "Tracy, California"
 glass: "pint.png"

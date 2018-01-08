@@ -1,5 +1,6 @@
 ---
-brand: "Karl Strauss Aurora Hoppyalis"
+brewery: "Karl Strauss"
+brand: "Aurora Hoppyalis"
 type: "IPA"
 location: "San Diego, California"
 glass: "pint.png"

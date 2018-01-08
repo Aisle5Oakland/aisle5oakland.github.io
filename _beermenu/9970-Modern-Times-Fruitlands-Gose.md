@@ -1,5 +1,6 @@
 ---
-brand: "Modern Times Fruitlands Gose"
+brewery: "Modern Times"
+brand: "Fruitlands Gose"
 type: "Sour Gose"
 location: "San Diego, California"
 glass: "snifter.png"

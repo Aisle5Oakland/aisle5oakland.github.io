@@ -1,5 +1,6 @@
 ---
-brand: "Ale Industries Blueberry IPA"
+brewery: "Ale Industries"
+brand: "Blueberry IPA"
 type: "IPA"
 location: "Oakland, California"
 glass: "snifter.png"

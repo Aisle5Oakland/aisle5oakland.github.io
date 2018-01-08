@@ -1,5 +1,6 @@
 ---
-brand: "Laughing Monk Brother Terry IPA"
+brewery: "Laughing Monk"
+brand: "Brother Terry IPA"
 type: "IPA"
 location: "San Francisco, California"
 glass: "pint.png"

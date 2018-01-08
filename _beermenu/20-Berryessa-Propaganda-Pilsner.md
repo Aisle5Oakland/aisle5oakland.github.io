@@ -1,5 +1,6 @@
 ---
-brand: "Berryessa Propoganda Pilsner"
+brewery: "Berryessa"
+brand: "Propoganda Pilsner"
 type: "Pilsner"
 location: "Winters, California"
 glass: "pilsner.png"

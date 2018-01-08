@@ -1,5 +1,6 @@
 ---
-brand: "Oakland United Black Lager"
+brewery: "Oakland United"
+brand: "Black Lager"
 type: "Schwarzbier"
 location: "Oakland, California"
 glass: "pint.png"

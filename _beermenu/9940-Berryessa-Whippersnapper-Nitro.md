@@ -1,5 +1,6 @@
 ---
-brand: "Berryessa Whippersnapper (Nitro)"
+brewery: "Berryessa"
+brand: "Whippersnapper (Nitro)"
 type: "Session Ale"
 location: "Winters, California"
 glass: "snifter.png"

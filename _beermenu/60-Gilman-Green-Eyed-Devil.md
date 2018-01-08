@@ -1,5 +1,6 @@
 ---
-brand: "Gilman Green Eyed Devil"
+brewery: "Gilman"
+brand: "Green-Eyed Devil"
 type: "Lager"
 location: "Berkeley, California"
 glass: "pint.png"

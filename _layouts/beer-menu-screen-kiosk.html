@@ -25,8 +25,8 @@
 				<div class="col-lg-2">
 					<img class="brewery_brand_kiosk" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
 				</div>
-				<div class="col-lg-6">
-					<h1 class="brand-name_kiosk" style="color:{{page.font_color}};">{{beer.brand}}</h1>
+				<div class="col-lg-5">
+					<h1 class="brand-name_kiosk" style="color:{{page.font_color}};">{{ beer.brewery }} {{beer.brand}}</h1>
 					<p>	{% for profile in beer.flavor_profile %}
 							{% if profile.is_bitter == "True" %}
 								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/bitter.png>
@@ -84,7 +84,10 @@
 						</tr>
 					</table>	
 				</div>
-				<div class="hidden-xs hidden-md col-lg-1">			
+				<div class="col-lg-1">			
+					<p class="beer-qualities" style="color:{{page.font_color}};">Price: ${{beer.price}}</p>					
+				</div>
+				<div class="col-lg-1">			
 					<img class="beer_color" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/glass_image/white/{{beer.glass}}>
 				</div>
 			</div>

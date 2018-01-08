@@ -22,10 +22,13 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="hidden-xs hidden-md col-lg-1">
+				<div class="col-lg-1">
+					<p class="beer-qualities" style="color:{{page.font_color}};">{{ beer.type }}</p>
+				</div>
+				<div class="col-lg-1">
 					<img class="brewery_brand" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
 				</div>
-				<div class="col-lg-4">
+				<div class="col-lg-3">
 					<h1 class="brand-name" style="color:{{page.font_color}};">{{ beer.brand }}</h1>				
 				</div>
 				<div class="col-lg-2">
@@ -75,7 +78,7 @@
 				<div class="col-lg-2">
 					<table style="width:100%">
 						<tr>
-							<td class="beer-type" style="color:{{page.font_color}};">{{ beer.type }}</td>
+							<td class="beer-type" style="color:{{page.font_color}};">{{ beer.brewery }}</td>
 						</tr>
 						<tr>
 						<td class="brewery-location" style="color:{{page.font_color}};">{{ beer.location }}</td>
@@ -83,19 +86,27 @@
 					</table>	
 				</div>
 				<div class="col-lg-1">
-					<p class="beer-qualities" style="color:{{page.font_color}};">ABV: {{ beer.alcohol }}</p>
+					<table style="width:100%">
+						<tr>
+							<td class="brewery-location" style="color:{{page.font_color}};">ABV: {{ beer.alcohol }}</td>
+						</tr>
+						<tr>
+							<td class="brewery-location" style="color:{{page.font_color}};">
+								{% if beer.ibu != "NA" %}					
+									<p> IBU: {{ beer.ibu }}</p>
+								{% else %}
+									<p> IBU: NA</p>
+								{% endif %}	
+							</td>
+						</tr>
+					</table>
 				</div>
-				<div class="col-lg-1">
-					{% if beer.ibu != "NA" %}					
-						<p class="beer-qualities" style="color:{{page.font_color}};"> IBU: {{ beer.ibu }}</p>
-					{% else %}
-						<p class="beer-qualities" style="color:{{page.font_color}};"> IBU: NA</p>
-					{% endif %}	
+				<div class="col-lg-1">			
+					<p class="beer-qualities" style="color:{{page.font_color}};">Price: ${{beer.price}}</p>				
 				</div>
-				<div class="hidden-xs hidden-md col-lg-1">			
+				<div class="col-lg-1">			
 					<img class="beer_color" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/glass_image/white/{{beer.glass}}>
 				</div>
-
 		{% endif %}
       </div>
 		{% endfor %}

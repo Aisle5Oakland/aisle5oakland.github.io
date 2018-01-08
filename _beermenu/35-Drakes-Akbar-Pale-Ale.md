@@ -1,5 +1,6 @@
 ---
-brand: "Drakes Akbar Ale"
+brewery: "Drakes"
+brand: "Akbar Ale"
 type: "English Ale"
 location: "San Leandro, California"
 glass: "pint.png"

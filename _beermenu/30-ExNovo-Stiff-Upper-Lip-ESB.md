@@ -1,5 +1,6 @@
 ---
-brand: "Ex Novo Stiff Upper Lip"
+brewery: "Ex Novo"
+brand: "Stiff Upper Lip"
 type: "ESB"
 location: "Portland, Oregon"
 glass: "pint.png"

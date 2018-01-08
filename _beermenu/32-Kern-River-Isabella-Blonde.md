@@ -1,5 +1,6 @@
 ---
-brand: "Kern River Isabella Blonde"
+brewery: "Kern River"
+brand: "Isabella Blonde"
 type: "Blonde Ale"
 location: "Kernville, California"
 glass: "pint.png"

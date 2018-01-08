@@ -1,5 +1,6 @@
 ---
-brand: "Fort Point KSA Kolsch"
+brewery: "Fort Point"
+brand: "KSA Kolsch"
 type: "Kolsch"
 location: "San Francisco, California"
 glass: "pint.png"

@@ -1,5 +1,6 @@
 ---
-brand: "Aisle 5 Weekender Pale Ale"
+brewery: "Aisle5/Headlands"
+brand: "Weekender Pale Ale"
 type: "Pale Ale"
 location: "Oakland, Ca"
 glass: "pint.png"

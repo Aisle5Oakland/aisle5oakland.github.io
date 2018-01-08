@@ -1,5 +1,6 @@
 ---
-brand: "Knee Deep Broken Bud IPA"
+brewery: "Knee Deep"
+brand: "Broken Bud IPA"
 type: "IPA"
 location: "Auburn, California"
 glass: "pint.png"

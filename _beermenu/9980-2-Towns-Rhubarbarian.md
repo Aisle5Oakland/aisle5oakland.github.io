@@ -1,5 +1,6 @@
 ---
-brand: "2 Towns Rhubarbarian Cider"
+brewery: "Two Towns"
+brand: "Rhubarbarian Cider"
 type: "Cider"
 location: "Corvallis, Oregon"
 glass: "snifter.png"

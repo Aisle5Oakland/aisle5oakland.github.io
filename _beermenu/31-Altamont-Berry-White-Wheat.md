@@ -1,5 +1,6 @@
 ---
-brand: "Altamont Berry White Wheat "
+brewery: "Altamont"
+brand: "Berry White Wheat "
 type: "Wheat Ale"
 location: "Livermore, California"
 glass: "pint.png"
