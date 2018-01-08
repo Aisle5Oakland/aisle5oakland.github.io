@@ -164,11 +164,27 @@ hr.style2 {
   padding-left: 15px;
   padding-top:25px;
 }
+.brewery {
+  font-size: 2.6rem;
+  font-weight: bold;
+  padding-top: 10px;
+}
+.beer-type {
+  font-size: 2.6rem;
+  font-weight: normal;
+  padding-left: 10px;
+  padding-top: 10px;
+}
 .brewery-location {
   font-size: 2.6rem;
   font-weight: normal;
 }
 
+.beer-abv-ibu {
+  font-size: 2.6rem;
+  font-weight: normal;
+  padding-top: 10px;
+}
 .brand-name-web {
   font-size: 2rem;
   font-weight: bold;

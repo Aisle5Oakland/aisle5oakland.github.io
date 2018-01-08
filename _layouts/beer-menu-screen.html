@@ -23,7 +23,7 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-1">
-					<p class="brewery-location" style="color:{{page.font_color}};">{{ beer.type }}</p>
+					<p class="beer-type" style="color:{{page.font_color}};">{{ beer.type }}</p>
 				</div>
 				<div class="col-lg-1">
 					<img class="brewery_brand" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
@@ -78,7 +78,7 @@
 				<div class="col-lg-2">
 					<table style="width:100%">
 						<tr>
-							<td class="beer-type" style="color:{{page.font_color}};">{{ beer.brewery }}</td>
+							<td class="brewery" style="color:{{page.font_color}};">{{ beer.brewery }}</td>
 						</tr>
 						<tr>
 						<td class="brewery-location" style="color:{{page.font_color}};">{{ beer.location }}</td>
@@ -88,10 +88,10 @@
 				<div class="col-lg-1">
 					<table style="width:100%">
 						<tr>
-							<td class="brewery-location" style="color:{{page.font_color}};">ABV: {{ beer.alcohol }}</td>
+							<td class="beer-abv-ibu" style="color:{{page.font_color}};">ABV: {{ beer.alcohol }}</td>
 						</tr>
 						<tr>
-							<td class="brewery-location" style="color:{{page.font_color}};">
+							<td class="beer-abv-ibu" style="color:{{page.font_color}};">
 								{% if beer.ibu != "NA" %}					
 									<p> IBU: {{ beer.ibu }}</p>
 								{% else %}
