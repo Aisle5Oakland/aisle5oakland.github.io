@@ -1,7 +1,7 @@
 ---
 brewery: "Fieldwork"
 brand: "East Side DIPA"
-type: "Double IPA"
+type: "DIPA"
 location: "Berkeley, California"
 glass: "snifter.png"
 brewery_brand: "fieldwork.jpg"
