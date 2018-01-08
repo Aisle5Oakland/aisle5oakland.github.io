@@ -102,10 +102,10 @@
 					</table>
 				</div>
 				<div class="col-lg-1">			
-					<p class="beer-qualities" style="color:{{page.font_color}};">Price: ${{beer.price}}</p>				
+					<img class="beer_color" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/glass_image/white/{{beer.glass}}>
 				</div>
 				<div class="col-lg-1">			
-					<img class="beer_color" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/glass_image/white/{{beer.glass}}>
+					<p class="beer-qualities" style="color:{{page.font_color}};">${{beer.price}}</p>				
 				</div>
 		{% endif %}
       </div>
