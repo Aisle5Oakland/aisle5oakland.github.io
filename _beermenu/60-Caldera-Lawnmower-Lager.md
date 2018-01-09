@@ -1,0 +1,27 @@
+---
+brewery: "Caldera"
+brand: "Lawn Mower Lager"
+type: "Lager"
+location: "Ashland, Oregon"
+glass: "pint.png"
+brewery_brand: "caldera.png"
+alcohol: "3.9%"
+ibu: "16"
+tap_order: "108"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Premium Two Row, Pilsener,  Flaked Rice, Flaked Barley with Willamette Hops"
+---
+
