@@ -8,7 +8,7 @@ brewery_brand: "fieldwork.jpg"
 alcohol: "8.3%"
 ibu: "NA"
 tap_order: "111"
-price: "9"
+price: "8"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: "True"
