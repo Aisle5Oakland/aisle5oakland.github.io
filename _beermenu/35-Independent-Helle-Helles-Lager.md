@@ -1,0 +1,27 @@
+---
+brewery: "Independent"
+brand: "Hella Helles"
+type: "Lager"
+location: "Oakland, California"
+glass: "pint.png"
+brewery_brand: "independent.png"
+alcohol: "5.1%"
+ibu: "18"
+tap_order: "114"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: " "
+---
+
