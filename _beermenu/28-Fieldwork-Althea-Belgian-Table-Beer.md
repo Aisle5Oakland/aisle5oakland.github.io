@@ -1,0 +1,26 @@
+---
+brewery: "Fieldwork"
+brand: "Althea Belgian Table Beer"
+type: "Belgian"
+location: "Berkeley, California"
+glass: "pint.png"
+brewery_brand: "fieldwork.jpg"
+alcohol: "4.0%"
+ibu: "NA"
+tap_order: "106"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "A dusting of Belma hops add nice floral notes in the background and a brilliant finish akin to the fruity white center of a strawberry picked just a few days too early. These light malt and hop flavors blend seamlessly with the effervescent Belgian yeast blend that sprinkles esters of lemon zest and freshly baled hay."
+---
+

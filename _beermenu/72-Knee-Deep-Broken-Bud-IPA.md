@@ -1,13 +1,13 @@
 ---
 brewery: "Knee Deep"
-brand: "Broken Bud IPA"
+brand: "Breaking Bud IPA"
 type: "IPA"
 location: "Auburn, California"
 glass: "pint.png"
 brewery_brand: "knee-deep.png"
 alcohol: "6.5%"
 ibu: "50"
-tap_order: "114"
+tap_order: "115"
 price: "8"
 flavor_profile:
  - is_bitter: "True"

@@ -7,7 +7,7 @@ glass: "pint.png"
 brewery_brand: "aisle-5.png"
 alcohol: "6.3%"
 ibu: "40"
-tap_order: "106"
+tap_order: "107"
 price: "6"
 flavor_profile:
  - is_bitter: "True"
