@@ -1,6 +1,6 @@
 ---
 brewery: "Lost Coast"
-brand: "Isabella Blonde"
+brand: "Lost Coast Blonde"
 type: "Blonde Ale"
 location: "Eureka, California"
 glass: "pint.png"
