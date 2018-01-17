@@ -1,5 +1,5 @@
 ---
-brewery: "Eight Bridges"
+brewery: "Eight Bridges Brewing"
 brand: "Besmoked Porter"
 type: "Porter"
 location: "Livermore, California"

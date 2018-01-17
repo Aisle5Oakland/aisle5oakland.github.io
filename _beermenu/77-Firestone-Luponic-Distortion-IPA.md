@@ -1,5 +1,5 @@
 ---
-brewery: "Firestone"
+brewery: "Firestone Brewing"
 brand: "Luponic Distortion"
 type: "IPA"
 location: "Paso Robles, California"

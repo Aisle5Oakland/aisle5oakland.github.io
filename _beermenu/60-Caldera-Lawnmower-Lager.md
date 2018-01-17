@@ -1,5 +1,5 @@
 ---
-brewery: "Caldera"
+brewery: "Caldera Brewing"
 brand: "Lawn Mower Lager"
 type: "Lager"
 location: "Ashland, Oregon"

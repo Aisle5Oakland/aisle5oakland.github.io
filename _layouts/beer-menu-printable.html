@@ -1,0 +1,55 @@
+---
+
+---
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title> Aisle 5 Printable Beer Menu </title>
+  
+  <!-- Bootstrap CSS -->  
+  <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/public/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/public/css/bootstrap-theme.min.css">
+  <!-- Bootstrap Override CSS -->  
+  <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/public/css/bootstrap - override.css">
+  <!-- Bootstrap Print Override CSS -->  
+  <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/public/css/bootstrap-print.css">
+  <!-- External Fonts -->    
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=BenchNine">
+</head>
+
+<html>
+<body>
+{% assign beer_sorted_list = site.beermenu | sort: 'tap_order' %}
+{% assign beer_count = 0 %}
+<div class="container-fluid no-padding">
+	<div class="row">
+		<div class="col-sm-12">
+		<h2 class="menu-name">Aisle 5 Beer List</h2>
+		<p class="beer-menu-date-print">Printed: {{ "now" | date: "%b %d, %Y" }}</p>
+		<div>
+	</div>
+	<div class="row">
+		<div class="col-sm-6">
+			<table>
+				{% for beer in beer_sorted_list %}
+				{% if forloop.index >= 1 and forloop.index <= 10 %}
+                {% include beer-menu-detail.html %}				
+				{% endif %}
+				{% endfor %}
+			</table>
+		</div>
+		<div class="col-sm-6">
+			<table>
+				{% for beer in beer_sorted_list %}
+				{% if forloop.index >= 11 and forloop.index <= 20 %}
+                {% include beer-menu-detail.html %}				
+				{% endif %}
+				{% endfor %}
+			</table>
+		</div>
+	</div>
+</div>
+</body>
+</html>

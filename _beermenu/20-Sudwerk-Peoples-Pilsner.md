@@ -1,5 +1,5 @@
 ---
-brewery: "Sudwerk"
+brewery: "Sudwerk Brewing"
 brand: "Peoples Pilsner"
 type: "Pilsner"
 location: "Davis, CA"

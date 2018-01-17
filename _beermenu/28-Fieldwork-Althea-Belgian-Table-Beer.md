@@ -1,5 +1,5 @@
 ---
-brewery: "Fieldwork"
+brewery: "Fieldwork Brewing"
 brand: "Althea Belgian Table Beer"
 type: "Belgian"
 location: "Berkeley, California"
@@ -21,6 +21,6 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: "A dusting of Belma hops add nice floral notes in the background and a brilliant finish akin to the fruity white center of a strawberry picked just a few days too early. These light malt and hop flavors blend seamlessly with the effervescent Belgian yeast blend that sprinkles esters of lemon zest and freshly baled hay."
+long_desc: "A dusting of Belma hops add nice floral notes in the background and a brilliant finish akin to the fruity white center of a strawberry picked just a few days too early."
 ---
 

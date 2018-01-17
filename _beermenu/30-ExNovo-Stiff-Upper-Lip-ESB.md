@@ -1,5 +1,5 @@
 ---
-brewery: "Ex Novo"
+brewery: "Ex Novo Brewing"
 brand: "Stiff Upper Lip"
 type: "ESB"
 location: "Portland, Oregon"

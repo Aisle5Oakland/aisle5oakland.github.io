@@ -1,5 +1,5 @@
 ---
-brewery: "Oakland United"
+brewery: "Oakland United Brewing"
 brand: "Black Lager"
 type: "Schwarzbier"
 location: "Oakland, California"

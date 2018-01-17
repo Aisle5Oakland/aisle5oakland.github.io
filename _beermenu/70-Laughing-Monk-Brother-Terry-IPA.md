@@ -1,5 +1,5 @@
 ---
-brewery: "Laughing Monk"
+brewery: "Laughing Monk Brewing"
 brand: "Brother Terry IPA"
 type: "IPA"
 location: "San Francisco, California"

@@ -1,5 +1,5 @@
 ---
-brewery: "Knee Deep"
+brewery: "Knee Deep Brewing"
 brand: "Breaking Bud IPA"
 type: "IPA"
 location: "Auburn, California"

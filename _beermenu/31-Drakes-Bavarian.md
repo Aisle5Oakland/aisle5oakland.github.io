@@ -1,5 +1,5 @@
 ---
-brewery: "Drakes"
+brewery: "Drakes Brewing"
 brand: "Drakes Hefeweizen"
 type: "Hefeweizen"
 location: "San Leandro, California"

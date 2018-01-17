@@ -1,5 +1,5 @@
 ---
-brewery: "South City"
+brewery: "South City Cider Co."
 brand: "Greg's Gamble"
 type: "Cider"
 location: "San Bruno, CA"

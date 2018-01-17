@@ -1,5 +1,5 @@
 ---
-brewery: "Epic"
+brewery: "Epic Brewing"
 brand: "Brainless Raspberries (Nitro)"
 type: "Belgian Ale"
 location: "SLC, Utah"

@@ -22,5 +22,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: "A collaboration with Headlands Brewing Company, this American Pale Ale is balanced and smooth. Warrior hops provide a nice background bitterness that is supported by the simple grain bill of a 2-row, rye and vienna malts.  The vienna malt lends a slight honeyed biscuit note that weaves nicely with the citrus and pine aromas from the later addition and dry hop."
+long_desc: "A collaboration with Headlands Brewing Company, this American Pale Ale is balanced and smooth. Warrior hops provide a nice background bitterness that is supported by the simple grain bill of a 2-row, rye and vienna malts."
 ---

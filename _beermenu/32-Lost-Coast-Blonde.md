@@ -1,5 +1,5 @@
 ---
-brewery: "Lost Coast"
+brewery: "Lost Coast Brewing"
 brand: "Lost Coast Blonde"
 type: "Blonde Ale"
 location: "Eureka, California"

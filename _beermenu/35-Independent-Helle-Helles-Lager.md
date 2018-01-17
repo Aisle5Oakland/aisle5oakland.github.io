@@ -1,5 +1,5 @@
 ---
-brewery: "Independent"
+brewery: "Independent Brewing"
 brand: "Hella Helles"
 type: "Lager"
 location: "Oakland, California"

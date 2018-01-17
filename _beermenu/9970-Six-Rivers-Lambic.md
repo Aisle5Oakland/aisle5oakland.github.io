@@ -1,5 +1,5 @@
 ---
-brewery: "Six Rivers"
+brewery: "Six Rivers Brewing"
 brand: "Raspberry Lambic-Style Ale"
 type: "Lambic"
 location: "McKinleyville, California"

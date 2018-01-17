@@ -1,0 +1,25 @@
+				<tr>
+					<td>
+					{% assign beer_count = beer_count | plus: 1 %}
+						<p class="beer-name-print">{{ beer.brand }}- ${{beer.price}}						
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td> 
+						<p class="beer-descriptors-print">
+							{{beer.type}}
+							{{ beer.alcohol }} ABV
+							{% if beer.ibu != "NA" %}
+								{{beer.ibu}} IBU
+								{% else %}
+							{% endif %}
+							( {{beer.brewery}} - {{beer.location}})
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p class="beer-description-print">{{ beer.long_desc }}</p>
+					</td>
+				</tr>

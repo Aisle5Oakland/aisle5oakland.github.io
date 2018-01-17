@@ -1,5 +1,5 @@
 ---
-brewery: "Fieldwork"
+brewery: "Fieldwork Brewing"
 brand: "East Side DIPA"
 type: "DIPA"
 location: "Berkeley, California"
