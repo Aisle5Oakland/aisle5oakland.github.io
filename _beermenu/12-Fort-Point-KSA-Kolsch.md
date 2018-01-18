@@ -2,7 +2,7 @@
 brewery: "Fort Point Brewing"
 brand: "KSA Kolsch"
 type: "Kolsch"
-location: "San Francisco, California"
+location: "San Francisco, Ca"
 glass: "pint.png"
 brewery_brand: "fort-point.png"
 alcohol: "4.6%"

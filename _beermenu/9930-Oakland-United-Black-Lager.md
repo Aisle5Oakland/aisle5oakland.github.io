@@ -2,7 +2,7 @@
 brewery: "Oakland United Brewing"
 brand: "Black Lager"
 type: "Schwarzbier"
-location: "Oakland, California"
+location: "Oakland, Ca"
 glass: "pint.png"
 brewery_brand: "oakland-united.png"
 alcohol: "5.2%"

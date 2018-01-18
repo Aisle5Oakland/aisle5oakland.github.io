@@ -2,7 +2,7 @@
 brewery: "Caldera Brewing"
 brand: "Lawn Mower Lager"
 type: "Lager"
-location: "Ashland, Oregon"
+location: "Ashland, Or"
 glass: "pint.png"
 brewery_brand: "caldera.png"
 alcohol: "3.9%"

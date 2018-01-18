@@ -2,7 +2,7 @@
 brewery: "Fieldwork Brewing"
 brand: "Althea Belgian Table Beer"
 type: "Belgian"
-location: "Berkeley, California"
+location: "Berkeley, Ca"
 glass: "pint.png"
 brewery_brand: "fieldwork.jpg"
 alcohol: "4.0%"

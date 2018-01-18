@@ -2,7 +2,7 @@
 brewery: "Knee Deep Brewing"
 brand: "Breaking Bud IPA"
 type: "IPA"
-location: "Auburn, California"
+location: "Auburn, Ca"
 glass: "pint.png"
 brewery_brand: "knee-deep.png"
 alcohol: "6.5%"

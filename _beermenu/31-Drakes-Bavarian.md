@@ -2,7 +2,7 @@
 brewery: "Drakes Brewing"
 brand: "Drakes Hefeweizen"
 type: "Hefeweizen"
-location: "San Leandro, California"
+location: "San Leandro, Ca"
 glass: "pint.png"
 brewery_brand: "drakes.jpg"
 alcohol: "4.8%"

@@ -2,7 +2,7 @@
 brewery: "Sudwerk Brewing"
 brand: "Peoples Pilsner"
 type: "Pilsner"
-location: "Davis, CA"
+location: "Davis, Ca"
 glass: "pilsner.png"
 brewery_brand: "sudwerk.jpg"
 alcohol: "5.3%"

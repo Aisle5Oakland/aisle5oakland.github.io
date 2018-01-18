@@ -2,7 +2,7 @@
 brewery: "Firestone Brewing"
 brand: "Luponic Distortion"
 type: "IPA"
-location: "Paso Robles, California"
+location: "Paso Robles, Ca"
 glass: "pint.png"
 brewery_brand: "firestone-walker.png"
 alcohol: "5.9%"

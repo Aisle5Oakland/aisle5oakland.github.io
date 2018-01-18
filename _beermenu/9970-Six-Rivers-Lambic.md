@@ -2,7 +2,7 @@
 brewery: "Six Rivers Brewing"
 brand: "Raspberry Lambic-Style Ale"
 type: "Lambic"
-location: "McKinleyville, California"
+location: "McKinleyville, Ca"
 glass: "snifter.png"
 brewery_brand: "six-rivers-brewery.png"
 alcohol: "7.4%"

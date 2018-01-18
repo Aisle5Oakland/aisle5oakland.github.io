@@ -2,7 +2,7 @@
 brewery: "Independent Brewing"
 brand: "Hella Helles"
 type: "Lager"
-location: "Oakland, California"
+location: "Oakland, Ca"
 glass: "pint.png"
 brewery_brand: "independent.png"
 alcohol: "5.1%"

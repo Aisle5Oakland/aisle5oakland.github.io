@@ -2,7 +2,7 @@
 brewery: "Ex Novo Brewing"
 brand: "Stiff Upper Lip"
 type: "ESB"
-location: "Portland, Oregon"
+location: "Portland, Or"
 glass: "pint.png"
 brewery_brand: "ex-novo.png"
 alcohol: "6.2%"

@@ -2,7 +2,7 @@
 brewery: "Lost Coast Brewing"
 brand: "Lost Coast Blonde"
 type: "Blonde Ale"
-location: "Eureka, California"
+location: "Eureka, Ca"
 glass: "pint.png"
 brewery_brand: "lost-coast.png"
 alcohol: "4.7%"

@@ -2,7 +2,7 @@
 brewery: "Epic Brewing"
 brand: "Brainless Raspberries (Nitro)"
 type: "Belgian Ale"
-location: "SLC, Utah"
+location: "Salt Lake City, Ut"
 glass: "snifter.png"
 brewery_brand: "epic.png"
 alcohol: "10%"

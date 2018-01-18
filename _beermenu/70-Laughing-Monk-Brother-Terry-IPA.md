@@ -2,7 +2,7 @@
 brewery: "Laughing Monk Brewing"
 brand: "Brother Terry IPA"
 type: "IPA"
-location: "San Francisco, California"
+location: "San Francisco, Ca"
 glass: "pint.png"
 brewery_brand: "laughing-monk.png"
 alcohol: "6.4%"

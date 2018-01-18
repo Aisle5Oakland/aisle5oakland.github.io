@@ -2,7 +2,7 @@
 brewery: "Eight Bridges Brewing"
 brand: "Besmoked Porter"
 type: "Porter"
-location: "Livermore, California"
+location: "Livermore, Ca"
 glass: "snifter.png"
 brewery_brand: "eightbridges.png"
 alcohol: "6.5%"

@@ -2,7 +2,7 @@
 brewery: "Fieldwork Brewing"
 brand: "East Side DIPA"
 type: "DIPA"
-location: "Berkeley, California"
+location: "Berkeley, Ca"
 glass: "snifter.png"
 brewery_brand: "fieldwork.jpg"
 alcohol: "8.3%"
