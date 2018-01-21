@@ -1,4 +1,4 @@
-﻿---
+---
 brewery: "Almanac Beer Co."
 brand: "Sunshine & Opportunity"
 type: "Sour"
@@ -24,3 +24,4 @@ flavor_profile:
  - is_fruity: "True"
 long_desc: "Sunshine & Opportunity is a mixed fermentation saison brewed with oats and wheat, fermented with a blend of our house brewer’s yeast, brettanomyces and lactobacillus, and aged in oak barrels and foedres. Finally, the beer is dry-hopped with a delicate touch of Citra hops for an aroma of lemon-lime and peach skin."
 ---
+
