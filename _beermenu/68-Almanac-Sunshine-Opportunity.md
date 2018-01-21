@@ -1,9 +1,9 @@
----
+﻿---
 brewery: "Almanac Beer Co."
 brand: "Sunshine & Opportunity"
-type: "Saison"
+type: "Sour"
 location: "Alameda, California"
-glass: "pilsner.png"
+glass: "tulip.png"
 brewery_brand: "almanac.png"
 alcohol: "6.9%"
 ibu: "NA"
