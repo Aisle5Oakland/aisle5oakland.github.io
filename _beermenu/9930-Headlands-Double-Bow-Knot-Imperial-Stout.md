@@ -1,0 +1,23 @@
+---
+brewery: "Headlands Brewing"
+brand: "Double Bowknot"
+type: "Imperial Stout"
+location: "Mill Valley, California"
+glass: "snifter.png"
+brewery_brand: "headlands-brewing-company.png"
+alcohol: "10%"
+ibu: "NA"
+tap_order: "112"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: " "
+---
