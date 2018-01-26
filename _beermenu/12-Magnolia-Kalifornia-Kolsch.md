@@ -2,7 +2,7 @@
 brewery: "Magnolia Brewing"
 brand: "Kalifornia Kolsch"
 type: "Kolsch"
-location: "San Francisco, Ca"
+location: "SF, Ca"
 glass: "pint.png"
 brewery_brand: "magnolia.png"
 alcohol: "4.7%"

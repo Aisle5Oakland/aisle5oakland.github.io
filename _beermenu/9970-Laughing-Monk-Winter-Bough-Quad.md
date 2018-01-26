@@ -2,7 +2,7 @@
 brewery: "Laughing Monk Brewing"
 brand: "Winter Bough Quad"
 type: "Belgian Quad"
-location: "San Francisco, Ca"
+location: "SF, Ca"
 glass: "snifter.png"
 brewery_brand: "laughing-monk.png"
 alcohol: "7.4%"
