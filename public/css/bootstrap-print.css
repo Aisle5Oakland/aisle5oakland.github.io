@@ -4,6 +4,17 @@ body {
 	padding-top: 0px;
 }
 
+.side-col {
+	vertical-align: top;
+	width:48%;
+}
+
+.middle-col {
+	vertical-align: top;
+	width:4%;
+}
+
+
 .menu-name {
   font-family: 'BenchNine', serif;
   color: #e47911;
@@ -25,15 +36,15 @@ body {
 /* print styling */
 
 .beer-name-print {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: bold;
   padding-bottom: 0px;
   margin-bottom:5px;
-  margin-top:10px;
+  margin-top:5px;
 }
 
 .beer-descriptors-print {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   vertical-align: bottom;
   padding-top: 0px;
   font-style: italic;
