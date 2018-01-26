@@ -20,5 +20,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: "Featuring eight hop varieties from four growing regions—Pacific Northwest, Germany, Australia and New Zealand. The lead hops include a punchy, citrusy variety from Washington state’s Moxee Valley; a hop from Hallertau that delivers honeydew and cantaloupe aromas; and a racy variety from New Zealand."
+long_desc: "Featuring eight hop varieties from four growing regions—Pacific Northwest, Germany, Australia and New Zealand."
 ---

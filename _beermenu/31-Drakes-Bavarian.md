@@ -21,5 +21,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: " "
+long_desc: "A classic, Bavarian-style wheat beer brewed with a combination of malted wheat and barley, and fermented with a German yeast strain that delivers notes of banana and clove."
 ---

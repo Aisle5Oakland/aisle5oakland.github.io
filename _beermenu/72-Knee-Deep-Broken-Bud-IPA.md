@@ -20,5 +20,5 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
-long_desc: "Old school meets new school in this fresh approach to the classic IPA.  At 50 IBU’s and 6.5% ABV, Breaking Bud features the restrained bitterness and alcohol of a classic IPA with newer tropical fruit hop flavors and aromas of Mosaic."
+long_desc: "Breaking Bud features the restrained bitterness and alcohol of a classic IPA with newer tropical fruit hop flavors and aromas of Mosaic."
 ---

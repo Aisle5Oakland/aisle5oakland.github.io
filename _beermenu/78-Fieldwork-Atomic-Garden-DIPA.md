@@ -21,5 +21,5 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
-long_desc: "This crushable hop bomb comes out to play with a chewy, almost honey-like malt character, which wades below the pops of grapefruit and peach notes from the Amarillo hops, reflecting their candied flavor profile like 4th of July fireworks off the water."
+long_desc: "This crushable hop bomb comes out to play with a chewy, almost honey-like malt character, which wades below the pops of grapefruit and peach notes from the Amarillo hops."
 ---
