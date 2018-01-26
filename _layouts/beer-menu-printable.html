@@ -31,22 +31,169 @@
 		<div>
 	</div>
 	<div class="row">
-		<div class="col-sm-6">
-			<table>
-				{% for beer in beer_sorted_list %}
-				{% if forloop.index >= 1 and forloop.index <= 10 %}
-                {% include beer-menu-detail.html %}				
-				{% endif %}
-				{% endfor %}
-			</table>
-		</div>
-		<div class="col-sm-6">
-			<table>
-				{% for beer in beer_sorted_list %}
-				{% if forloop.index >= 11 and forloop.index <= 20 %}
-                {% include beer-menu-detail.html %}				
-				{% endif %}
-				{% endfor %}
+		<div class="col-lg-12">
+			<table style="table-layout:fixed">
+				<tr>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 1 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 11 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 2 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 12 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 3 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 13 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 4 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 14 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 5 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 15 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 6 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 16 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 7 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 17 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 8 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 18 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 9 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 19 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 10 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+					<td valign="top" style="width:50%">
+						{% for beer in beer_sorted_list %}
+						{% if forloop.index == 20 %}
+						{% include beer-menu-detail.html %}				
+						{% endif %}
+						{% endfor %}
+					</td>
+				</tr>
+
 			</table>
 		</div>
 	</div>
