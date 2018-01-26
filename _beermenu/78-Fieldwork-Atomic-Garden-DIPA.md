@@ -21,5 +21,5 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
-long_desc: "Large in stature and menacingly juicy, Tiger Uppercut Double IPA will artfully attack the senses like it has eight well-trained limbs. Jumping into the ring with some of our favorite hops; notes of cantaloupe and sweet peach waft through the air slowly morphing into an aroma of bright citrus and weed sorbet."
+long_desc: "This crushable hop bomb comes out to play with a chewy, almost honey-like malt character, which wades below the pops of grapefruit and peach notes from the Amarillo hops, reflecting their candied flavor profile like 4th of July fireworks off the water."
 ---
