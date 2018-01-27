@@ -1,0 +1,27 @@
+---
+brewery: "Lucky Devil Brewing"
+brand: "2 Year Old Kriek"
+type: "Sour"
+location: "Oakland, California"
+glass: "snifter.png"
+brewery_brand: "logo-luckydevil.png"
+alcohol: "8.0%"
+ibu: "NA"
+tap_order: "119"
+price: "9"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: "True"
+ - is_fruity: "True"
+long_desc: "A Belgian style golden ale aged for twenty four months  in Pinot Noir, Syrah and Makers Mark whiskey barrels with Brett, Lacto and Oregon Tart Cherries"
+---
+
