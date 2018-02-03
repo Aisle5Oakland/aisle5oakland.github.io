@@ -1,0 +1,27 @@
+---
+brewery: "Barebottle Brewing"
+brand: "Pomegranate Tart Monster"
+type: "Sour"
+location: "San Francisco, Ca"
+glass: "snifter.png"
+brewery_brand: "bare-bottle.png"
+alcohol: "4.5%"
+ibu: "NA"
+tap_order: "119"
+price: "9"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: "True"
+ - is_fruity: "True"
+long_desc: "Pomegranate actually is pretty wonderful – we added several crates-worth of pomegranates to a kettle-sour ale, with a touch of ginger, jamaica, and hibiscus flowers."
+---
+
