@@ -1,6 +1,6 @@
 ---
 brewery: "Henhouse Brewing"
-brand: "Certified Independent"
+brand: "Certified Independent IPA"
 type: "IPA"
 location: "Petaluma, Ca"
 glass: "pint.png"
