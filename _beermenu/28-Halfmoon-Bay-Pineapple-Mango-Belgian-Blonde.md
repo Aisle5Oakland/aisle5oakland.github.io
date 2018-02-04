@@ -1,0 +1,26 @@
+---
+brewery: "HMB Brewing"
+brand: "Pineapple & Mango Blonde"
+type: "Belgian"
+location: "Halfmoon Bay, Ca"
+glass: "pint.png"
+brewery_brand: "half-moon-bay.jpg"
+alcohol: "5.9%"
+ibu: "20"
+tap_order: "106"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "Brewed with over 300lbs of pineapple and mango puree, this one transports us to warmer weather and sunnier days."
+---
+
