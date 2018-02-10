@@ -7,7 +7,7 @@ glass: "snifter.png"
 brewery_brand: "logo-luckydevil.png"
 alcohol: "8.0%"
 ibu: "NA"
-tap_order: "119"
+tap_order: "101"
 price: "9"
 flavor_profile:
  - is_bitter: " "

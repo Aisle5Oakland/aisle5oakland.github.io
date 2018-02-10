@@ -7,7 +7,7 @@ glass: "pint.png"
 brewery_brand: "fieldwork.jpg"
 alcohol: "6.7%"
 ibu: "NA"
-tap_order: "115"
+tap_order: "117"
 price: "8"
 flavor_profile:
  - is_bitter: "True"

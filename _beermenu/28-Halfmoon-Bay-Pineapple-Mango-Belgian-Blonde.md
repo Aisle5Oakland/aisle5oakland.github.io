@@ -7,7 +7,7 @@ glass: "pint.png"
 brewery_brand: "half-moon-bay.jpg"
 alcohol: "5.9%"
 ibu: "20"
-tap_order: "106"
+tap_order: "104"
 price: "8"
 flavor_profile:
  - is_bitter: " "

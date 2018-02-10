@@ -7,7 +7,7 @@ glass: "snifter.png"
 brewery_brand: "laughing-monk.png"
 alcohol: "7.4%"
 ibu: "13"
-tap_order: "117"
+tap_order: "106"
 price: "8"
 flavor_profile:
  - is_bitter: " "

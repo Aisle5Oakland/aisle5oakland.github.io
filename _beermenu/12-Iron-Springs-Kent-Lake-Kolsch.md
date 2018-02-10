@@ -7,7 +7,7 @@ glass: "pint.png"
 brewery_brand: "iron-springs.png"
 alcohol: "4.5%"
 ibu: "15"
-tap_order: "104"
+tap_order: "112"
 price: "7"
 flavor_profile:
  - is_bitter: " "

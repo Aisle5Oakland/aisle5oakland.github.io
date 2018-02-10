@@ -7,7 +7,7 @@ glass: "pint.png"
 brewery_brand: "social-kitchen.png"
 alcohol: "6.2%"
 ibu: "NA"
-tap_order: "103"
+tap_order: "113"
 price: "8"
 flavor_profile:
  - is_bitter: " "

@@ -7,7 +7,7 @@ glass: "pint.png"
 brewery_brand: "line51.jpg"
 alcohol: "5.1%"
 ibu: "37"
-tap_order: "102"
+tap_order: "115"
 price: "7"
 flavor_profile:
  - is_bitter: "True"

@@ -7,7 +7,7 @@ glass: "snifter.png"
 brewery_brand: "2-towns.png"
 alcohol: "6.0%"
 ibu: "NA"
-tap_order: "118"
+tap_order: "102"
 price: "8"
 flavor_profile:
  - is_bitter: " "

@@ -7,7 +7,7 @@ glass: "snifter.png"
 brewery_brand: "shadow-puppet.png"
 alcohol: "8.1%"
 ibu: "NA"
-tap_order: "112"
+tap_order: "107"
 price: "8"
 flavor_profile:
  - is_bitter: " "

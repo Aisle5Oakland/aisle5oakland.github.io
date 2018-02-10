@@ -7,7 +7,7 @@ glass: "pint.png"
 brewery_brand: "anderson-valley.png"
 alcohol: "5.8%"
 ibu: "15"
-tap_order: "120"
+tap_order: "108"
 price: "7"
 flavor_profile:
  - is_bitter: "True"
