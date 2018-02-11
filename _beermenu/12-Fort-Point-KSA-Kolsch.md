@@ -2,12 +2,12 @@
 brewery: "Fort Point Brewing"
 brand: "KSA Kolsch"
 type: "Kolsch"
-location: "San Francisco, Ca"
+location: "SF, Ca"
 glass: "pint.png"
 brewery_brand: "fort-point.png"
 alcohol: "4.6%"
 ibu: "17"
-tap_order: "104"
+tap_order: "112"
 price: "7"
 flavor_profile:
  - is_bitter: " "
@@ -21,5 +21,5 @@ flavor_profile:
  - is_light: "True"
  - is_malty: " "
  - is_sour: " "
-long_desc: "KSA combines a thoughtful mixture of American bittering hops and traditional German malts to create a complex yet crisp take on the Kölsch style. Munich and Vienna malts construct the beer’s robust, rich grain flavor, while Saphir and Warrior hops bring balance through a clean finish."
+long_desc: "KSA combines a thoughtful mixture of American bittering hops and traditional German malts to create a complex yet crisp take on the Kölsch style."
 ---
