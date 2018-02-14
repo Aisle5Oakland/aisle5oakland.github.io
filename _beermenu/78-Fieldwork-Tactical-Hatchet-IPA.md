@@ -1,7 +1,7 @@
 ---
 brewery: "Fieldwork Brewing"
-brand: "Tactical Hatchet DIPA"
-type: "DIPA"
+brand: "Tactical Hatchet IPA"
+type: "IPA"
 location: "Berkeley, Ca"
 glass: "snifter.png"
 brewery_brand: "fieldwork.jpg"
