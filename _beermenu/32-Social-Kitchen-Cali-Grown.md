@@ -1,5 +1,5 @@
 ---
-brewery: "Social Kitchen & Brewery"
+brewery: "Social Kitchen"
 brand: "California Grown"
 type: "Lager"
 location: "SF, Ca"

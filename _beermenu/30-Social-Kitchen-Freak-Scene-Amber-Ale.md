@@ -1,5 +1,5 @@
 ---
-brewery: "Social Kitchen & Brewery"
+brewery: "Social Kitchen"
 brand: "Freak Scene"
 type: "Amber"
 location: "SF, Ca"
