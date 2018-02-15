@@ -1,0 +1,116 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en-us">
+   {% include head.html %}
+   <body>
+      <script>
+         window.fbAsyncInit = function() {
+           FB.init({
+             appId      : '148314495852230',
+             xfbml      : true,
+             version    : 'v2.12'
+           });
+           FB.AppEvents.logPageView();
+         };
+         
+         (function(d, s, id){
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));
+      </script>
+      <div class="container-fluid no-padding">
+         <div class="row">
+            <div class="col-lg-12">
+               <table style="width:100%">
+                  <tr>
+                     <td style="height: 10px;"/>
+                  </tr>
+                  {% for beer in site.beermenu %}
+                  <tr>
+                     <td style="vertical-align: middle; padding-right:20px;">
+                        <img class="brewery_brand" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
+                     </td>
+                     <td>
+                        <h3 class="food-item">{{ beer.brewery }} {{ beer.brand }}</h3>
+                        <p class="brand-long-desc">{{ beer.long_desc }}</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                     </td>
+                     <td>
+                        <p class="food-item">Type: {{beer.type}}</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                     </td>
+                     <td>
+                        <p class="food-item">ABV: {{ beer.alcohol }}</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                     </td>
+                     <td>
+                        <p class="food-item">
+                           {% if beer.ibu != "NA" %}
+                           IBU: {{beer.ibu}}
+                           {% else %}
+                           IBU: Not Available
+                           {% endif %}
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                     </td>
+                     <td>Flavor Profile: 
+                        {% for profile in beer.flavor_profile %}
+                        {% if profile.is_bitter == "True" %}
+                        <img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/bitter.png title="Bitter">
+                        {% endif %}
+                        {% if profile.is_strong == "True" %}
+                        <img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/strong.png title="Strong">
+                        {% endif %}
+                        {% if profile.is_sweet == "True" %}
+                        <img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/sweet.png title="Sweet">
+                        {% endif %}
+                        {% if profile.is_light_crisp == "True" %}
+                        <img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/crisp.png title="Crisp">
+                        {% endif %}
+                        {% if profile.is_creamy == "True" %}
+                        <img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/creamy.png title="Creamy">
+                        {% endif %}
+                        {% if profile.is_hoppy == "True" %}
+                        <img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/hopps.png title="Hoppy">
+                        {% endif %}
+                        {% if profile.is_light == "True" %}
+                        <img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/light.png title="Light">
+                        {% endif %}
+                        {% if profile.is_malty == "True" %}
+                        <img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/malt.png title="Malty">
+                        {% endif %}
+                        {% if profile.is_sour == "True" %}
+                        <img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/sour.png title="Sour">
+                        {% endif %}
+                        {% if profile.is_fruity == "True" %}
+                        <img class="flavor_image_web" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/black/fruity.png title="Fruity">
+                        {% endif %}
+                        {% endfor %}
+                     </td>
+                  </tr>
+                  <tr>
+                     <td style="height: 50px;"/>
+                  </tr>
+                  {% endfor %}
+               </table>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
