@@ -1,3 +1,0 @@
----
-layout: beer-menu-facebook
----
