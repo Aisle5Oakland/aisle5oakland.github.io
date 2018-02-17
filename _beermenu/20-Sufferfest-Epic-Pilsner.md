@@ -1,8 +1,8 @@
 ---
-brewery: "Sufferfest"
+brewery: "Sufferfest Brewing"
 brand: "Epic Pilsner"
 type: "Pilsner"
-location: "Winters, California"
+location: "San Francisco, Ca"
 glass: "pilsner.png"
 brewery_brand: "sufferfest.png"
 alcohol: "5.1%"
