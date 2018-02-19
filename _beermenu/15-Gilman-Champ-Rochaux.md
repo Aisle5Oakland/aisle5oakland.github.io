@@ -1,0 +1,27 @@
+---
+brewery: "Gilman Brewery"
+brand: "Champ Rochaux"
+type: "Sour"
+location: "Berkeley, Ca"
+glass: "pilsner.png"
+brewery_brand: "Gilman-Street-Brewing.png"
+alcohol: "6.0%"
+ibu: "NA"
+tap_order: "101"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: "True"
+ - is_fruity: "True"
+long_desc: "Tart, fruity, cloudy, complex.  Wheat malt and house saison yeast fermented with a half-ton of nectarines. Complex, dry finish."
+---
+
