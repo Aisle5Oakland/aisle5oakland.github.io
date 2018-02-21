@@ -1,0 +1,27 @@
+---
+brewery: "Almanac Brewery"
+location: "Alameda, California"
+brewery_brand: "almanac.png"
+brand: "Ekuanot Flavor Wheel"
+type: "Sour"
+glass: "snifter.png"
+alcohol: "7.1%"
+ibu: "NA"
+tap_order: "101"
+price: "9"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: "True"
+ - is_fruity: "True"
+long_desc: "A new hop on the scene from the Pacific Northwest, this modern aroma hop is bursting with juicy fruit flavors. To amplify its fruity profile we added blueberry, papaya, orange and lime peel, and coriander to the barrel."
+---
+
