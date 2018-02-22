@@ -1,0 +1,26 @@
+---
+brewery: "Oakland United"
+location: "Oakland, Ca"
+brewery_brand: "oakland-united.png"
+brand: "Apple Cran Hefeweizen"
+type: "Hefeweizen"
+glass: "pilsner.png"
+alcohol: "5.2%"
+ibu: "NA"
+tap_order: "103"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: " "
+---
+
