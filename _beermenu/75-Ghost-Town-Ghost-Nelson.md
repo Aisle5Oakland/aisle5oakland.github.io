@@ -2,7 +2,7 @@
 brewery: "Ghost Town"
 location: "Oakland, Ca"
 brewery_brand: "ghost-town-brewing.jpg"
-brand: "Ghost of Nelson"
+brand: "Ghost of Nelson IPA"
 type: "IPA"
 glass: "pint.png"
 alcohol: "7.4%"
