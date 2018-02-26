@@ -11,7 +11,7 @@ tap_order: "118"
 price: "8"
 flavor_profile:
  - is_bitter: " "
- - is_strong: "Strong"
+ - is_strong: "True"
  - is_sweet: " "
  - is_light_crisp: " "
  - is_creamy: " "
