@@ -1,0 +1,26 @@
+---
+brewery: "Oakland United"
+location: "Oakland, Ca"
+brewery_brand: "oakland-united.png"
+brand: "Hefeweizen"
+type: "Hefeweizen"
+glass: "pilsner.png"
+alcohol: "5.5%"
+ibu: "11"
+tap_order: "103"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Known as the breakfast beer of Bavaria, this refreshing summer beer is made with 50% malted wheat, 50% pilsner malt, German noble hops, and with a famous German yeast strain contributing notes of banana and clove."
+---
+
