@@ -1,0 +1,26 @@
+---
+brewery: "Alameda Is Brewing"
+location: "Mill Valley, Ca"
+brewery_brand: "alameda-island.png"
+brand: "Admirals Best ESB"
+type: "ESB"
+glass: "pint.png"
+alcohol: "5.1%"
+ibu: "28"
+tap_order: "104"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Maiden voyage base malt , Caramel 35 malt and fuggles . Biscuity, bready and downright delicious."
+---
+

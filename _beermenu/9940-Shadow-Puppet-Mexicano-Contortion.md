@@ -1,7 +1,7 @@
 ---
 brewery: "Shadow Puppet"
 brand: "Contorsion Mexicano (Nitro)"
-type: "Milk Stout"
+type: "Stout"
 location: "Livermore, Ca"
 glass: "snifter.png"
 brewery_brand: "shadow-puppet.png"
