@@ -12,7 +12,7 @@ price: "8"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
- - is_sweet: " "
+ - is_sweet: "True"
  - is_balanced: " "
  - is_light_crisp: " "
  - is_creamy: "True"
