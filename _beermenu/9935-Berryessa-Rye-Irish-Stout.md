@@ -1,10 +1,10 @@
 ---
 brewery: "Berryessa"
+location: "Winters, Ca"
+brewery_brand: "berryessa.jpg"
 brand: "Rye Irish Stout"
 type: "Stout"
-location: "Winters, Ca"
 glass: "pint.png"
-brewery_brand: "berryessa.jpg"
 alcohol: "5.0%"
 ibu: "NA"
 tap_order: "108"
