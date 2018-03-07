@@ -1,5 +1,5 @@
 ---
-brewery: "Headlands Brewing"
+brewery: "Headlands"
 location: "Mill Valley, Ca"
 brewery_brand: "headlands-brewing-company.png"
 brand: "Pan Toll Porter"
