@@ -26,7 +26,7 @@
 					<img class="brewery_brand_kiosk" class="center-block" src={{site.url}}{{site.baseurl}}/public/beer-images/brewery_brand/{{beer.brewery_brand}}>
 				</div>
 				<div class="col-lg-5">
-					<h1 class="brand-name_kiosk" style="color:{{page.font_color}};">{{ beer.brewery }} {{beer.brand}}</h1>
+					<h1 class="brand-name_kiosk" style="color:{{page.font_color}};">{{beer.brand}}</h1>
 					<p>	{% for profile in beer.flavor_profile %}
 							{% if profile.is_bitter == "True" %}
 								<img class="flavor_image_kiosk" src={{site.url}}{{site.baseurl}}/public/beer-images/flavor_image/white/bitter.png>
