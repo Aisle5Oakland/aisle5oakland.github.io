@@ -5,8 +5,8 @@ brewery_brand: "aisle-5.png"
 brand: "Weekender Pale Ale"
 type: "Pale Ale"
 glass: "pint.png"
-alcohol: "6.3%"
-ibu: "40"
+alcohol: "5.6%"
+ibu: "38"
 tap_order: "116"
 price: "6"
 flavor_profile:
@@ -21,5 +21,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: "This American Pale Ale is balanced and smooth. Warrior hops provide a nice background bitterness that is supported by the simple grain bill of a 2-row, rye and vienna malts."
+long_desc: "A crisp and clean American Pale Ale showcasing Citra and Simcoe hops."
 ---
