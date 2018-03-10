@@ -2,7 +2,7 @@
 brewery: "Aisle 5 Brewing"
 location: "Oakland, Ca"
 brewery_brand: "aisle-5.png"
-brand: "Blonde Ale"
+brand: "Minnie Lee Blonde Ale"
 type: "Blonde"
 glass: "pint.png"
 alcohol: "4.9%"
