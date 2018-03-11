@@ -7,7 +7,7 @@ type: "Sour"
 glass: "snifter.png"
 alcohol: "9.0%"
 ibu: "23"
-tap_order: "116"
+tap_order: "101"
 price: "9"
 flavor_profile:
  - is_bitter: " "
