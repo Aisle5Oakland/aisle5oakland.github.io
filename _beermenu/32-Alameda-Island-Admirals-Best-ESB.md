@@ -21,6 +21,6 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: "Maiden voyage base malt , Caramel 35 malt and fuggles . Biscuity, bready and downright delicious."
+long_desc: "Maiden voyage base malt, Caramel 35 malt and fuggles . Biscuity, bready and downright delicious."
 ---
 
