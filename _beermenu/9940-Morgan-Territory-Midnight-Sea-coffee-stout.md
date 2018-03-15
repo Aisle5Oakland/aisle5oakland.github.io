@@ -2,7 +2,7 @@
 brewery: "Morgan Territory"
 location: "Tracy, California"
 brewery_brand: "morgan-territory.png"
-brand: "Midnight Sea (Nitro)"
+brand: "Midnight Sea Stout (Nitro)"
 type: "Stout"
 glass: "pint.png"
 alcohol: "7.3%"

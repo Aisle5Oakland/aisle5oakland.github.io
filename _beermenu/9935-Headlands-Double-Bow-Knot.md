@@ -2,7 +2,7 @@
 brewery: "Headlands"
 location: "Mill Valley, Ca"
 brewery_brand: "headlands-brewing-company.png"
-brand: "Double Bowknot"
+brand: "Double Bowknot Stout"
 type: "Stout"
 glass: "snifter.png"
 alcohol: "10%"

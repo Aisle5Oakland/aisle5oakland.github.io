@@ -2,7 +2,7 @@
 brewery: "Track 7 Brewing"
 location: "Sacramento, Ca"
 brewery_brand: "track-7.png"
-brand: "Bee Line Blonde"
+brand: "Bee Line Honey Blonde"
 type: "Blonde"
 glass: "pint.png"
 alcohol: "5.3%"
