@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Evening Vespers Belgian Dubbel"
+type: "Belgian"
+glass: "snifter.png"
+alcohol: "7.1%"
+ibu: "15"
+tap_order: "104"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: "True"
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "A classic Belgian style Dubbel with notes of dried fruits and chocolate emanate from the glass."
+---
+
