@@ -1,5 +1,5 @@
 ---
-brewery: "Henhouse Brewing"
+brewery: "Berryessa"
 location: "Winters, Ca"
 brewery_brand: "berryessa.jpg"
 brand: "La Fuerza Mexican Lager"
