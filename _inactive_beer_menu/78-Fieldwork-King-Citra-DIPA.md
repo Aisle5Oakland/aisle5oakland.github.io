@@ -1,10 +1,10 @@
 ---
 brewery: "Fieldwork Brewing"
+location: "Berkeley, Ca"
+brewery_brand: "fieldwork.jpg"
 brand: "King Citra DIPA"
 type: "DIPA"
-location: "Berkeley, Ca"
 glass: "snifter.png"
-brewery_brand: "fieldwork.jpg"
 alcohol: "8.7%"
 ibu: "NA"
 tap_order: "119"
@@ -21,5 +21,5 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
-long_desc: "A thick and full mouthfeel creates an Orange Whip-like profile that sticks to the palate with a refreshingly dessert-esque fervor, slowly giving way to a soft bite of carbonation."
+long_desc: "A thick and full mouthfeel creates an Orange Whip-like profile that sticks to the palate with a refreshingly dessert-esque fervor, slowly giving way to a soft bite of carbonation.s"
 ---

@@ -2,7 +2,7 @@
 brewery: "Fieldwork Brewing"
 location: "Berkeley, Ca"
 brewery_brand: "fieldwork.jpg"
-brand: "Sensee Part IPA"
+brand: "Sensee Party IPA"
 type: "IPA"
 glass: "pint.png"
 alcohol: "7.0%"
