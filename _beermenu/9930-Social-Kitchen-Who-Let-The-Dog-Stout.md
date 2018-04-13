@@ -1,0 +1,23 @@
+---
+brewery: "Social Kitchen"
+location: "SF, Ca"
+brewery_brand: "social-kitchen.png"
+brand: "Who Let The Dogs Stout"
+type: "Stout"
+glass: "snifter.png"
+alcohol: "7.4%"
+ibu: "NA"
+tap_order: "107"
+price: "7"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "A big ol roasty stout with tasting notes of dark chocolate and roasted peanuts."
+---
