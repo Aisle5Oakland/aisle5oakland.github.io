@@ -1,0 +1,23 @@
+---
+brewery: "Eight Bridges"
+location: "Livermore, Ca"
+brewery_brand: "eightbridges.png"
+brand: "Nottingham Brown"
+type: "Brown"
+glass: "pint.png"
+alcohol: "4.5%"
+ibu: "25"
+tap_order: "104"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "This full bodied English Brown ale is malt forward with low hop aromas."
+---
