@@ -2,7 +2,7 @@
 brewery: "Epidemic Ales"
 location: "Concord, Ca"
 brewery_brand: "epidemic-ales.png"
-brand: "Snow Drift Hefe"
+brand: "Summer Snow Drift Hefe"
 type: "Hefe"
 glass: "pilsner.png"
 alcohol: "5.5%"
