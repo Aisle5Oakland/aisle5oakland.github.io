@@ -7,7 +7,7 @@ type: "Hefe"
 glass: "pilsner.png"
 alcohol: "5.5%"
 ibu: "NA"
-tap_order: "113"
+tap_order: "105"
 price: "8"
 flavor_profile:
  - is_bitter: " "
