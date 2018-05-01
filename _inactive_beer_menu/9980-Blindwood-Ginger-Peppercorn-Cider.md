@@ -8,7 +8,7 @@ glass: "snifter.png"
 alcohol: "5.8%"
 ibu: "NA"
 tap_order: "102"
-price: "8"
+price: "7"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
