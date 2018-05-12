@@ -47,5 +47,3 @@ analytics: UA-88006909-1
 author:
   name:           'You Name'
   twitter:        https://twitter.com/yourtwitterhandle
-
-gems:             [jekyll-paginate, jekyll-gist]
