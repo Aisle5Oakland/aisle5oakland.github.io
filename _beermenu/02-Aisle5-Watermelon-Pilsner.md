@@ -20,6 +20,6 @@ flavor_profile:
  - is_light: "True"
  - is_malty: " "
  - is_sour: " "
- - is_fruity: "yes"
+ - is_fruity: "True"
 long_desc: "A German-style Pilsner blended with house-made fresh watermelon juice."
 ---
