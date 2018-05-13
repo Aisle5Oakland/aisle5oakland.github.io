@@ -15,10 +15,11 @@ flavor_profile:
  - is_sweet: " "
  - is_light_crisp: "True"
  - is_creamy: " "
- - is_hoppy: "True"
+ - is_hoppy: " "
  - is_extra_hoppy: " "
  - is_light: "True"
  - is_malty: " "
  - is_sour: " "
+ - is_fruity: "yes"
 long_desc: "A German-style Pilsner blended with house-made fresh watermelon juice."
 ---
