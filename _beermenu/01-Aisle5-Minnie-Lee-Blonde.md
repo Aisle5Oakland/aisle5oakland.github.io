@@ -7,7 +7,7 @@ type: "Blonde"
 glass: "pint.png"
 alcohol: "4.9%"
 ibu: "16"
-tap_order: "112"
+tap_order: "113"
 price: "6"
 flavor_profile:
  - is_bitter: " "

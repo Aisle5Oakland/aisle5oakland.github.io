@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Pluot Belgian Tripel"
+type: "Belgian"
+glass: "snifter.png"
+alcohol: "8.0%"
+ibu: "20"
+tap_order: "108"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: "True"
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Rich gold and slightly orange in color with a frothy pale head, this tripel ale was brewed with pluots, creating a pleasing aroma of stone fruit. A spicy citrus yeast character rounds out this smooth ale with a crisp, dry finish."
+---
+
