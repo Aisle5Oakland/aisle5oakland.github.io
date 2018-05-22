@@ -22,5 +22,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: "True"
-long_desc: " "
+long_desc: "Light, tart and sessionable. Smooth medium body with notes of lemon/orange zest, stonefruit & cracker."
 ---
