@@ -1,11 +1,11 @@
 ---
-brewery: "South City"
-location: "San Bruno, CA"
-brewery_brand: "watermelon-pilsner.png"
-brand: "Dry Me a River w/Watermelon"
+brewery: "Golden State"
+location: "Sebastopol, CA"
+brewery_brand: "Golden-State-Cider.png"
+brand: "Mighty Hops w/Watermelon"
 type: "Cider"
 glass: "snifter.png"
-alcohol: "6.9%"
+alcohol: "6.5%"
 ibu: "NA"
 tap_order: "None"
 price: "8"
@@ -22,5 +22,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: "True"
-long_desc: "South City Dry Me a River cider blended with house-made fresh watermelon juice."
+long_desc: "Golden State Mighty Hops cider blended with house-made fresh watermelon juice."
 ---

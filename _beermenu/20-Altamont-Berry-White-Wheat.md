@@ -2,7 +2,7 @@
 brewery: "Altamont"
 location: "Livermore, Ca"
 brewery_brand: "altamont-beer-works.jpg"
-brand: "Berry White Wheat"
+brand: "Raspberry Wheat"
 type: "Wheat"
 glass: "pilsner.png"
 alcohol: "4.7%"

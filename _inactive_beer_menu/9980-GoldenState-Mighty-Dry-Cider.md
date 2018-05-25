@@ -1,11 +1,11 @@
 ---
 brand: "Sonoma Might Dry Cider"
 type: "Cider"
-location: "Healdsburg, CA"
+location: "Sebastopol, CA"
 glass: "snifter.png"
 beer_color: "pale-ale.png"
-brewery_brand: "sonoma-cider.jpg"
-alcohol: "6.0%"
+brewery_brand: "Golden-State-Cider.jpg"
+alcohol: "6.5%"
 ibu: "NA"
 tap_order: "118"
 flavor_profile:
@@ -20,7 +20,5 @@ flavor_profile:
  - is_light: " "
  - is_malty: " "
  - is_sour: " "
-long_desc: "The Hatchet is a blend of sweet and tart apple varietals to yield a refreshing cider with noticeable complexity and a crisp, clean finish."
+long_desc: "Mighty Hops Cider is a juicy West Coast dry-hopped cider. Its hop flower aromas coat the crisp apple flavor into a juicy, structured finish. "
 ---
-
-This is a description for Sonoma Hatchet Apple Cider
