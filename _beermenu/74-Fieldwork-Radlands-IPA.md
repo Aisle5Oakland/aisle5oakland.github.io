@@ -2,7 +2,7 @@
 brewery: "Fieldwork Brewing"
 location: "Berkeley, Ca"
 brewery_brand: "fieldwork.jpg"
-brand: "Radlines IPA"
+brand: "Radlands IPA"
 type: "IPA"
 glass: "pint.png"
 alcohol: "6.8%"
