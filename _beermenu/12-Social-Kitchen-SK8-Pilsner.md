@@ -1,0 +1,26 @@
+---
+brewery: "Social Kitchen"
+location: "SF, Ca"
+brewery_brand: "social-kitchen.png"
+brand: "SK8 Pilsner"
+type: "Pilsner"
+glass: "pilsner.png"
+alcohol: "5.0%"
+ibu: "NA"
+tap_order: "114"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "A German-styled pilsner with hersbruker hops."
+---
+
