@@ -21,5 +21,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: "An all malt backbone that lends a touch of sweetness to an assertive hop profile."
+long_desc: "An all malt backbone that lends a touch of sweetness to an assertive hop profile. "
 ---
