@@ -1,9 +1,8 @@
 ---
-brewery: "Golden State"
-location: "Sebastopol, CA"
-brewery_brand: "Golden-State-Cider.png"
+brewery: "South City"
+location: "San Bruno, CA"
+brewery_brand: "south-city-cider.png"
 brand: "South City w/Watermelon"
-
 type: "Cider"
 glass: "snifter.png"
 alcohol: "6.5%"
