@@ -8,7 +8,7 @@ glass: "snifter.png"
 alcohol: "6.5%"
 ibu: "NA"
 tap_order: "None"
-price: "8"
+price: "7"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
@@ -22,5 +22,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: "True"
-long_desc: "Golden State Mighty Hops cider blended with house-made fresh watermelon juice."
+long_desc: "South City Original cider blended with house-made fresh watermelon juice."
 ---
