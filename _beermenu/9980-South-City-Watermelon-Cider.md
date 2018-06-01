@@ -3,6 +3,7 @@ brewery: "Golden State"
 location: "Sebastopol, CA"
 brewery_brand: "Golden-State-Cider.png"
 brand: "South City w/Watermelon"
+
 type: "Cider"
 glass: "snifter.png"
 alcohol: "6.5%"
