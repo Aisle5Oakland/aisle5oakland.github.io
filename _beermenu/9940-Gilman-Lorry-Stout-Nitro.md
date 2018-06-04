@@ -2,7 +2,7 @@
 brewery: "Gilman Brewing"
 location: "Berkeley, Ca"
 brewery_brand: "Gilman-Street-Brewing.png"
-brand: "Lorry Stout"
+brand: "Lorry Stout (Nitro)"
 type: "Stout"
 glass: "snifter.png"
 alcohol: "6.5%"
