@@ -1,11 +1,11 @@
 ---
 brewery: "South City"
 location: "San Bruno, CA"
-brewery_brand: "south-city-cider.png"
+brewery_brand: "watermelon-pilsner.png"
 brand: "South City w/Watermelon"
 type: "Cider"
 glass: "snifter.png"
-alcohol: "6.5%"
+alcohol: "5.5%"
 ibu: "NA"
 tap_order: "None"
 price: "7"
