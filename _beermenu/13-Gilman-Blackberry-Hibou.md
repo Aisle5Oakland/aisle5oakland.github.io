@@ -1,0 +1,25 @@
+---
+brewery: "Gilman Brewing"
+location: "Berkeley, Ca"
+brewery_brand: "Gilman-Street-Brewing.png"
+brand: "Blackberry Belgian Witbier"
+type: "Witbier"
+glass: "snifter.png"
+alcohol: "5.0%"
+ibu: "NA"
+tap_order: "114"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "A light bodied wit-style beer. A generous addition of real blackberries results in a beautiful, light blackberry aroma and robust purple color."
+---
+

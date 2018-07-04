@@ -1,0 +1,26 @@
+---
+brewery: "Altamont"
+location: "Livermore, Ca"
+brewery_brand: "altamont-beer-works.jpg"
+brand: "Bianco Belgian Witbier"
+type: "Witbier"
+glass: "pint.png"
+alcohol: "4.5%"
+ibu: "12"
+tap_order: "107"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "An unfiltered wheat beer, light in body and full of flavor. This refreshing wheat beer boasts big flavors and aromas of sweet orange peel, backed with the spiciness of coriander seed."
+---
+
