@@ -1,9 +1,10 @@
 ---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
 brand: "Laughing Monk Mango Gose"
 type: "Sour Gose"
-location: "San Francisco, California"
 glass: "snifter.png"
-brewery_brand: "laughing-monk.png"
 alcohol: "4.8%"
 ibu: "7"
 tap_order: "112"
