@@ -1,14 +1,14 @@
 ---
 brewery: "Shadow Puppet"
-brand: "Smoke & Coffee"
+brand: "Smoke & Coffee Break (Nitro)"
 type: "Imperial Stout"
 location: "Livermore, Ca"
 glass: "snifter.png"
 brewery_brand: "shadow-puppet.png"
 alcohol: "8.1%"
 ibu: "NA"
-tap_order: "107"
-price: "8"
+tap_order: "109"
+price: "6"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
@@ -19,5 +19,5 @@ flavor_profile:
  - is_light: " "
  - is_malty: "True"
  - is_sour: " "
-long_desc: " "
+long_desc: "A roasty, smokey, chocolate-tinged imperial porter brewed with in-house oak-smoked malts and freshly-made cold-brew coffee."
 ---
