@@ -2,7 +2,7 @@
 brewery: "Ol Republic"
 location: "Nevada City, California"
 brewery_brand: "ol-republic.png"
-brand: "Ol Republic Dead Canary"
+brand: "Dead Canary Lager"
 type: "Lager"
 glass: "pint.png"
 alcohol: "4.8%"
