@@ -7,7 +7,7 @@ type: "DIPA"
 glass: "snifter.png"
 alcohol: "8.7%"
 ibu: "NA"
-tap_order: "105"
+tap_order: "102"
 price: "9"
 flavor_profile:
  - is_bitter: "True"
