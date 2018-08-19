@@ -17,8 +17,9 @@ flavor_profile:
  - is_creamy: " "
  - is_hoppy: "True"
  - is_extra_hoppy: " "
- - is_light: "True"
+ - is_light: " "
  - is_malty: " "
  - is_sour: " "
+ - is_fruity: "True" 
 long_desc: "A hazy pale ale hopped with Simcoe, Amarillo, Mosaic"
 ---
