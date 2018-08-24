@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Strawberry Rhubarb Pulpit"
+type: "Belgian"
+glass: "snifter.png"
+alcohol: "6.0%"
+ibu: "15"
+tap_order: "107"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "Golden, with a light haze, this ale has a very fragrant aroma of ripe strawberry and Belgian esters. Smooth and fruity, there is a light tartness from the presence of rhubarb. A great and balanced blonde, with a deceptively dry finish."
+---
+

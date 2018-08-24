@@ -1,13 +1,13 @@
 ---
 brewery: "Gilman Brewery"
-brand: "Champ Rochaux"
+brand: "Champ Rochaux Saison"
 type: "Sour"
 location: "Berkeley, Ca"
 glass: "pilsner.png"
 brewery_brand: "Gilman-Street-Brewing.png"
 alcohol: "6.0%"
 ibu: "NA"
-tap_order: "101"
+tap_order: "112"
 price: "8"
 flavor_profile:
  - is_bitter: " "
