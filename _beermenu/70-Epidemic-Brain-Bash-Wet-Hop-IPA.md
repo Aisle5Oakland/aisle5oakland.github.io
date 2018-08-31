@@ -2,7 +2,7 @@
 brewery: "Epidemic Ales"
 location: "Concord, Ca"
 brewery_brand: "epidemic-ales.png"
-brand: "Brain Bash Wet Hop IPA"
+brand: "Epidemic Wet Hop IPA"
 type: "IPA"
 glass: "pint.png"
 alcohol: "7.0%"
