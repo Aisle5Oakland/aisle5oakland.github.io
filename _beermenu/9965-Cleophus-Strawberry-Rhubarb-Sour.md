@@ -1,0 +1,26 @@
+---
+brewery: "Cleophus Quealy"
+location: "San Leandro, Ca"
+brewery_brand: "cleophus.png"
+brand: "Strawberry Rhubarb Sour"
+type: "Sour"
+glass: "snifter.png"
+alcohol: "7.3%"
+ibu: "20"
+tap_order: "105"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: "True"
+ - is_fruity: "True"
+long_desc: "Soured in oak barrels with strawberries, rhubarb, lemon peels, dry hopped.
+Tasting Notes: Sour, strawberry, rhubarb, lemon."
+---
