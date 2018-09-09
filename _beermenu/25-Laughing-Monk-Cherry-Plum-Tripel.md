@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Cherry Plum Tripel"
+type: "Belgian"
+glass: "snifter.png"
+alcohol: "8.7%"
+ibu: "20"
+tap_order: "107"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "Hazy and golden, this Belgian-style tripel has aromas of fruit and esters matched with the subtle presence of both tart cherry and plum."
+---
+
