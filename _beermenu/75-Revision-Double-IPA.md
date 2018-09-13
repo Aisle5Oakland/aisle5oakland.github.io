@@ -21,5 +21,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: "Loads of late-hopping creates massive flavor. Simcoe and Mosaic hops battle for domination on the palate"
+long_desc: "Loads of late-hopping creates massive flavor. Simcoe and Mosaic hops battle for domination on the palate "
 ---
