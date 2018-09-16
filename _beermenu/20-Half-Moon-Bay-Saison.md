@@ -1,0 +1,27 @@
+---
+brewery: "Half Moon Bay"
+brand: "Saison"
+type: "Saison"
+location: "Half Moon Bay, Ca"
+glass: "pilsner.png"
+brewery_brand: "half-moon-bay.jpg"
+alcohol: "6.3%"
+ibu: "NA"
+tap_order: "112"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "A special yeast strain gives our Saison a nice background of fruit and spice. Pilsen malt lends a soft dry mouthfeel with notes of bread crust and honey."
+---
+
