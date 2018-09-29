@@ -1,11 +1,11 @@
 ---
 brewery: "Fieldwork Brewing"
-brand: "Champ Pain Brut IPA"
+brand: "Juicy Mane IPA"
 type: "IPA"
 location: "Berkeley, Ca"
 glass: "pint.png"
 brewery_brand: "fieldwork.jpg"
-alcohol: "7.0%"
+alcohol: "6.6%"
 ibu: "NA"
 tap_order: "117"
 price: "8"
@@ -22,5 +22,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " " 
-long_desc: "A refreshing take on IPA, the Brut version exudes qualities of the classic Westcoast IPA without any of the bitterness, and dried out with a Champagne-like finish."
+long_desc: "Full-bodied IPA with low bitterness and tropical hop aromas of papaya, white wine grape, and gooseberries"
 ---
