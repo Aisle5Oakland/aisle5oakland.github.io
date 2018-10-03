@@ -1,0 +1,26 @@
+---
+brewery: "Barebottle"
+location: "SF, Ca"
+brewery_brand: "bare-bottle.png"
+brand: "Mango Shakes IPA"
+type: "IPA"
+glass: "pint.png"
+alcohol: "6.5%"
+ibu: "NA"
+tap_order: "107"
+price: "9"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "Mango shakes is a beautiful hazy IPA blended with over 22 gallons of fresh mango juice. Wonderful tropical stonefruit character with a full mouthfeel and light finish."
+---
+
