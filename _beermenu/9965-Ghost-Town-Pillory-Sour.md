@@ -21,5 +21,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: "True"
  - is_fruity: "True"
-long_desc: "Features Lactobacillus brevis, nectarines, peaches with tasting notes of nectarine, peach, funk, tart finish"
+long_desc: "Features Lactobacillus brevis, grapefruit, tangerine, and lemon zest with a funk, tart finish"
 ---
