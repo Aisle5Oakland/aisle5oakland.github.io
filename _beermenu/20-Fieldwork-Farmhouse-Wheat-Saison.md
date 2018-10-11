@@ -1,0 +1,27 @@
+---
+brewery: "Fieldwork Brewing"
+location: "Berkeley, Ca"
+brewery_brand: "fieldwork.jpg"
+brand: "Farmhouse Wheat Saison"
+type: "Saison"
+glass: "pilsner.png"
+alcohol: "5.0%"
+ibu: "NA"
+tap_order: "112"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "This wheat-heavy Saison has huge amounts of malted and flaked wheat that provides a nice grainy character that marries incredibly well with bold citrus and hay-like esters derived from the Western European yeast; resulting in a very sessionable yet complex Farmhouse Ale"
+---
+

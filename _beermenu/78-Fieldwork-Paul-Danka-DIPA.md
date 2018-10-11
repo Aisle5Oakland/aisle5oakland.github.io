@@ -1,10 +1,10 @@
 ---
 brewery: "Fieldwork Brewing"
+location: "Berkeley, Ca"
+brewery_brand: "fieldwork.jpg"
 brand: "Paul Danka DIPA"
 type: "DIPA"
-location: "Berkeley, Ca"
 glass: "snifter.png"
-brewery_brand: "fieldwork.jpg"
 alcohol: "8.3%"
 ibu: "NA"
 tap_order: "119"
