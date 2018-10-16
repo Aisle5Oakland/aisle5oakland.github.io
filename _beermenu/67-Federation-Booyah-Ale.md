@@ -2,7 +2,7 @@
 brewery: "Federation"
 location: "Oakland, Ca"
 brewery_brand: "federation.png"
-brand: "Butternut Boohyah"
+brand: "Butternut Booyah"
 type: "Ale"
 glass: "snifter.png"
 alcohol: "6.3%"
