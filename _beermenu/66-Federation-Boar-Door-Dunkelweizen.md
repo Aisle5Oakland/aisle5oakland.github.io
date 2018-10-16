@@ -1,6 +1,6 @@
 ---
 brewery: "Federation"
-location: "SF, Ca"
+location: "Oakland, Ca"
 brewery_brand: "federation.png"
 brand: "Boar Door Dunkelweizen"
 type: "Dunkelweizen"
