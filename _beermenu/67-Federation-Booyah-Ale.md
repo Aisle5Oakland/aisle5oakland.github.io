@@ -21,5 +21,5 @@ flavor_profile:
  - is_light: " "
  - is_malty: "True"
  - is_sour: " "
-long_desc: "A fall seasonal butternut squash beer with sage and cardamom full of harvest season flavors. Brewed with Admiral Malts "
+long_desc: "A fall seasonal butternut squash beer with sage and cardamom full of harvest season flavors. Brewed with Admiral Malts"
 ---

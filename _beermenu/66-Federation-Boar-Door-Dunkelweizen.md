@@ -21,5 +21,5 @@ flavor_profile:
  - is_malty: "True"
  - is_sour: " "
  - is_fruity: " "
-long_desc: "A traditionally hazy, dark wheat beer featuring Admiral Malts from Alameda this beer is dark brown with soft, bready body and a mild banana and clove aroma"
+long_desc: "A traditionally hazy, dark wheat beer featuring Admiral Malts from Alameda this beer is dark brown with soft, bready body and a mild banana and clove aroma "
 ---
