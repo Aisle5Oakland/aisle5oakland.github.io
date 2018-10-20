@@ -1,12 +1,14 @@
 ---
-brand: "Fieldwork Pulp IPA"
-type: "IPA"
-location: "Berkeley, California"
-glass: "pint.png"
+brewery: "Fieldwork Brewing"
+location: "Berkeley, Ca"
 brewery_brand: "fieldwork.jpg"
+brand: "Pulp IPA"
+type: "IPA"
+glass: "pint.png"
 alcohol: "6.9%"
 ibu: "NA"
-tap_order: "113"
+tap_order: "117"
+price: "8"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: "True"
@@ -18,5 +20,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: "Using an isolated yeast strain from Vermont, this IPA obtains complimentary yeast esters of over-ripe peaches falling from the tree that pair perfectly with its hops."
+long_desc: "The abundance of Citra hops create an aromatic bombardment that smells like a Sunday drive through a citrus orchard in the peak of the season; with notes of fresh orange, yellow grapefruit, and juicy sweet mango trekking from the first sniff to the last sip."
 ---
