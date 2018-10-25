@@ -1,7 +1,7 @@
 ---
 brand: "Ghost Town Pillory Sour"
 type: "IPA"
-location: "Oakland, California"
+location: "Oakland, Ca"
 brewery_brand: "ghost-town-brewing.jpg"
 type: "Sour"
 glass: "snifter.png"
