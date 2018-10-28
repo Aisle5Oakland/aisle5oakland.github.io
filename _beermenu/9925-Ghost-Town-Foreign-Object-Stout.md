@@ -2,7 +2,7 @@
 brewery: "Ghost Town"
 location: "Oakland, Ca"
 brewery_brand: "ghost-town-brewing.jpg"
-brand: "Ghost Town Foreign Object"
+brand: "Foreign Object Stout"
 type: "Stout"
 glass: "pint.png"
 alcohol: "7.0%"

@@ -1,0 +1,26 @@
+---
+brewery: "Barebottle"
+location: "SF, Ca"
+brewery_brand: "bare-bottle.png"
+brand: "Infinity Scarf Hazy Pale"
+type: "Pale Ale"
+glass: "pint.png"
+alcohol: "5.6%"
+ibu: "NA"
+tap_order: "107"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "It's Fall. Get out your decorative gourds and riding boots, then add an Infinity Scarf to complete the set and make even Martha Steward jealous AF. An endless loop of berry, melon, and citrus flavors brought to you by Ekuanot, Azacca, and Pacific Jade hops."
+---
+

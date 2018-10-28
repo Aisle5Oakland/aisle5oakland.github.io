@@ -2,7 +2,7 @@
 brewery: "Ghost Town"
 location: "Oakland, Ca"
 brewery_brand: "ghost-town-brewing.jpg"
-brand: "Ghost Town Helles Awaits"
+brand: "Helles Awaits Lager"
 type: "Lager"
 glass: "pint.png"
 alcohol: "4.9%"

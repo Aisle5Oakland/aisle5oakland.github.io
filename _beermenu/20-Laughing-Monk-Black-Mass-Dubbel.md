@@ -1,0 +1,27 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Blackberry Belgian"
+type: "Dubbel"
+glass: "snifter.png"
+alcohol: "8.3%"
+ibu: "30"
+tap_order: "112"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Dark amber in color, this ale is ripe with blackberries and black currest. Sweet esters from Belgian yeast on the nose meet slight acidity from the addition of fruit."
+---
+
