@@ -7,7 +7,7 @@ type: "Dunkelweizen"
 glass: "pilsner.png"
 alcohol: "4.9%"
 ibu: "NA"
-tap_order: "105"
+tap_order: "104"
 price: "8"
 flavor_profile:
  - is_bitter: " "
