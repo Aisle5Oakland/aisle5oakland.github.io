@@ -1,0 +1,27 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Unholy Ghost Black Lager"
+type: "Black Lager"
+glass: "pint.png"
+alcohol: "5.0%"
+ibu: "20"
+tap_order: "102"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: "True"
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "A nod to the traditional Schwarzbier, a semi-sweetness from roasted malt blends with the smooth and easy lager. Slight notes of chocolate and coffee with a clean finish."
+---
+
