@@ -7,7 +7,7 @@ type: "Ale"
 glass: "snifter.png"
 alcohol: "6.3%"
 ibu: "NA"
-tap_order: "106"
+tap_order: "118"
 price: "6"
 flavor_profile:
  - is_bitter: " "
