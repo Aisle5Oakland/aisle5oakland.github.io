@@ -1,0 +1,27 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Boxing Nun Saison"
+type: "Saison"
+glass: "pilsner.png"
+alcohol: "7.0%"
+ibu: "20"
+tap_order: "106"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_balanced: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "A dry hopped Saison with Belgian yeast. Has balanced notes of citrus and spice. Finishes nice a dry."
+---
+
