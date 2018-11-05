@@ -7,7 +7,7 @@ type: "Lager"
 glass: "pint.png"
 alcohol: "4.9%"
 ibu: "18"
-tap_order: "105"
+tap_order: "103"
 price: "7"
 flavor_profile:
  - is_bitter: " "
