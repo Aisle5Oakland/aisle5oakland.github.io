@@ -7,7 +7,7 @@ type: "Belgian"
 glass: "snifter.png"
 alcohol: "6.3%"
 ibu: "50"
-tap_order: "106"
+tap_order: "102"
 price: "7"
 flavor_profile:
  - is_bitter: "True"
