@@ -1,0 +1,23 @@
+---
+brewery: "Epidemic Brewing"
+location: "Concord, Ca"
+brewery_brand: "epidemic-ales.png"
+brand: "Bad JuJu Wheat"
+type: "Wheat"
+glass: "pilsner.png"
+alcohol: "5.0%"
+ibu: "NA"
+tap_order: "108"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Medium-light white wheat body brewed with lemon peel, Cascade, El Dorado, and Mandarina hops. Unfiltered and effervescent."
+---
