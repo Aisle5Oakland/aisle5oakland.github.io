@@ -7,7 +7,7 @@ type: "Belgian"
 glass: "pint.png"
 alcohol: "7.0%"
 ibu: "NA"
-tap_order: "108"
+tap_order: "120"
 price: "8"
 flavor_profile:
  - is_bitter: " "
