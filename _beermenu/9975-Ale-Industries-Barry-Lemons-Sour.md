@@ -1,0 +1,27 @@
+---
+brewery: "Ale Industries"
+location: "Oakland, Ca"
+brewery_brand: "ale-industries.png"
+brand: "Barry Lemons Sour"
+type: "Sour"
+glass: "snifter.png"
+alcohol: "5.6%"
+ibu: "NA"
+tap_order: "101"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_balanced: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: ""
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: "True"
+ - is_fruity: "True"
+long_desc: " "
+---
+
