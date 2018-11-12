@@ -7,7 +7,7 @@ type: "Gose"
 glass: "snifter.png"
 alcohol: "5.2%"
 ibu: "3"
-tap_order: "114"
+tap_order: "112"
 price: "9"
 flavor_profile:
  - is_bitter: " "
