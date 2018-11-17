@@ -7,7 +7,7 @@ type: "IPA"
 glass: "pint.png"
 alcohol: "6.6%"
 ibu: "NA"
-tap_order: "117"
+tap_order: "114"
 price: "8"
 flavor_profile:
  - is_bitter: "True"
@@ -22,5 +22,6 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: "Dubs are back in action, and our Galena-Simcoe-Warrior hazy IPA pairs perfectly with smothering defense and unrelenting 3-pointers. As you’d expect, this beer has the aroma of a champion (fruity & floral), smoothness of a veteran, and a perennial winner’s absence of bitterness."
+long_desc: "Dubs are back in action, and our Galena-Simcoe-Warrior hazy IPA pairs perfectly with smothering defense and unrelenting 3-pointers. As you’d expect, this beer has the aroma of a champion (fruity & floral), smoothness of a veteran, and a perennial winner’s absence of bitterness. "
+
 ---
