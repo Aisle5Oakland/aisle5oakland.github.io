@@ -7,7 +7,7 @@ type: "Stout"
 glass: "snifter.png"
 alcohol: "8.5%"
 ibu: "53"
-tap_order: "107"
+tap_order: "114"
 price: "7"
 flavor_profile:
  - is_bitter: "True"
