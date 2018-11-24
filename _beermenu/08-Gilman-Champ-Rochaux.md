@@ -1,7 +1,7 @@
 ---
-brewery: "Gilman Brewery"
-brand: "Champ Rochaux Saison"
-type: "Sour"
+brewery: "Gilman"
+brand: "Nectarine Saison"
+type: "Saison"
 location: "Berkeley, Ca"
 glass: "pilsner.png"
 brewery_brand: "Gilman-Street-Brewing.png"
@@ -14,14 +14,14 @@ flavor_profile:
  - is_strong: " "
  - is_sweet: "True"
  - is_balanced: " "
- - is_light_crisp: " "
+ - is_light_crisp: "True"
  - is_creamy: " "
  - is_hoppy: " "
  - is_extra_hoppy: ""
  - is_light: " "
  - is_malty: " "
- - is_sour: "True"
+ - is_sour: " "
  - is_fruity: "True"
-long_desc: "Tart, fruity, cloudy, complex.  Wheat malt and house saison yeast fermented with a half-ton of nectarines. Complex, dry finish."
+long_desc: "Wheat malt and house saison yeast fermented with a half-ton of nectarines. Complex, dry finish."
 ---
 
