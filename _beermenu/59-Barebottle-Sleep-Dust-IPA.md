@@ -1,0 +1,26 @@
+---
+brewery: "Barebottle"
+location: "SF, Ca"
+brewery_brand: "bare-bottle.png"
+brand: "Sleep Dust IPA"
+type: "IPA"
+glass: "pint.png"
+alcohol: "6.5%"
+ibu: "NA"
+tap_order: "117"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "Infused with Citra, El Dorado, Simcoe, and a healthy dry hop of Mosaic, Sleep Dust is like smooth wave carrying you gently towards the shore."
+---
+
