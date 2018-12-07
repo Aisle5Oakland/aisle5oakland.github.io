@@ -1,0 +1,23 @@
+---
+brewery: "Epidemic Brewing"
+location: "Concord, Ca"
+brewery_brand: "epidemic-ales.png"
+brand: "Red Plague Lager"
+type: "Red Lager"
+glass: "pint.png"
+alcohol: "5.0%"
+ibu: "NA"
+tap_order: "107"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "An infectious copper-hued lager that sweeps across the palate with an array of toasted malt character, including roasted barley, Vienna, and Crystal malts, ending on a slightly dry finish."
+---
