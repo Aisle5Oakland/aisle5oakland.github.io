@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Winter Bough Quad"
+type: "Belgian"
+glass: "tulip.png"
+alcohol: "9.0%"
+ibu: "30"
+tap_order: "116"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: "True"
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: ""
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Winter Bough is rich in amber color with immediate dark fruit  and aromatic notes from Belgian esters."
+---
+

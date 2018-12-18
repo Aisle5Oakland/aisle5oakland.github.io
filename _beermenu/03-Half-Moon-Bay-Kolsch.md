@@ -2,7 +2,7 @@
 brewery: "Half Moon Bay"
 location: "Half Moon Bay, Ca"
 brewery_brand: "half-moon-bay.jpg"
-brand: "Kolsch"
+brand: "HMB Kolsch"
 type: "Kolsch"
 glass: "pint.png"
 alcohol: "5.0%"
