@@ -21,6 +21,6 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: " "
+long_desc: "Hazy and pale straw in color, Merry will ring in the holidays with the hop duo of Citra and Mosaic. Grapefruit and orange on the nose, Merry has a juicy and slight lingering finish."
 ---
 
