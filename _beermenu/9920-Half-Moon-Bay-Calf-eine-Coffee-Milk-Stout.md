@@ -7,7 +7,7 @@ type: "Milk Stout"
 glass: "pint.png"
 alcohol: "7.1%"
 ibu: "20"
-tap_order: "115"
+tap_order: "111"
 price: "7"
 flavor_profile:
  - is_bitter: " "
