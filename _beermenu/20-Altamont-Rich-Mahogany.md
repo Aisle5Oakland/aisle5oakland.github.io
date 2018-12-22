@@ -7,7 +7,7 @@ type: "Red Ale"
 glass: "pint.png"
 alcohol: "6.5%"
 ibu: "50"
-tap_order: "115"
+tap_order: "120"
 price: "7"
 flavor_profile:
  - is_bitter: " "
