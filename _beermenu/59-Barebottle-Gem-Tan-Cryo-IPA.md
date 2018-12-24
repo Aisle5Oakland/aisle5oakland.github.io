@@ -2,7 +2,7 @@
 brewery: "Barebottle"
 location: "SF, Ca"
 brewery_brand: "bare-bottle.png"
-brand: "Hammer West Coast IPA"
+brand: "Gem+Tan+Cryo IPA"
 type: "IPA"
 glass: "pint.png"
 alcohol: "6.6%"
@@ -21,6 +21,6 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: " "
-long_desc: " "
+long_desc: "Our daily routine starts with flexing Idaho Gem hops (aromas of pineapple & cherry), a perfectly tanned body (from Wheat & Red X malts), and then heavy supplements of Mosaic Cryo hop powder to bulk up on citrus and berry aromas."
 ---
 
