@@ -1,0 +1,23 @@
+---
+brewery: "Epidemic Brewing"
+location: "Concord, Ca"
+brewery_brand: "epidemic-ales.png"
+brand: "Affliction Amber Ale"
+type: "Amber Ale"
+glass: "pint.png"
+alcohol: "5.5%"
+ibu: "NA"
+tap_order: "107"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+long_desc: "Crisp and bright with a mild floral bitterness from Pacific Northwestern hops. A blend of specialty malts impart added complexity and a distinctive amber hue."
+---
