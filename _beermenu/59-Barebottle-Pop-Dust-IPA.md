@@ -1,0 +1,26 @@
+---
+brewery: "Barebottle"
+location: "SF, Ca"
+brewery_brand: "bare-bottle.png"
+brand: "Pop Dust IPA"
+type: "IPA"
+glass: "pint.png"
+alcohol: "6.6%"
+ibu: "NA"
+tap_order: "117"
+price: "8"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Discovered at the tender plato of 14.8 on YouTube, Pop Dust is the rising star of our Dust Series. Glitzy notes of ruby red grapefruit, floral Chinook hops, and ripe peach."
+---
+
