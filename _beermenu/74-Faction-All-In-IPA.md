@@ -2,7 +2,7 @@
 brewery: "Faction Brewing"
 location: "Alameda, Ca"
 brewery_brand: "faction.png"
-brand: "All in One IPA"
+brand: "All In IPA"
 type: "IPA"
 glass: "pint.png"
 alcohol: "6.5%"
