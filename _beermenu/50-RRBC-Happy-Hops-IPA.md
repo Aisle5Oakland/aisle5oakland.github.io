@@ -1,0 +1,26 @@
+---
+brewery: "Russian River Brew Co."
+location: "Santa Rosa, Ca"
+brewery_brand: "russian-river.png"
+brand: "Happy Hops IPA"
+type: "IPA"
+glass: "pint.png"
+alcohol: "6.5%"
+ibu: "NA"
+tap_order: "108"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Happy Hops is an incredibly hoppy India Pale Ale with an immense hop aroma and flavor and a mild bitterness."
+---
+
