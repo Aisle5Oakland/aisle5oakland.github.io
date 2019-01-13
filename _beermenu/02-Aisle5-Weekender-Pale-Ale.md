@@ -7,7 +7,7 @@ type: "Pale Ale"
 glass: "pint.png"
 alcohol: "5.6%"
 ibu: "38"
-tap_order: "116"
+tap_order: "119"
 price: "6"
 flavor_profile:
  - is_bitter: "True"
