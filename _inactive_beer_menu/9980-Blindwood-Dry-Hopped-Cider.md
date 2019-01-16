@@ -2,12 +2,12 @@
 brewery: "Blindwood Cider"
 location: "Oakland, CA"
 brewery_brand: "blindwood.png"
-brand: "Dry-Hopped Cider"
+brand: "Dry Hopped Cider"
 type: "Cider"
 glass: "snifter.png"
 alcohol: "5.8%"
 ibu: "NA"
-tap_order: "102"
+tap_order: "115"
 price: "8"
 flavor_profile:
  - is_bitter: " "
@@ -22,5 +22,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: "True"
-long_desc: "A sizeable dry hop gives our cider plenty of floral and dank aromatics with notes of citrus and orange. The juicy qualities of the hops help to compliment the inherent fruity flavors in the cider."
+long_desc: "We use bold amount of classic west coast style hops to dry hop this cider. This sizeable dry hop gives our cider plenty of floral and dank aromatics with notes of citrus and orange. The juicy qualities of the hops help to compliment the inherent fruity flavors in the cider. This cider will be well enjoyed by any hop head or the seasoned cider drinker."
 ---

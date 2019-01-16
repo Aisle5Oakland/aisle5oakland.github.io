@@ -1,0 +1,26 @@
+---
+brewery: "Russian River Brew Co."
+location: "Santa Rosa, Ca"
+brewery_brand: "russian-river.png"
+brand: "Imperial Porter"
+type: "Porter"
+glass: "tulip.png"
+alcohol: "9.9%"
+ibu: "NA"
+tap_order: "115"
+price: "8"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Named after the great Hitchcock movie filmed in Santa Rosa in 1943. This Imperial Porter packs a rich chocolate and light smoked malt character with a very soft, dry finish."
+---
+
