@@ -2,7 +2,7 @@
 brewery: "Barebottle"
 location: "SF, Ca"
 brewery_brand: "bare-bottle.png"
-brand: "Strong Claude"
+brand: "Belgian Strong Ale"
 type: "Belgian"
 glass: "tulip.png"
 alcohol: "9.4%"
