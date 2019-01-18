@@ -7,7 +7,7 @@ type: "Porter"
 glass: "tulip.png"
 alcohol: "9.9%"
 ibu: "NA"
-tap_order: "115"
+tap_order: "105"
 price: "8"
 flavor_profile:
  - is_bitter: "True"
