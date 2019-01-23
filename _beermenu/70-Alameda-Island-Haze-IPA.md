@@ -8,7 +8,7 @@ glass: "pint.png"
 alcohol: "6.1%"
 ibu: "NA"
 tap_order: "114"
-price: "7"
+price: "8"
 flavor_profile:
  - is_bitter: "True"
  - is_strong: " "
