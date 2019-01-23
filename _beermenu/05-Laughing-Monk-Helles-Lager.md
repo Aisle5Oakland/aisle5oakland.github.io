@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Meet you in Helles Lager"
+type: "Belgian"
+glass: "pint.png"
+alcohol: "5%"
+ibu: "40"
+tap_order: "104"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Straw in color with light spice and sweet malt aromas. Slight bready flavor notes and the presence of esters round out this crisp and easy-drinking lager."
+---
+

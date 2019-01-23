@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Third Circle Belgian Tripel"
+type: "Belgian"
+glass: "snifter.png"
+alcohol: "8.7%"
+ibu: "28"
+tap_order: "116"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Bright gold with a rich and full white head. Aromas of cumin and coriander with a slight toasted bread character."
+---
+

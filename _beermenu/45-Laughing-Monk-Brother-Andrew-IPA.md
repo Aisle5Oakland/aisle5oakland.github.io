@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Brother Andrew IPA"
+type: "IPA"
+glass: "pint.png"
+alcohol: "7.1%"
+ibu: "NA"
+tap_order: "115"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "Brother Andrew is a fresh and juicy Hazy IPA brewed with Strata and Mosaic hops. This well-balanced IPA has layers of tropical fruit notes including mango, passion fruit, melon and a bit of citrus."
+---
+
