@@ -1,6 +1,6 @@
 ---
 brewery: "Alameda Is Brewing"
-location: "Mill Valley, Ca"
+location: "Alameda, Ca"
 brewery_brand: "alameda-island.png"
 brand: "Kentucky Uncommon"
 type: "Amber"
