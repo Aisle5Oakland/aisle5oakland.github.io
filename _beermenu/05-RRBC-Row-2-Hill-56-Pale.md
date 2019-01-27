@@ -1,0 +1,26 @@
+---
+brewery: "Russian River Brew Co."
+location: "Santa Rosa, Ca"
+brewery_brand: "russian-river.png"
+brand: "Row 2 Hill 56 Pale Ale"
+type: "Pale Ale"
+glass: "pint.png"
+alcohol: "5.8%"
+ibu: "NA"
+tap_order: "117"
+price: "8"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "100% Simcoe hops make up this beer from start to finish! It is named for the location in the experimental hop yard in Yakima, WA, where it was first created."
+---
+
