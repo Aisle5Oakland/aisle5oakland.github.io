@@ -1,0 +1,26 @@
+---
+brewery: "Barebottle"
+location: "SF, Ca"
+brewery_brand: "bare-bottle.png"
+brand: "Thicc Mints"
+type: "Porter"
+glass: "tulip.png"
+alcohol: "5.7%"
+ibu: "NA"
+tap_order: "109"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: "True"
+ - is_fruity: " "
+long_desc: "A thin mint cookie-inspired nitro Porter, but with a full bodied flavor from a high mash temperature and lots of residual sweetness blended with that telltale mint cookie charm."
+---
+
