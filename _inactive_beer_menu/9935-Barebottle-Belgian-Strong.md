@@ -1,4 +1,4 @@
-Ôªø---
+---
 brewery: "Barebottle"
 location: "SF, Ca"
 brewery_brand: "bare-bottle.png"
@@ -21,6 +21,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: "True"
-long_desc: "nspired by Belgium‚Äôs two most famous exports: Trappist Beer and the ‚ÄúMuscles from Brussels‚Äù. Light citrus perfumey aromas hide a deceptively high ABV."
+long_desc: "nspired by Belgiumís two most famous exports: Trappist Beer and the ìMuscles from Brusselsî. Light citrus perfumey aromas hide a deceptively high ABV."
 ---
-

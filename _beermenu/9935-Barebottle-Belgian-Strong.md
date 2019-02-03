@@ -1,0 +1,26 @@
+---
+brewery: "Barebottle"
+location: "SF, Ca"
+brewery_brand: "bare-bottle.png"
+brand: "Belgian Strong Ale"
+type: "Belgian"
+glass: "tulip.png"
+alcohol: "9.4%"
+ibu: "NA"
+tap_order: "114"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: "True"
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: "True"
+long_desc: "Inspired by Belgium’s two most famous exports: Trappist Beer and the Muscles from Brussels. Light citrus perfumey aromas hide a deceptively high ABV."
+---
+
