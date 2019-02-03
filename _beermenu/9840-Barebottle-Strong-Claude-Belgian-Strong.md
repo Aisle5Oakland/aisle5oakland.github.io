@@ -1,4 +1,4 @@
----
+﻿---
 brewery: "Barebottle"
 location: "SF, Ca"
 brewery_brand: "bare-bottle.png"
@@ -7,7 +7,7 @@ type: "Belgian"
 glass: "tulip.png"
 alcohol: "9.4%"
 ibu: "NA"
-tap_order: "103"
+tap_order: "114"
 price: "8"
 flavor_profile:
  - is_bitter: " "
