@@ -2,7 +2,7 @@
 brewery: "Barebottle"
 location: "SF, Ca"
 brewery_brand: "bare-bottle.png"
-brand: "Thicc Mints"
+brand: "Thicc Mints (Nitro)"
 type: "Porter"
 glass: "tulip.png"
 alcohol: "5.7%"

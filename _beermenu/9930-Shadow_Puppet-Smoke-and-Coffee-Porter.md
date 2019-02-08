@@ -1,14 +1,14 @@
 ---
 brewery: "Shadow Puppet"
-brand: "Smoke & Coffee Break (Nitro)"
-type: "Imperial Stout"
+brand: "Smoke & Coffee Break"
+type: "Porter"
 location: "Livermore, Ca"
 glass: "snifter.png"
 brewery_brand: "shadow-puppet.png"
 alcohol: "8.1%"
 ibu: "NA"
-tap_order: "109"
-price: "6"
+tap_order: "120"
+price: "7"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
