@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Brother Kevin IPA"
+type: "IPA"
+glass: "pint.png"
+alcohol: "6.6%"
+ibu: "NA"
+tap_order: "118"
+price: "8"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Brother Kevin is a West Coast IPA bursting with notes of pine and passionfruit! Brewed with malt from Admiral Maltings and a Strata and Citra hop blend."
+---
+

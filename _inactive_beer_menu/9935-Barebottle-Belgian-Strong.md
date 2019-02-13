@@ -21,5 +21,6 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: "True"
-long_desc: "nspired by Belgium’s two most famous exports: Trappist Beer and the “Muscles from Brussels”. Light citrus perfumey aromas hide a deceptively high ABV."
+long_desc: "Inspired by Belgiumâ€™s two most famous exports: Trappist Beer and the Muscles from Brussels. Light citrus perfumey aromas hide a deceptively high ABV."
 ---
+
