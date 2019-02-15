@@ -8,7 +8,7 @@ brewery_brand: "ghost-town-brewing.jpg"
 alcohol: "5.3%"
 ibu: "NA"
 tap_order: "110"
-price: "8"
+price: "7"
 flavor_profile:
  - is_bitter: " "
  - is_strong: " "
