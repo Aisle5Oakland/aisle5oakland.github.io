@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Tiki Tiki Kettle Sour"
+type: "Sour"
+glass: "snifter.png"
+alcohol: "6.8%"
+ibu: "NA"
+tap_order: "101"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: "True"
+ - is_fruity: "True"
+long_desc: "Visit the tropics with this fruity sour ale featuring an assortment of tropical fruit - guava, mango, pineapple, orange, and coconut. The addition of lactose makes for a well-balanced and delicious beer that pairs perfectly with a tiny umbrella."
+---
+
