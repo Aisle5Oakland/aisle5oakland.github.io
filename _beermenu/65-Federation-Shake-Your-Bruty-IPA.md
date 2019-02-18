@@ -2,7 +2,7 @@
 brewery: "Federation"
 location: "Oakland, Ca"
 brewery_brand: "federation.png"
-brand: "Shake your Booty IPA"
+brand: "Shake your Bruty IPA"
 type: "IPA"
 glass: "pint.png"
 alcohol: "6.3%"
