@@ -1,0 +1,23 @@
+---
+brewery: "Epidemic Brewing"
+location: "Concord, Ca"
+brewery_brand: "epidemic-ales.png"
+brand: "2Shawnze Hazy DIPA"
+type: "DIPA"
+glass: "tulip.png"
+alcohol: "9.8%"
+ibu: "NA"
+tap_order: "108"
+price: "8"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+long_desc: "Collaboration with Sonoma Springs."
+---
