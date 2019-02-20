@@ -7,7 +7,7 @@ type: "Cider"
 glass: "snifter.png"
 alcohol: "6.9%"
 ibu: "NA"
-tap_order: "114"
+tap_order: "103"
 price: "8"
 flavor_profile:
  - is_bitter: " "

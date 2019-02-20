@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Sloe Trip Tripel"
+type: "Belgian"
+glass: "tulip.png"
+alcohol: "9%"
+ibu: "NA"
+tap_order: "116"
+price: "6"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Aged for 11 months in sloe gin barrels, our Third Circle Belgian tripel has prominent notes of sloe berries, juniper and herbal gin character."
+---
+
