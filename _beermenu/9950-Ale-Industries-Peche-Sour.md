@@ -1,0 +1,25 @@
+---
+brewery: "Ale Industries"
+location: "Oakland, Ca"
+brewery_brand: "ale-industries.png"
+brand: "Peche Sour"
+type: "Sour"
+glass: "pint.png"
+alcohol: "5.5%"
+ibu: "NA"
+tap_order: "119"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: "True"
+ - is_fruity: " "
+long_desc: "Blonde ale aged in chardonnay oak barrels for 20 months with brettanomyces and peaches. Aromatic white peach comes off subtly on the nose, but is assertive and almost juicy in flavor. Pleasantly effervescent with bright acidity is balanced by hints of vanilla and oak from the
+barrels."
+---
