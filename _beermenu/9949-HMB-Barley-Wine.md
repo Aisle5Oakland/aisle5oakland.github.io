@@ -7,7 +7,7 @@ type: "Barley Wine"
 glass: "tulip.png"
 alcohol: "14%"
 ibu: "NA"
-tap_order: "113"
+tap_order: "107"
 price: "10"
 flavor_profile:
  - is_bitter: " "

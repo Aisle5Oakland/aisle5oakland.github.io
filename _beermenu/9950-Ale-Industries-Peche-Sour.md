@@ -7,7 +7,7 @@ type: "Sour"
 glass: "pint.png"
 alcohol: "5.5%"
 ibu: "NA"
-tap_order: "119"
+tap_order: "104"
 price: "8"
 flavor_profile:
  - is_bitter: " "
