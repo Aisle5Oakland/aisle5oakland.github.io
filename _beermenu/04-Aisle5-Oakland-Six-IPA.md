@@ -7,7 +7,7 @@ type: "IPA"
 glass: "pint.png"
 alcohol: "6.7%"
 ibu: "59"
-tap_order: "120"
+tap_order: "114"
 price: "7"
 flavor_profile:
  - is_bitter: "True"
