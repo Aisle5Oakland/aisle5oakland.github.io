@@ -1,0 +1,26 @@
+---
+brewery: "Russian River Brew Co."
+location: "Santa Rosa, Ca"
+brewery_brand: "russian-river.png"
+brand: "Blind Pig IPA"
+type: "IPA"
+glass: "pint.png"
+alcohol: "6.3%"
+ibu: "NA"
+tap_order: "117"
+price: "8"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Full-bodied, very hoppy, with citrus, pine, fruity notes and a nice dry, bitter finish!"
+---
+
