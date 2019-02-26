@@ -1,0 +1,26 @@
+---
+brewery: "Barebottle"
+location: "SF, Ca"
+brewery_brand: "bare-bottle.png"
+brand: "Monsters Ink Imperial Stout (Nitro)"
+type: "Stout"
+glass: "tulip.png"
+alcohol: "7.9%"
+ibu: "NA"
+tap_order: "110"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: "True"
+ - is_sweet: ""
+ - is_light_crisp: " "
+ - is_creamy: "True"
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: "True"
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "It might look dark and imposing, but with Viking Cookie Malt and Flaked Oats you can be assured Monsters Ink is fluffy, smooth, and perfect for you and your Boo."
+---
+
