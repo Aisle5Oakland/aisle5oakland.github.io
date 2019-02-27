@@ -2,7 +2,7 @@
 brewery: "Aisle 5 Brewing"
 location: "Oakland, Ca"
 brewery_brand: "aisle-5.png"
-brand: "Oakland Hazy Triple IPA"
+brand: "Oakland Triple IPA"
 type: "TIPA"
 glass: "snifter.png"
 alcohol: "11%"
