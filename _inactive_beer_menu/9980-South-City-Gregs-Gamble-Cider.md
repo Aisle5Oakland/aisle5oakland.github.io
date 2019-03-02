@@ -1,13 +1,13 @@
 ---
-brewery: "South City Cider Co."
-brand: "Greg's Gamble"
-type: "Cider"
+brewery: "South City"
 location: "San Bruno, CA"
-glass: "snifter.png"
 brewery_brand: "south-city-cider.png"
-alcohol: "6.2%"
+brand: "Greg's Gamble Cider"
+type: "Cider"
+glass: "snifter.png"
+alcohol: "6.5%"
 ibu: "NA"
-tap_order: "118"
+tap_order: "103"
 price: "8"
 flavor_profile:
  - is_bitter: " "
@@ -22,5 +22,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: " "
  - is_fruity: "True"
-long_desc: "'I was winging it at every state.' - Greg (Head cider maker)."
+long_desc: "An experimental small-batch cider. Our first unfiltered cider fermented with a Nordic kviek yeast and rested on light-roast American oak. Though has no residual sugar, this cider has a fruity body with notes of melon and stone fruit."
 ---
