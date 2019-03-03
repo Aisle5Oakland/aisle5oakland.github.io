@@ -7,7 +7,7 @@ type: "Amber"
 glass: "pint.png"
 alcohol: "5.0%"
 ibu: "20"
-tap_order: "104"
+tap_order: "120"
 price: "7"
 flavor_profile:
  - is_bitter: " "
