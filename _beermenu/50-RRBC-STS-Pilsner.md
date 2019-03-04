@@ -1,0 +1,26 @@
+---
+brewery: "Russian River Brew Co."
+location: "Santa Rosa, Ca"
+brewery_brand: "russian-river.png"
+brand: "STS Pilsner"
+type: "Pilsner"
+glass: "pilsner.png"
+alcohol: "6.5%"
+ibu: "NA"
+tap_order: "112"
+price: "7"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "STS Pils is a classic European style Pilsner. It is straw in color and often times will have a slight haze due to the fact that it is unfiltered. STS Pils is a hop forward pilsner with a mild malt foundation, strong lager yeast characteristic, and a dry, bitter finish."
+---
+
