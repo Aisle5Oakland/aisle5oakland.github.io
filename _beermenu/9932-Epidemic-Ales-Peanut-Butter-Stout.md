@@ -2,7 +2,7 @@
 brewery: "Epidemic Ales"
 location: "Concord, Ca"
 brewery_brand: "epidemic-ales.png"
-brand: "Peanut Butter Stout"
+brand: "Nutty But Nice Stout"
 type: "Stout"
 glass: "snifter.png"
 alcohol: "8.5%"
