@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Brother Aaron Hazy IPA"
+type: "IPA"
+glass: "snifter.png"
+alcohol: "6.8%"
+ibu: "NA"
+tap_order: "108"
+price: "8"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Dry-hopped with Strata, Mosaic and Meridan, Aaron is straw in color and completely opaque. Tropical fruit aroma and flavors of orange and mango blend with a balanced hop bitterness."
+---
+
