@@ -1,12 +1,12 @@
 ---
-brand: "Ghost Town Pillory Sour"
+brand: "Pitiless in Pink Sour"
 type: "IPA"
 location: "Oakland, Ca"
 brewery_brand: "ghost-town-brewing.jpg"
 type: "Sour"
 glass: "snifter.png"
 alcohol: "5.1%"
-ibu: "7"
+ibu: "8"
 tap_order: "101"
 price: "8"
 flavor_profile:
@@ -21,5 +21,5 @@ flavor_profile:
  - is_malty: " "
  - is_sour: "True"
  - is_fruity: "True"
-long_desc: "Features Lactobacillus brevis, pineapple, coconut, and lactose"
+long_desc: "Using pink guava and raspberry resulting in a mildly tart and pleasantly fruity ale that’s refreshing and crushable."
 ---
