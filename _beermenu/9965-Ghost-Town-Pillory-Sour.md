@@ -1,8 +1,9 @@
 ---
-brand: "Pitiless in Pink Sour"
-type: "IPA"
+brewery: "Ghost Town"
 location: "Oakland, Ca"
 brewery_brand: "ghost-town-brewing.jpg"
+brand: "Pitiless in Pink Sour"
+type: "IPA"
 type: "Sour"
 glass: "snifter.png"
 alcohol: "5.1%"
