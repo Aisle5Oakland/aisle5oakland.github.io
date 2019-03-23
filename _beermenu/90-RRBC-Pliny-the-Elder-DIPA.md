@@ -1,0 +1,26 @@
+---
+brewery: "Russian River Brew Co."
+location: "Santa Rosa, Ca"
+brewery_brand: "russian-river.png"
+brand: "Pliny the Elder DIPA"
+type: "DIPA"
+glass: "pint.png"
+alcohol: "8.0%"
+ibu: "NA"
+tap_order: "113"
+price: "8"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: "True"
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Pliny the Elder is brewed with Amarillo, Centennial, CTZ, and Simcoe hops. It is well-balanced with malt, hops, and alcohol, slightly bitter with a fresh hop aroma of floral, citrus, and pine."
+---
+
