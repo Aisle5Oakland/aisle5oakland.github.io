@@ -7,7 +7,7 @@ type: "Pilsner"
 glass: "pilsner.png"
 alcohol: "5.4%"
 ibu: "NA"
-tap_order: "112"
+tap_order: "107"
 price: "7"
 flavor_profile:
  - is_bitter: "True"
