@@ -2,7 +2,7 @@
 brewery: "Henhouse Brewing"
 location: "Petaluma, Ca"
 brewery_brand: "henhouse.png"
-brand: "Henhouse Saison"
+brand: "Saison"
 type: "Saison"
 glass: "pilsner.png"
 alcohol: "5.5%"
