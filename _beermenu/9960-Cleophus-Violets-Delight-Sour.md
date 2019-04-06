@@ -7,7 +7,7 @@ type: "Sour"
 glass: "tulip.png"
 alcohol: "4.8%"
 ibu: "NA"
-tap_order: "104"
+tap_order: "101"
 price: "8"
 flavor_profile:
  - is_bitter: " "
