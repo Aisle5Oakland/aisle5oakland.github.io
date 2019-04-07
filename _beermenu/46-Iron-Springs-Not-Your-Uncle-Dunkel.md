@@ -7,7 +7,7 @@ type: "Dunkel"
 glass: "pilsner.png"
 alcohol: "5.6%"
 ibu: "NA"
-tap_order: "116"
+tap_order: "120"
 price: "7"
 flavor_profile:
  - is_bitter: " "
