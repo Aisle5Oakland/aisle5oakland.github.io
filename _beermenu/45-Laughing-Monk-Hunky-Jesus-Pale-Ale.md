@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Hunky Jesus Pale Ale"
+type: "Pale Ale"
+glass: "pint.png"
+alcohol: "5.5%"
+ibu: "NA"
+tap_order: "117"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Pale ale with blood orange. Brewed in honor of the Sisters' of Perpetual Indulgence, nothing can ever do them justice."
+---
+
