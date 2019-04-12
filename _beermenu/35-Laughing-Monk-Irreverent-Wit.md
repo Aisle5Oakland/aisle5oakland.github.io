@@ -1,0 +1,26 @@
+---
+brewery: "Laughing Monk"
+location: "SF, Ca"
+brewery_brand: "laughing-monk.png"
+brand: "Irreverent Wit"
+type: "White Ale"
+glass: "pilsner.png"
+alcohol: "5.3%"
+ibu: "NA"
+tap_order: "115"
+price: "7"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: " "
+ - is_light_crisp: "True"
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: "True"
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "A light, yet cloudy, Belgian White Ale with aromas of citrus and light spice. Flavors of banana and bread move over the palate and finish with a dry yeast character. Lingering finish with notes of light spice and bread."
+---
+
