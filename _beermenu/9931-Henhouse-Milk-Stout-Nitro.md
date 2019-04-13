@@ -2,7 +2,7 @@
 brewery: "Henhouse Brewing"
 location: "Petaluma, Ca"
 brewery_brand: "henhouse.png"
-brand: "Milk Stout Nitro"
+brand: "Milk Stout (Nitro)"
 type: "Stout"
 glass: "tulip.png"
 alcohol: "6.2%"
