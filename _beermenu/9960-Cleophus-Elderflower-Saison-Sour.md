@@ -1,0 +1,26 @@
+---
+brewery: "Cleophus Quealy"
+location: "San Leandro, Ca"
+brewery_brand: "cleophus.png"
+brand: "Elderflower Saison Sour"
+type: "Sour"
+glass: "tulip.png"
+alcohol: "5.9%"
+ibu: "15"
+tap_order: "101"
+price: "8"
+flavor_profile:
+ - is_bitter: " "
+ - is_strong: " "
+ - is_sweet: "True"
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: " "
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: "True"
+ - is_fruity: "True"
+long_desc: "Barrel-aged farmhouse ale with elderflower and Sorachi Ace hops
+Tasting notes: Mandarin, dill, jasmine"
+---
