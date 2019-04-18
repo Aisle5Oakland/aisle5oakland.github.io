@@ -1,0 +1,26 @@
+---
+brewery: "Ghost Town"
+location: "Oakland, Ca"
+brewery_brand: "ghost-town-brewing.jpg"
+brand: "Dungeon Slurry IPA"
+type: "IPA"
+glass: "pint.png"
+alcohol: "6.7%"
+ibu: "50"
+tap_order: "106"
+price: "8"
+flavor_profile:
+ - is_bitter: "True"
+ - is_strong: "True"
+ - is_sweet: " "
+ - is_light_crisp: " "
+ - is_creamy: " "
+ - is_hoppy: " "
+ - is_extra_hoppy: "True"
+ - is_light: " "
+ - is_malty: " "
+ - is_sour: " "
+ - is_fruity: " "
+long_desc: "Features: Barbarian yeast, Mosaic, Amarillo, Centennial hops
+Notes: Meyer lemon, mango, raspberry, rosemary"
+---
